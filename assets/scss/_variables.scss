@@ -1,0 +1,47 @@
+@import "../fonts/stylesheet.css";
+@import url('https://rsms.me/inter/inter-ui.css');
+
+@mixin titrePage{
+	font-family: "petitemort", serif;
+	font-size: 2.3em;
+	text-transform: uppercase;
+	letter-spacing: 0.09em;
+	margin-top:0;
+}
+
+@mixin texteMoyen{
+	font-family: 'Inter UI', sans-serif;
+	font-size: 1.2em;
+	line-height: 140%;
+}
+
+@mixin h1{
+	font-family: 'Inter UI', sans-serif;
+	font-size: 2.3em;
+	font-weight: 500;
+}
+
+
+@mixin h3{
+	font-family: 'Inter UI', sans-serif;
+	font-size: 1.2em;
+	line-height: 140%;
+	font-weight: bold;
+}
+
+@mixin h4{
+	font-family: 'Inter UI', sans-serif;
+	font-size: 1.2em;
+	color: red;
+	text-decoration: underline;
+	margin-bottom:0;
+}
+
+@mixin h2Ecole{
+	font-family: 'Inter UI', sans-serif;
+	color: red;
+	font-size: 1.6em;
+	font-weight: 500;
+	text-transform:none;
+}
+

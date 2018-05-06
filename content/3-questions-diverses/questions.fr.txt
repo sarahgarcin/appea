@@ -1,0 +1,39 @@
+Title: Questions diverses
+
+----
+
+Questions: 
+
+- 
+  title: >
+    Comment intégrer une classe
+    préparatoire ?
+  text: |
+    Les classes préparatoires publiques sont accessibles sur examen d’entrée. Selon les écoles, il se déroule de mars à juin et chacune en définit les particularités. Dans la plupart des cas, il s’agit d’un entretien avec un jury auquel le candidat présente quelques travaux montrant le début de son intérêt dans une pratique artistique. Le but de cet entretien est de sonder sa motivation, sa curiosité pour l’art et la culture, le projet qu’il commence à formuler dans le domaine de la création entre art et design. Dans certaines classes, une épreuve de présélection ou des épreuves complémentaires à l’entretien peuvent être ajoutées.
+    Le livret scolaire et le relevé de notes du bac ne sont pas demandés.
+    L’inscription à l’examen d’entrée se fait directement auprès de la classe préparatoire, hors *Parcoursup*.
+- 
+  title: >
+    À qui s’adressent les classes
+    préparatoires publiques ?
+  text: |
+    Les classes préparatoires publiques peuvent accompagner :
+    * les élèves attirés par le champ de la création (art, design, architecture) qui ont commencé par eux-mêmes quelques expérimentations – mêmes modestes – sans avoir suivi d’option arts plastiques, de filière arts appliqués au lycée ou d’ateliers d’arts plastiques parallèlement à leur scolarité ;
+    * les élèves qui ont suivi une option arts plastiques ou une formation STD2A au lycée mais ne se sentent pas à la hauteur des exigences d’une école supérieures d’art ou souhaitent prendre le temps de choisir celle qui conviendra à leur profil et à leur projet ;
+    * les étudiants déjà engagés dans un cursus d’études supérieures qui souhaitent se réorienter vers les écoles supérieures d’art et de design ou d’architecture. Dans le cas d’un cursus dans un domaine proche des arts plastiques (architecture, théâtre, cinéma, etc.), il est possible d’envisager une intégration en année 2 ou 3 d’une école supérieure d’art ;
+    * les personnes qui ont engagé un parcours professionnel avant le lycée ou depuis le bac et qui souhaiteraient reprendre un cycle d’études supérieures en art. Dans ce cas, des dérogations sont possibles pour celles et ceux qui n’ont pas le bac.
+- 
+  title: >
+    Qu’est-ce que la filière dite des «
+    beaux-arts » et la filière dite des
+    « arts appliqués » ?
+  text: |
+    Il existe en France deux filières publiques d’enseignement artistique supérieur qui conduisent chacune à des diplômes distincts.
+    
+    L’une, issue de ce qu’on appelle les « beaux-arts », s’organise au sein de 57 écoles supérieures d’art et de design qui délivrent, sous la tutelle du ministère de la Culture, un Diplôme nationale d’art (DNA, grade Licence, bac+3) et un Diplôme national supérieur d’expression plastique (DNSEP, grade Master 2, bac+5). À partir de la deuxième année, plusieurs spécialités sont proposées, selon les établissements, dans un ou plusieurs de ces domaines : art, communication et design (d’objet, d’espace et graphique).
+    Les 20 classes préparatoires publiques du réseau de l’APPÉA préparent à l’ensemble de ces écoles et à leurs homologues européennes. Elles sont accessibles à tous les bacs et permettent à leurs étudiants, par agrément du ministère de la Culture, d’avoir accès aux bourses, à la sécurité sociale et aux logements des CROUS.
+    
+    L’autre filière, dite des « arts appliqués », plus récente, se déploie au sein de deux types d’établissements sous la tutelle du ministère de l’Éducation nationale : 7 écoles supérieures d’arts appliqués (ESAA) et plusieurs lycées. La réforme de cette filière est en cours et prendre en effet dès la rentrée 2018 ou à la rentrée 2019 selon les académies.
+    Le Brevet de technicien supérieur d’arts appliqués (BTS, bac+2) devient Diplôme national des métiers d’art et de design (DNMAD, bac+3). Certaines ESAA proposent des Diplômes supérieurs d’arts appliqués (DSA, bac+5).
+    Cette filière est réservée en priorité aux élèves titulaires d’un bac STD2A. Les titulaires des autres bacs doivent passer par une année de Mise à niveau en arts appliqués (MAANA) au sein de certaines ESAA et lycées qui proposent des BTS d’arts appliqués.
+    Cependant, dans le cadre d’une réforme en cours, les MAANA seront supprimées à la rentrée 2019-2020 (et dès la rentrée 2018-2019 dans certaines Académies). Les BTS et les DMA s’effectueront en 3 ans et auront le grade de Licence. Le détail des modalités d’accès à ces nouvelles formations ne sont pas encore connus.

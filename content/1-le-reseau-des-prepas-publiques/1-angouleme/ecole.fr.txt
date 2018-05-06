@@ -1,0 +1,37 @@
+Title: Angoulême
+
+----
+
+Shortname: Angoulême
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 
+
+----
+
+Positionleft: 60
+
+----
+
+Positiontop: 190

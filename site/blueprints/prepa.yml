@@ -1,0 +1,11 @@
+title: Le réseau des prépas publiques
+pages: ecole
+files: true
+fields:
+  title:
+    label: Titre
+    type:  text
+  text:
+    label: Texte
+    type:  markdown
+

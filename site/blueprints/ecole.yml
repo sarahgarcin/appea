@@ -1,0 +1,38 @@
+title: École
+pages: false
+files: true
+fields:
+  title:
+    label: Titre
+    type:  text
+  shortname:
+    label: Nom à afficher dans la liste
+    type:  text
+  positionLeft:
+    label: Position en x sur la carte
+    type: text
+    width: 1/2
+  positionTop:
+    label: Position en y sur la carte
+    type: text
+    width: 1/2
+  adresse:
+    label: Infos adresse
+    type:  markdown
+  infos:
+    label: Infos école
+    type:  markdown
+  calendrier:
+    label: Calendrier
+    type:  markdown
+  enseignement:
+    label: Pédagogie/enseignement
+    type:  markdown
+  equipement:
+    label: Équipement
+    type:  markdown
+  temoignage:
+    label: Témoignage
+    type:  markdown
+
+

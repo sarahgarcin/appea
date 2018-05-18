@@ -1,0 +1,27 @@
+title: Visuels disponibles
+pages: false
+files: 
+  fields: 
+    text:
+      label: Légende
+      type: markdown
+
+fields:
+  title:
+    label: Titre
+    type:  text
+  zip: 
+    label: Zip des visuels à télécharger
+    type: selector
+    mode: single
+    types: 
+      - archive
+    help: Sélectionner ici le zip contenant tous les visuels à télécharger
+  visuels:
+    label: Sélectionner les visuels
+    type: selector
+    mode: multiple
+    types:
+      - image
+    help: Sélectionner les images qui s'afficheront dans une grille sur cette page. <br>Ne pas oublier d'ajouter les légendes si besoin, en cliquant sur l'image et en remplissant le champ légende sur la droite. 
+

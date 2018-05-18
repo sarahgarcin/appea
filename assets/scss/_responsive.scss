@@ -1,0 +1,108 @@
+@media only screen and (max-width: 700px){
+	$lineWidth: 2px;
+	$lineLength: 25px;
+	$baseMargin: 8px;
+	$animationDuration: .2s;
+
+	.hide-for-small-only{
+		display:none;
+	}
+	.show-for-small-only{
+		display:flex;
+	}
+	.module-menu-ecole{
+		padding-top: 0;
+		padding-left: 10%;
+		h3{
+			margin-top:0;
+		}
+	}
+
+	.menu {
+	  //display: block;
+	  // width: 0px;
+	  max-height: 0px;
+	  overflow: hidden;
+	  // padding-top: 50px;
+	  transition-duration: $animationDuration;
+	  transition-delay: $animationDuration;
+	}
+
+	.menuicon {
+	  position: absolute;
+	  top: 0px;
+	  left: 0px;
+	  display: block;
+	  cursor: pointer;
+	  height: $baseMargin*2 + $lineWidth;
+	  width: $lineLength;
+	  span {
+	    display: block;
+	    top: $baseMargin;
+	    width: $lineLength;
+	    height: $lineWidth;
+	    background-color: #000;
+	    position: relative;
+	    transition-duration: 0;  
+	    transition-delay: $animationDuration;
+	    &::after, &::before {
+	      display: block;
+	      content: '';
+	      position: absolute;
+	      width: $lineLength;
+	      height: $lineWidth;
+	      background-color: #000;
+	      -webkit-transition-property: margin, -webkit-transform;
+	      -webkit-transition-duration: $animationDuration;
+	      -moz-transition-duration: $animationDuration;
+	      -ms-transition-duration: $animationDuration;
+	      -o-transition-duration: $animationDuration;
+	      transition-duration: $animationDuration;
+	      -webkit-transition-delay: $animationDuration, 0;
+	      -moz-transition-delay: $animationDuration, 0;
+	      -ms-transition-delay: $animationDuration, 0;
+	      -o-transition-delay: $animationDuration, 0;
+	      transition-delay: $animationDuration, 0;
+	    }
+	    &::before {
+	      margin-top: -$baseMargin;
+	    }
+	    &::after {
+	      margin-top: $baseMargin;
+	    }
+	  }
+	}
+
+	#hamburger:checked ~ .menu {
+	  height: auto;
+	  max-height: 500px
+	}
+
+	#hamburger:checked ~ .menuicon {
+	  span {
+	    background-color: rgba(0,0,0,0);
+	    &::before, &::after {
+	      margin-top: 0px;
+	      -webkit-transition-delay: 0, $animationDuration;
+	      -moz-transition-delay: 0, $animationDuration;
+	      -ms-transition-delay: 0, $animationDuration;
+	      -o-transition-delay: 0, $animationDuration;
+	      transition-delay: 0, $animationDuration;
+	    }
+	    &::before {
+	      -webkit-transform: rotate(45deg);
+	      -moz-transform: rotate(45deg);
+	      -ms-transform: rotate(45deg);
+	      -o-transform: rotate(45deg);
+	      transform: rotate(45deg);
+	    }
+	    &::after {
+	      -webkit-transform: rotate(-45deg);
+	      -moz-transform: rotate(-45deg);
+	      -ms-transform: rotate(-45deg);
+	      -o-transform: rotate(-45deg);
+	      transform: rotate(-45deg);
+	    }
+	  }
+	}
+}

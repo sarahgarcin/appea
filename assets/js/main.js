@@ -105,6 +105,44 @@ function init(){
 		}
 	});
 
+	if($('body[data-template="error"]')){
+		window.addEventListener("keydown", function(e) {
+		    // space and arrow keys
+		    if([32, 37, 38, 39, 40].indexOf(e.keyCode) > -1) {
+		        e.preventDefault();
+		    }
+		}, false);
+	}
+
+	if($('body').attr('data-template') == 'error'){
+		window.onload = function () {
+			var pong = new Pong(document.getElementById('pong'));
+
+			function resize () {
+				var gameHeight = '500px';
+				document.getElementById('pong').style.height = gameHeight;
+
+				pong.resize();
+			}
+
+			resize();
+			window.onresize = resize;
+
+			pong.players.a.addControls({
+				'up': 'up',
+				'down': 'down',
+			});
+
+			pong.on('update', function () {
+				if (pong.players.b.y < pong.balls[0].y) {
+					pong.players.b.move(1);
+				} else if (pong.players.b.y > pong.balls[0].y) {
+					pong.players.b.move(-1);
+				}
+			});
+		};
+	}
+
 
 }
 

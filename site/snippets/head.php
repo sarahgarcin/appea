@@ -10,9 +10,9 @@
 
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
 
-  <?php echo css('bower_components/slick-carousel/slick/slick.css') ?>
-  <?php echo css('bower_components/slick-carousel/slick/slick-theme.css') ?>
-  <?php echo css('bower_components/flexboxgrid/dist/flexboxgrid.min.css') ?>
+  <?php echo css('bower_components/photoswipe/dist/photoswipe.css') ?>
+  <?php echo css('bower_components/photoswipe/dist/default-skin/default-skin.css') ?>
+   <?php echo css('bower_components/flexboxgrid/dist/flexboxgrid.min.css') ?>
   <?php echo css('assets/css/normalize.css') ?>
   <?php echo css('assets/css/main.css') ?>
 

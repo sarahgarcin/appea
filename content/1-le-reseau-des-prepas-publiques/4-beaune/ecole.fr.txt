@@ -1,0 +1,37 @@
+Title: Beaune
+
+----
+
+Shortname: Beaune
+
+----
+
+Positionleft: 200
+
+----
+
+Positiontop: 150
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 

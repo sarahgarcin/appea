@@ -1,0 +1,37 @@
+Title: Belfort
+
+----
+
+Shortname: Belfort
+
+----
+
+Positionleft: 230
+
+----
+
+Positiontop: 120
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 

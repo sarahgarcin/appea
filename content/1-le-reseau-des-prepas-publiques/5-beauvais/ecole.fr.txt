@@ -1,0 +1,37 @@
+Title: Beauvais
+
+----
+
+Shortname: Beauvais
+
+----
+
+Positionleft: 120
+
+----
+
+Positiontop: 60
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 

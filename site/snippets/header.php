@@ -1,6 +1,10 @@
 <header class="module-menu">
+	<input type="checkbox" id="hamburger"/>
+	<label class="menuicon" for="hamburger">
+	  <span></span>
+	</label>
 	<ul class="menu">
-		<?php foreach($pages->visible()->slice(3,4) as $el):?>
+		<?php foreach($pages->visible()->slice(3,5) as $el):?>
 			<?php if($el->hasVisibleChildren()):
 				$link = "#";
 				else:
@@ -14,9 +18,17 @@
 						<ul class="submenu">
 							<?php foreach($el->children()->visible() as $child):?>
 								<li <?php e($child->isOpen(), ' class="active"') ?>>
-									<a href="<?php echo $child->url()?>" title="<?php echo $child->title()?>">
-										<?php echo $child->title()->html()?>
-									</a>
+									<?php if($child->intendedTemplate() == "pdf"):?>
+										<?php if($child->pdf()->isNotEmpty()):?>
+											<a href="<?php echo $child->pdf()->toFile()->url()?>" title="<?php echo $child->title()?>" target="_blank">
+												<?php echo $child->title()->html()?>
+											</a>
+										<?php endif; ?>
+									<?php else: ?>
+										<a href="<?php echo $child->url()?>" title="<?php echo $child->title()?>">
+											<?php echo $child->title()->html()?>
+										</a>
+									<?php endif?>
 								</li>
 							<?php endforeach ?>
 						</ul>

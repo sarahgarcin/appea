@@ -80,3 +80,7 @@ Positionleft: 40
 ----
 
 Positiontop: 60
+
+----
+
+Cover: 52-2f3630cb25.jpg

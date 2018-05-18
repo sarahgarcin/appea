@@ -1,0 +1,37 @@
+Title: Calais
+
+----
+
+Shortname: Calais
+
+----
+
+Positionleft: 120
+
+----
+
+Positiontop: 10
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 

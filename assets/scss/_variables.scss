@@ -1,5 +1,5 @@
 @import "../fonts/stylesheet.css";
-@import url('https://rsms.me/inter/inter-ui.css');
+// @import url('https://rsms.me/inter/inter-ui.css');
 
 @mixin titrePage{
 	font-family: "petitemort", serif;
@@ -7,6 +7,7 @@
 	text-transform: uppercase;
 	letter-spacing: 0.09em;
 	margin-top:0;
+	font-weight: normal;
 }
 
 @mixin texteMoyen{

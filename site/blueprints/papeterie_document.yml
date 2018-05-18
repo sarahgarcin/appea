@@ -1,0 +1,93 @@
+title:
+  en: Document
+  pl: Dokument
+  fr: Document
+pages: false
+files: true
+options:
+  preview: true
+  status: false
+  template: false
+  url: true
+fields:
+
+  title:
+    label:
+      en: Title
+      fr: Title
+    type:  text
+    
+  date:
+    label:
+      en: Date of last edit
+      pl: Data edycji
+      fr: Date d’édition
+    type: date
+    default: today
+    width: 2/4
+    format: DD/MM/YYYY
+    help:
+      en: Only for internal use, so the documents are sorted chronologically.
+      fr: Utilisée uniquement côté panel pour organiser les documents
+
+  shareable:
+    label:
+      en: External access
+      fr: Permettre l’accès extérieur
+    type: checkbox
+    width: 2/4
+    help:
+      en: If you check this, everyone with a link address to the document will be able to view it. If you leave this unchecked, only logged users will be able to view this document.
+      fr: Si cette case est décochée, seul les personnes connectées au panel pourront accéder à ce courrier. Si cette case est cochée, les personnes qui ont l’URL pourront aussi y accéder.
+
+  headline0:
+    label:
+      en: Content of the document
+      fr: Contenu du document
+    type: headline
+
+  intitule:
+    label:
+      en: Headline
+      fr: Intitulé
+    type: markdown
+    help:
+      en: Your document will start with this headline.
+
+  text:
+    label:
+      en: Content
+      fr: Contenu
+    type: markdown
+    help:
+      en: To add a page-break, use three equals-signs, like this ===<br>To insert a table, use this generator <a href="http://www.tablesgenerator.com/markdown_tables">tablesgenerator.com/markdown_tables</a>.
+      fr: Texte du papier entête.<br>Pour écrire un titre, utiliser trois dièses et un espace en début de ligne.<br>Pour passer à la page suivante, ajouter <b>===</b> n’importe où dans le contenu.<br>Pour placer un tableau, copier le tableau de la page <em>modèle</em> ou utiliser le site suivant <span>:</span> <a href="http://www.tablesgenerator.com/markdown_tables">http://www.tablesgenerator.com/markdown_tables</a>
+
+  headline1:
+    label:
+      en: Header and footer
+      fr: Contenu de l’entête
+    type: headline
+  entetehautsite:
+    label:
+      en: Site Header
+      fr: Site internet - haut du papier en-tête
+    type: text
+
+  entetehaut:
+    label:
+      en: Header
+      fr: Haut du papier en-tête
+    type: markdown
+
+  destinataire:
+    label:
+      en: Recipient
+      fr: Destinataire
+    type: markdown
+
+  entetebas:
+    label:
+      en: Footer
+      fr: Bas du papier en-tête
+    type: markdown

@@ -30,8 +30,8 @@ Temoignage:
 
 ----
 
-Positionleft: 10
+Positionleft: 0
 
 ----
 
-Positiontop: 230
+Positiontop: 225

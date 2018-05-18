@@ -18,3 +18,19 @@ L’inscription aux examens d’entrée des classes préparatoires de l’APPÉA
 Ce site vous informe sur tous les aspects que partagent les classes préparatoires membres du réseau de l’APPÉA. Il vous permet d’accéder au site de chaque école pour en découvrir les particularités.
 
 Vous êtes un professionnel, cliquez ici pour en savoir plus sur le réseau.
+
+----
+
+Titlecalendrier: Calendrier
+
+----
+
+Titleenseignement: Enseignement
+
+----
+
+Titleequipement: Équipement
+
+----
+
+Titletemoignage: Témoignage

@@ -1,0 +1,37 @@
+Title: Cholet
+
+----
+
+Shortname: Cholet
+
+----
+
+Positionleft: 30
+
+----
+
+Positiontop: 130
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 

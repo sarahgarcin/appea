@@ -1,4 +1,4 @@
-<div class="module-menu-ecole col-xs-6 col-sm-6 col-md-4 col-lg-3">
+<!-- <div class="module-menu-ecole col-xs-6 col-sm-3 col-md-4 col-lg-3"> -->
 	<h3>Choisissez une école dans la liste ci-dessous :</h3>
 	<hr>
 	<ul class="menu-ecole">
@@ -10,4 +10,4 @@
 		</li>
 		<?php endforeach ?>
 	</ul>
-</div>
+<!-- </div> -->

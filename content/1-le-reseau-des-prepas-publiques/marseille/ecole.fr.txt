@@ -1,0 +1,37 @@
+Title: Marseille
+
+----
+
+Shortname: Marseille
+
+----
+
+Positionleft: 200
+
+----
+
+Positiontop: 260
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 

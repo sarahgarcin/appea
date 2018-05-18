@@ -1,0 +1,37 @@
+Title: Digne-Les-Bains
+
+----
+
+Shortname: Digne-Les-Bains
+
+----
+
+Positionleft: 200
+
+----
+
+Positiontop: 220
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 

@@ -75,12 +75,16 @@ Shortname: Cherbourg
 
 ----
 
-Positionleft: 40
+Positionleft: 7
 
 ----
 
-Positiontop: 60
+Positiontop: 9
 
 ----
 
 Cover: 52-2f3630cb25.jpg
+
+----
+
+Contexte: 

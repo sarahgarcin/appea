@@ -6,11 +6,11 @@ Shortname: Calais
 
 ----
 
-Positionleft: 120
+Positionleft: 20
 
 ----
 
-Positiontop: 10
+Positiontop: 2
 
 ----
 
@@ -35,3 +35,11 @@ Equipement:
 ----
 
 Temoignage: 
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

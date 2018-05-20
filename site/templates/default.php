@@ -4,7 +4,7 @@
 	<div class="show-for-small-only mobile-header">
 		<?php snippet('header') ?>	
 	</div> 
-	<div class="module-logo col-xs-5 col-sm-2 col-md-3 col-lg-3 hide-for-small-only">
+	<div class="module-logo col-xs-2 col-md-3 col-lg-3 hide-for-small-only">
 		<?php snippet('logo') ?>
 	</div>
 	<div class="show-for-small-only mobile-logo-ecole-menu row">
@@ -15,12 +15,12 @@
 			<?php snippet('menu-ecole')?>
 		</div>
 	</div> 
-	<div class="main-module col-xs-12 col-sm-12 col-md-6 col-lg-9">
+	<div class="main-module col-xs-12 col-sm-9 col-md-6 col-lg-9">
 		<div class="hide-for-small-only">
 			<?php snippet('header') ?>
 		</div>
 		<main class="row">
-			<div class="main-content col-xs-12 col-sm-12 col-md-6 col-lg-8">
+			<div class="main-content col-xs-12 col-sm-8 col-md-6 col-lg-8">
 				<div class="arrow-back">
 					<a href="<?php echo $site->url()?>" title=""><</a>
 				</div>
@@ -28,7 +28,7 @@
 				<?php echo $page->text()->kt()?>
 				<?php snippet('credits')?>
 			</div>
-			<div class="module-menu-ecole col-xs-6 col-sm-3 col-md-4 col-lg-3 hide-for-small-only">
+			<div class="module-menu-ecole col-xs-6 col-sm-4 col-md-4 col-lg-3 hide-for-small-only">
 				<?php snippet('menu-ecole')?>
 			</div>
 		</main>

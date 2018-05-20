@@ -10,7 +10,10 @@ body {
 h1 {
   font-family: 'Inter UI', sans-serif;
   font-size: 2.3em;
-  font-weight: 500; }
+  font-weight: 500;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto; }
 
 h2 {
   font-family: "petitemort", serif;
@@ -18,7 +21,10 @@ h2 {
   text-transform: uppercase;
   letter-spacing: 0.09em;
   margin-top: 0;
-  font-weight: normal; }
+  font-weight: normal;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto; }
 
 h2 {
   font-family: "petitemort", serif;
@@ -26,7 +32,10 @@ h2 {
   text-transform: uppercase;
   letter-spacing: 0.09em;
   margin-top: 0;
-  font-weight: normal; }
+  font-weight: normal;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto; }
 
 h3 {
   font-family: 'Inter UI', sans-serif;
@@ -165,7 +174,9 @@ img {
   .carte-ecoles .carte-nom-ecole {
     position: absolute;
     background: #000;
-    padding: 1px 3px; }
+    padding: 1px 3px;
+    top: 0;
+    left: 0; }
     .carte-ecoles .carte-nom-ecole .triangle {
       width: 8px;
       height: 8px;
@@ -186,7 +197,7 @@ img {
     .carte-ecoles .carte-nom-ecole a {
       color: #FFF;
       text-decoration: none;
-      font-size: 0.8vw;
+      font-size: 0.9em;
       text-transform: uppercase; }
     .carte-ecoles .carte-nom-ecole:hover {
       background: red; }
@@ -424,35 +435,53 @@ body[data-template="partenaires"] h4 {
   .menu {
     max-height: 0px;
     overflow: hidden;
-    transition-duration: 0.2s;
-    transition-delay: 0.2s; }
+    transition-duration: 0.8s;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 0.5rem; }
+    .menu li {
+      display: block;
+      font-size: 22px;
+      line-height: 120%; }
+      .menu li::after {
+        content: "";
+        padding: 0;
+        display: none; }
+      .menu li .submenu {
+        position: relative;
+        padding: 0;
+        padding-left: 40px;
+        height: 0;
+        transition: all 1s linear; }
+        .menu li .submenu.active {
+          height: auto; }
+  .empty-submenu.active {
+    height: 0; }
   .menuicon {
     position: absolute;
     top: 0px;
-    left: 0px;
+    left: 0.5rem;
     display: block;
     cursor: pointer;
     height: 18px;
-    width: 25px; }
+    width: 30px; }
     .menuicon span {
       display: block;
       top: 8px;
-      width: 25px;
+      width: 30px;
       height: 2px;
-      background-color: #000;
+      background-color: red;
       position: relative;
-      transition-duration: 0;
-      transition-delay: 0.2s; }
+      transition-duration: 0; }
       .menuicon span::after, .menuicon span::before {
         display: block;
         content: '';
         position: absolute;
-        width: 25px;
+        width: 30px;
         height: 2px;
-        background-color: #000;
-        -webkit-transition-property: margin, -webkit-transform;
-        transition-duration: 0.2s;
-        transition-delay: 0.2s, 0; }
+        background-color: red;
+        transition-duration: 0.8s;
+        transition-delay: 0.8s, 0; }
       .menuicon span::before {
         margin-top: -8px; }
       .menuicon span::after {
@@ -464,10 +493,28 @@ body[data-template="partenaires"] h4 {
     background-color: transparent; }
     #hamburger:checked ~ .menuicon span::before, #hamburger:checked ~ .menuicon span::after {
       margin-top: 0px;
-      transition-delay: 0, 0.2s; }
+      transition-delay: 0, 0.8s; }
     #hamburger:checked ~ .menuicon span::before {
       -ms-transform: rotate(45deg);
       transform: rotate(45deg); }
     #hamburger:checked ~ .menuicon span::after {
       -ms-transform: rotate(-45deg);
-      transform: rotate(-45deg); } }
+      transform: rotate(-45deg); }
+  .module-menu-ecole ul {
+    padding-top: 0; }
+  .main-content {
+    margin-top: 50px; }
+  .ecole-wrapper {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem; } }
+
+@media only screen and (max-width: 1000px) {
+  .main-ecole {
+    margin-top: 10px; }
+  .arrow-back {
+    left: 0.5rem;
+    top: -28px; }
+  .main-content {
+    margin-top: 35px; }
+  .carte-ecoles .carte-nom-ecole a {
+    font-size: 0.6em; } }

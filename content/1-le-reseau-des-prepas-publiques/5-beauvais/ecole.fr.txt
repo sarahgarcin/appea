@@ -6,11 +6,11 @@ Shortname: Beauvais
 
 ----
 
-Positionleft: 120
+Positionleft: 21
 
 ----
 
-Positiontop: 60
+Positiontop: 9
 
 ----
 
@@ -35,3 +35,11 @@ Equipement:
 ----
 
 Temoignage: 
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

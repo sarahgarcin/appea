@@ -6,11 +6,11 @@ Shortname: Belfort
 
 ----
 
-Positionleft: 230
+Positionleft: 37
 
 ----
 
-Positiontop: 120
+Positiontop: 20
 
 ----
 
@@ -35,3 +35,11 @@ Equipement:
 ----
 
 Temoignage: 
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

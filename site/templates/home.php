@@ -15,12 +15,12 @@
 				<?php snippet('menu-ecole')?>
 			</div>
 		</div> 
-	<div class="main-module col-xs-12 col-sm-10 col-md-9 col-lg-9">
+	<div class="main-module col-xs-12 col-sm-9 col-md-9 col-lg-9">
 		<div class="hide-for-small-only">
 			<?php snippet('header') ?>		
 		</div>
 		<main class="row">
-			<div class="main-content col-xs-12 col-sm-9 col-md-8 col-lg-8">
+			<div class="main-content col-xs-12 col-sm-8 col-md-8 col-lg-8">
 				<div class="content-wrapper">
 					<?php foreach($pages->visible()->slice(0,3) as $rubrique):?>
 						<?php $count ++ ?>
@@ -80,7 +80,7 @@
 				</div>
 				<?php snippet('credits')?>
 			</div>
-			<div class="module-menu-ecole col-xs-6 col-sm-3 col-md-4 col-lg-3 hide-for-small-only">
+			<div class="module-menu-ecole col-xs-6 col-sm-4 col-md-4 col-lg-3 hide-for-small-only">
 				<?php snippet('menu-ecole')?>		
 			</div>
 		</main>

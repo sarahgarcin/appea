@@ -6,11 +6,11 @@ Shortname: Châteauroux
 
 ----
 
-Positionleft: 90
+Positionleft: 16
 
 ----
 
-Positiontop: 160
+Positiontop: 24
 
 ----
 
@@ -35,3 +35,11 @@ Equipement:
 ----
 
 Temoignage: 
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

@@ -8,6 +8,7 @@
 	letter-spacing: 0.09em;
 	margin-top:0;
 	font-weight: normal;
+	hyphens: auto;
 }
 
 @mixin texteMoyen{
@@ -20,6 +21,7 @@
 	font-family: 'Inter UI', sans-serif;
 	font-size: 2.3em;
 	font-weight: 500;
+	hyphens: auto;
 }
 
 

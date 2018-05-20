@@ -6,11 +6,11 @@ Shortname: Cholet
 
 ----
 
-Positionleft: 30
+Positionleft: 5
 
 ----
 
-Positiontop: 130
+Positiontop: 22
 
 ----
 
@@ -35,3 +35,11 @@ Equipement:
 ----
 
 Temoignage: 
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

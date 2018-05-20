@@ -6,11 +6,11 @@ Shortname: Marseille
 
 ----
 
-Positionleft: 200
+Positionleft: 35
 
 ----
 
-Positiontop: 260
+Positiontop: 43
 
 ----
 
@@ -35,3 +35,11 @@ Equipement:
 ----
 
 Temoignage: 
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

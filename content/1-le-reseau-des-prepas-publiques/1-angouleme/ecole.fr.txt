@@ -30,8 +30,16 @@ Temoignage:
 
 ----
 
-Positionleft: 60
+Positionleft: 10
 
 ----
 
-Positiontop: 190
+Positiontop: 30
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

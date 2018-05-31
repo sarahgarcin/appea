@@ -1,0 +1,45 @@
+Title: Châteauroux
+
+----
+
+Shortname: Châteauroux
+
+----
+
+Positionleft: 16
+
+----
+
+Positiontop: 24
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

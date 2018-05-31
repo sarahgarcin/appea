@@ -1,0 +1,45 @@
+Title: Digne-Les-Bains
+
+----
+
+Shortname: Digne-Les-Bains
+
+----
+
+Positionleft: 35
+
+----
+
+Positiontop: 37
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

@@ -1,4 +1,4 @@
-Title: École supérieure des arts & médias de Caen/Cherbourg
+Title: Cherbourg
 
 ----
 
@@ -23,7 +23,7 @@ Infos:
 **Nbre de classe** : 1 classe divisée en 2 groupes
 **Nbre élèves** : 30 élèves
 
-**Droits de scolarité** : 620 €
+**Tarif 2017-2018 :** 620 €
 
 ----
 
@@ -75,11 +75,11 @@ Shortname: Cherbourg
 
 ----
 
-Positionleft: 7
+Positionleft: 5
 
 ----
 
-Positiontop: 9
+Positiontop: 8
 
 ----
 

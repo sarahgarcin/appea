@@ -1,0 +1,45 @@
+Title: Annemasse
+
+----
+
+Shortname: Annemasse
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 
+
+----
+
+Positionleft: 35
+
+----
+
+Positiontop: 28
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

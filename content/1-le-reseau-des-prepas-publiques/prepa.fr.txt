@@ -25,7 +25,7 @@ Titlecalendrier: Calendrier
 
 ----
 
-Titleenseignement: Enseignement
+Titleenseignement: Enseignements
 
 ----
 
@@ -34,3 +34,7 @@ Titleequipement: Équipement
 ----
 
 Titletemoignage: Témoignage
+
+----
+
+Titlecontexte: Contexte et spécificités

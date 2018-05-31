@@ -10,10 +10,7 @@ body {
 h1 {
   font-family: 'Inter UI', sans-serif;
   font-size: 2.3em;
-  font-weight: 500;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto; }
+  font-weight: 500; }
 
 h2 {
   font-family: "petitemort", serif;
@@ -21,10 +18,7 @@ h2 {
   text-transform: uppercase;
   letter-spacing: 0.09em;
   margin-top: 0;
-  font-weight: normal;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto; }
+  font-weight: normal; }
 
 h2 {
   font-family: "petitemort", serif;
@@ -32,10 +26,7 @@ h2 {
   text-transform: uppercase;
   letter-spacing: 0.09em;
   margin-top: 0;
-  font-weight: normal;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto; }
+  font-weight: normal; }
 
 h3 {
   font-family: 'Inter UI', sans-serif;
@@ -151,7 +142,7 @@ img {
     height: 70px; }
 
 .module-menu-ecole {
-  padding-top: 30px; }
+  padding-top: 100px; }
   .module-menu-ecole h3 {
     padding-bottom: 5px; }
   .module-menu-ecole ul {
@@ -168,7 +159,8 @@ img {
       font-size: 0.9em; }
 
 .carte-ecoles {
-  position: relative; }
+  position: relative;
+  margin-left: 13px; }
   .carte-ecoles .carte-wrapper {
     padding: 20px; }
   .carte-ecoles .carte-nom-ecole {
@@ -197,7 +189,7 @@ img {
     .carte-ecoles .carte-nom-ecole a {
       color: #FFF;
       text-decoration: none;
-      font-size: 0.9em;
+      font-size: 0.8vw;
       text-transform: uppercase; }
     .carte-ecoles .carte-nom-ecole:hover {
       background: red; }
@@ -283,6 +275,10 @@ img {
     font-weight: 500;
     text-transform: none;
     border-bottom: none !important; }
+  .ecole-wrapper .print-ecole {
+    position: absolute;
+    top: 10px;
+    right: 8px; }
 
 .arrow-back {
   position: absolute;
@@ -372,7 +368,7 @@ body[data-template="partenaires"] h4 {
     max-width: 100%; }
   .menu {
     display: none; }
-  .socialnetwork {
+  .socialnetwork, .print-ecole {
     display: none; }
   .module-menu-ecole {
     display: none; }
@@ -381,7 +377,9 @@ body[data-template="partenaires"] h4 {
   .arrow-back {
     display: none; }
   footer {
-    display: none; } }
+    display: none; }
+  .section {
+    page-break-inside: avoid; } }
 
 .papeterie-header {
   padding: 1cm; }
@@ -432,6 +430,10 @@ body[data-template="partenaires"] h4 {
     padding-left: 10%; }
     .module-menu-ecole h3 {
       margin-top: 0; }
+  h2 {
+    font-size: 2em; }
+  p {
+    font-size: 1em; }
   .menu {
     max-height: 0px;
     overflow: hidden;
@@ -441,7 +443,7 @@ body[data-template="partenaires"] h4 {
     padding-left: 0.5rem; }
     .menu li {
       display: block;
-      font-size: 22px;
+      font-size: 1.2em;
       line-height: 120%; }
       .menu li::after {
         content: "";
@@ -506,7 +508,10 @@ body[data-template="partenaires"] h4 {
     margin-top: 50px; }
   .ecole-wrapper {
     padding-left: 0.5rem;
-    padding-right: 0.5rem; } }
+    padding-right: 0.5rem; }
+  .carte-ecoles .carte-nom-ecole {
+    padding: 1px 2px;
+    padding-top: 0px; } }
 
 @media only screen and (max-width: 1000px) {
   .main-ecole {

@@ -17,6 +17,9 @@
 						<a href="<?php echo $site->url()?>" title=""><</a>
 					</div>
 					<h1><?php echo $page->title()->html()?></h1>
+					<?php if($page->pdf()->isNotEmpty()):?>
+						<a class="print-ecole" target="_blank" href="<?php echo $page->pdf()->toFile()->url();?>" title="">Imprimer la fiche école</a>
+					<?php endif ?>
 					<?php if($page->cover()->isNotEmpty()):?>
 						<div class="image-wrapper">
 							<img src="<?php echo $page->cover()->toFile()->url()?>" alt="<?php echo $page->title() ?>">
@@ -31,31 +34,31 @@
 						</div>
 					</div>
 					<?php if($page->calendrier()->isNotEmpty()):?>
-						<div class="calendrier">
+						<div class="calendrier section">
 							<h2><?php echo $page->parent()->titleCalendrier()->text()?></h2>
 							<?php echo $page->calendrier()->kt()?>
 						</div>
 					<?php endif;?>
 					<?php if($page->contexte()->isNotEmpty()):?>
-					<div class="enseignement">
+					<div class="contexte section">
 						<h2><?php echo $page->parent()->titleContexte()->text()?></h2>
-						<?php echo $page->enseignement()->kt()?>
+						<?php echo $page->contexte()->kt()?>
 					</div>
 					<?php endif;?>
 					<?php if($page->enseignement()->isNotEmpty()):?>
-					<div class="enseignement">
+					<div class="enseignement ">
 						<h2><?php echo $page->parent()->titleEnseignement()->text()?></h2>
 						<?php echo $page->enseignement()->kt()?>
 					</div>
 					<?php endif;?>
 					<?php if($page->equipement()->isNotEmpty()):?>
-					<div class="equipement">
+					<div class="equipement section">
 						<h2><?php echo $page->parent()->titleEquipement()->text()?></h2>
 						<?php echo $page->equipement()->kt()?>
 					</div>
 					<?php endif;?>
 					<?php if($page->temoignage()->isNotEmpty()):?>
-					<div class="temoignage">
+					<div class="temoignage section">
 						<h2><?php echo $page->parent()->titleTemoignage()->text()?></h2>
 						<?php echo $page->temoignage()->kt()?>
 					</div>

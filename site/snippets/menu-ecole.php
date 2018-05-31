@@ -1,5 +1,5 @@
 <!-- <div class="module-menu-ecole col-xs-6 col-sm-3 col-md-4 col-lg-3"> -->
-	<h3>Choisissez une école dans la liste ci-dessous :</h3>
+	<!--<h3>Choisissez une école dans la liste ci-dessous :</h3>-->
 	<hr>
 	<ul class="menu-ecole">
 	<?php foreach($site->index()->filterBy('intendedTemplate', 'ecole') as $ecole):?>

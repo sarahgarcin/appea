@@ -8,9 +8,26 @@ Shortname: Bayonne
 
 Adresse: 
 
+**École Supérieure d’Art Pays Basque**
+3 avenue Jean Darrigrand
+64100 Bayonne
+
+T. : 05 59 59 48 41
+(email: contact@esa-paysbasque.fr text: contact@esa-paysbasque.fr)
+(link: http://www.bab-art.fr text: www.bab-art.fr)
+
 ----
 
 Infos: 
+
+**Direction : Delphine Etchepare**
+**Direction adjoint : Frédéric Duprat (responsable classes préparatoires)**
+
+Année de création classe préparatoire :**1991**
+Nbre de classe :**2**
+Nbre élèves par classe : **20 étudiants**
+
+**Tarifs 2017-2018 :** entre 530 € et 764 €
 
 ----
 
@@ -18,15 +35,29 @@ Calendrier:
 
 ----
 
-Enseignement: 
+Enseignement: En découvrant les différents médiums de la pratique artistique contemporaine, l’étudiant acquiert les compétences fondamentales dans les disciplines théoriques et pratiques. De septembre à avril, sur 28 semaines, à raison de 38 heures de cours hebdomadaires en moyenne, l’élève est au centre d’un programme qui lui permet d’aborder tous les champs de la création contemporaine : histoire de l’art /théorie,  dessin (représentation du réel), dessin (toutes les formes du dessin), graphisme, couleur, fondements visuels/expression plastique, volume/espace, volume/ matériaux, arts numériques, photo, vidéo, informatique, cours projet. En lien avec le Diplôme National d’Art, les classes préparatoires bénéficient d’un important programme culturel, de workshops et de séminaires animés par des artistes. L’École organise régulièrement des voyages culturels et des visites d’expositions en France et à l’étranger.
 
 ----
 
 Equipement: 
 
+Espaces pédagogiques :
+- ateliers de dessins-peinture (1 salle 248 m2, 1 salle 93 m2, 1 salle 82 m2)
+- ateliers de volume (atelier modelage/moulage 240 m2, atelier volume 248 m2)
+- studio de prise de vue photo/vidéo (fond vert, cyclo 78 m2)
+- studio son 
+- salles multimédias (1 salle équipée 12 postes MAC, 1 salle équipée 12 postes MAC et 12 postes PC)
+- amphithéâtre de 100 places (cours d’histoire de l’art, conférences)
+- espaces de présentation des travaux (bilans, jurys blancs, accrochages 470 m2)
+- galerie de l’école (accrochages, programme d’expositions 240 m2)
+- Bibliothèque (plus de 4000 ouvrages consultables)
+
 ----
 
 Temoignage: 
+
+« L’année préparatoire à l’Ecole d’Art de l’Agglomération Côte Basque-Adour a été cruciale pour moi. Au sortir du baccalauréat, je ne connaissais pas le système des écoles d’art, et cette année m’a permis de découvrir les différentes offres scolaires (et de rassurer mes parents)… Cette année préparatoire m’a permis d’expérimenter sans complexe : dessin, peinture, vidéo, sculpture, installation, j’ai pu toucher à tout et évacuer de ma pratique un certain nombre de clichés. On ne retrouve pas forcément cette phase de production tous azimuts dans les années propédeutiques des écoles d’art françaises. »  
+Bertrand Dezoteux - promotion 2005
 
 ----
 
@@ -43,3 +74,6 @@ Cover:
 ----
 
 Contexte: 
+
+La fusion de l’Ecole d’Art de la Communauté d’Agglomération Pays Basque à Bayonne et de l’Ecole Supérieure d’Art des Rocailles à Biarritz a donné naissance à la rentrée scolaire 2017/2018 à l’Ecole Supérieure d’Art Pays Basque. Sur deux sites, l’un à Biarritz et l’autre à Bayonne, l’offre pédagogique de l’ESAPB se compose d’un Diplôme National d’Art (3 ans niveau licence), de deux classes préparatoires aux concours des Ecoles Supérieures d’Art, d’une classe de Mise à Niveau en Arts Appliqués et d’une soixantaine d’ateliers de pratiques plastiques amateurs (plus de 1100 inscriptions au total). 
+L’école propose une formation globale en arts plastiques et visuels, avec une orientation axée sur l’image en mouvement. Cette école est pensée à l’échelle du laboratoire.

@@ -10,15 +10,31 @@ Positionleft: 35
 
 ----
 
-Positiontop: 37
+Positiontop: 40
 
 ----
 
 Adresse: 
 
+**École d’art intercommunale idbl**
+24 avenue Saint Véran
+04000 Digne-Les-Bains
+
+T. : 04 92 31 34 59
+(email: ecoleart@idbl.fr text: ecoleart@idbl.fr)
+(link: http://www.idbl.fr text: www.idbl.fr)
+
 ----
 
 Infos: 
+
+**Direction : Laurent Charbonnier**
+
+Année de création classe préparatoire :** 1983**
+Nbre de classe :** 1**
+Nbre élèves par classe : **25 étudiants**
+
+**Tarifs 2017-2018 :** entre 300 € et 350 €
 
 ----
 
@@ -28,13 +44,35 @@ Calendrier:
 
 Enseignement: 
 
+L’enseignement (36 h hebdomadaire, de septembre à mai) dispensé par 10 artistes-enseignants s’articule autour de 5 pôles (arts plastiques, image, volume/espace, design graphique et histoire de l’art/culture générale) avec pour objectifs:
+•	Accéder à une bonne maîtrise et compréhension des enjeux techniques, formels, conceptuels et théoriques propres aux arts plastiques ;
+•	Préparer aux épreuves de concours ;
+•	Initier aux pédagogies de recherche au cœur de l’enseignement en écoles d’art ;
+•	Créer des passerelles entre les disciplines et les conditions nécessaires à l’émergence d’un travail d’auteur ;
+•	Permettre l’élaboration de projets plastiques cohérant en vue du dossier personnel et d’un discours critique révélateur des motivations de l’étudiant ;
+•	Accompagner l’orientation.
+Pour atteindre ces objectifs, l’organisation pédagogique évolue dans l’année selon 4 phases d’apprentissage ponctuées de bilans, jurys blancs, workshops, voyages, etc.
+
 ----
 
 Equipement: 
 
+La classe préparatoire possède sa propre salle de travail et a accès à tous les ateliers techniques de l’école. Les équipements ont été totalement renouvelés récemment notamment pour les cours de volume-espace-sculpture, photo, vidéo et design graphique.
+L’école dispose de :
+•	salles informatiques, atelier photo vidéo avec plateau de prises de vue, laboratoires argentiques, salle de finition et d’impression, atelier design graphique/infographie/animation, etc.
+•	3 presses pour la gravure et l’estampe ;
+•	3 fours cuisson, tours, etc. : céramique, modelage ;
+•	ateliers polyvalents pour le dessin, expression plastique, peinture, etc. ;
+•	une salle de conférence de 80 places ;
+•	une bibliothèque de plus de 1000 ouvrages et abonnements à des revues spécialisées ;
+•	une galerie d'exposition de 120m².
+
 ----
 
 Temoignage: 
+
+« Après un parcours scolaire des plus chaotiques (j’obtiens quand même un bac général), j’arrive en prépa comme l’on arrive en terre inconnue, avec beaucoup de crainte et de préjugés. Choc thermique : pour la première fois, on ne me demande pas d’être le meilleur mais ce que j’ai envie de dire par les formes... J’ai obtenu tous les concours que j’ai tentés. Le fait d’être dans une toute petite structure fait que tout le monde se connaît. Pas de dispositif grandiloquent. Cela pousse à l’échange, au partage avec les professeurs, le personnel technique, les étudiants adultes et enfants ce qui enrichit le travail. Je suis en fin de cursus à l’École Nationale Supérieure de Paris Cergy et de nombreux conseils entendus à Digne résonnent encore en moi aujourd’hui ». 
+ Stephen Loye
 
 ----
 
@@ -43,3 +81,6 @@ Cover:
 ----
 
 Contexte: 
+
+L’école d’art intercommunale de Digne est implantée depuis 2012, dans un bâtiment de plus de 1900 m2, conçu et équipé spécifiquement pour l’enseignement et la diffusion des arts visuels. Elle bénéficie d’un environnement culturel exceptionnel grâce à une politique de commande publique ambitieuse, pilotée par le CAIRN-centre d’art et le musée Gassendi, autour des problématiques art/nature, art/paysage, etc., autant d’institutions avec qui l’école collabore dans le cadre d’une programmation d’expositions, d’événements, de workshops et de conférences.
+Elle possède une galerie d’exposition, le BILD, lieu de programmation conventionnée avec le Frac PACA, dont les commissariats d’expositions sont assurés par les étudiants de la classe préparatoire dans le cadre de leurs cours de culture générale.

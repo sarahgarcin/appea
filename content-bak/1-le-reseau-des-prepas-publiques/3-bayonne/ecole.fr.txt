@@ -1,0 +1,45 @@
+Title: Bayonne
+
+----
+
+Shortname: Bayonne
+
+----
+
+Adresse: 
+
+----
+
+Infos: 
+
+----
+
+Calendrier: 
+
+----
+
+Enseignement: 
+
+----
+
+Equipement: 
+
+----
+
+Temoignage: 
+
+----
+
+Positionleft: 0
+
+----
+
+Positiontop: 38
+
+----
+
+Cover: 
+
+----
+
+Contexte: 

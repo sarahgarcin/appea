@@ -18,6 +18,14 @@
 		}
 	}
 
+	h2{
+		font-size: 2em;
+	}
+
+	p{
+		font-size: 1em;
+	}
+
 
 	.menu {
 		max-height: 0px;
@@ -28,7 +36,7 @@
 		padding-left: 0.5rem;
 	  li{
 	  	display:block;
-	  	font-size: 22px;
+	  	font-size: 1.2em;
 	  	line-height: 120%;
 	  	&::after{
 	  		content: "";
@@ -123,6 +131,13 @@
   .ecole-wrapper{
   	padding-left: 0.5rem;
   	padding-right: 0.5rem;
+  }
+
+  .carte-ecoles{
+  	.carte-nom-ecole{
+  		padding: 1px 2px; 
+  		padding-top: 0px;
+  	}
   }
 }
 

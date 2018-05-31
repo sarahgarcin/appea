@@ -1,0 +1,45 @@
+Title: APPÉA
+
+----
+
+Logo: logo.png
+
+----
+
+Author: 
+
+----
+
+Description: 
+
+----
+
+Keywords: 
+
+----
+
+Ogimage: 
+
+----
+
+Socialnetworks: 
+
+- 
+  icon: fa-facebook
+  link: 'https://fr-fr.facebook.com/Association-des-classes-pr%C3%A9paratoires-publiques-aux-%C3%A9coles-dart-appea-1445452075695441/'
+
+----
+
+Copyright: © APPÉA 2017
+
+----
+
+Mentions: 
+
+Les écoles membres du réseau APPÉA sont agréées par le Ministère de la Culture et de la Communication. L’association APPÉA est soutenue par le Ministère de la Culture et de la Communication et par la Fondation d’entreprise Culture & Diversité.
+
+L’APPÉA est également en lien avec l’ANdÉA (Association Nationale des Écoles supérieures d’Art).
+
+----
+
+Logospartenaires: 

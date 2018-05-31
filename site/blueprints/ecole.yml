@@ -16,6 +16,10 @@ fields:
     label: Position en y sur la carte
     type: text
     width: 1/2
+  pdf:
+    label: Fiche école
+    type: selector
+    mode: single
   cover:
     label: Image de couverture
     type: selector

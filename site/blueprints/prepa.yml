@@ -10,7 +10,7 @@ fields:
     type:  text
   titleContexte: 
     label: Intitulé Contexte et spécificité
-    type: markdown
+    type: text
   titleEnseignement:
     label: Intitulé enseignement
     type:  text

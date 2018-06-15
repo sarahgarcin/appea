@@ -6,7 +6,7 @@
 	<?php if(!kirby()->request()->ajax()):?>
 	<?php snippet('logo') ?>
 	<?php endif ?>
-	<div class="main-module <?php if(!kirby()->request()->ajax()):?>col-xs-12 col-sm-12 col-md-6 col-lg-9<?php endif?>">
+	<div class="main-module <?php if(!kirby()->request()->ajax()):?>col-md-offset-2 col-xs-12 col-sm-12 col-md-6 col-lg-9<?php endif?>">
 		<?php if(!kirby()->request()->ajax()):?>
 			<?php snippet('header') ?>
 		<?php endif?>
@@ -15,6 +15,9 @@
 				<div class="content-wrapper ecole-wrapper">
 					<div class="arrow-back">
 						<a href="<?php echo $site->url()?>" title=""><</a>
+					</div>
+					<div class="site show-for-print">
+						<p>www.appea.fr</p>
 					</div>
 					<h1><?php echo $page->title()->html()?></h1>
 					<?php if($page->pdf()->isNotEmpty()):?>

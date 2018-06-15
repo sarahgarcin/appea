@@ -4,7 +4,7 @@
 	<div class="show-for-small-only mobile-header">
 		<?php snippet('header') ?>	
 	</div> 
-	<div class="module-logo col-xs-5 col-sm-2 col-md-3 col-lg-3 hide-for-small-only">
+	<div class="module-logo col-xs-5 col-sm-2 col-md-3 col-lg-2 hide-for-small-only">
 		<?php snippet('logo') ?>
 	</div>
 	<div class="show-for-small-only mobile-logo-ecole-menu row">
@@ -15,7 +15,7 @@
 			<?php snippet('menu-ecole')?>
 		</div>
 	</div> 
-	<div class="main-module col-xs-12 col-sm-9 col-md-6 col-lg-9">
+	<div class="main-module col-md-offset-2 col-xlg-offset-3 col-xs-12 col-sm-9 col-md-6 col-lg-9">
 		<div class="hide-for-small-only">
 			<?php snippet('header') ?>
 		</div>
@@ -50,7 +50,7 @@
 				</div>
 				<?php snippet('credits')?>
 			</div>
-			<div class="module-menu-ecole col-xs-6 col-sm-4 col-md-4 col-lg-3 hide-for-small-only">
+			<div class="module-menu-ecole col-xs-6 col-sm-4 col-md-4 col-lg-3 col-md-offset-6 col-xlg-offset-5 hide-for-small-only">
 				<?php snippet('menu-ecole')?>
 			</div>
 		</main>

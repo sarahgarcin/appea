@@ -41,13 +41,16 @@ function init(){
 		if(!$(this).parents('.rubrique').hasClass('active')){
 			$(".rubrique").removeClass('active');
 			$(this).parents('.rubrique').addClass('active');
-			console.log($(this).parents('.rubrique'));
 			$('html,body').animate({
 	      scrollTop: $(this).offset().top - 30},
 	      800);
 		}
 		else{
 			$(this).parents('.rubrique').removeClass('active');
+			console.log($(this).parents('.rubrique').find('.rubrique-inner'));
+			if($(this).parents('.rubrique').find('.rubrique-inner').hasClass('ecole-active')){
+				$(this).parents('.rubrique').find('.rubrique-inner').removeClass('ecole-active');
+			}
 		}
 		
 	});
@@ -153,6 +156,7 @@ function openPage(url, target){
     success: function(data) {
       target.html(data).addClass('active').addClass('ecole-active');
       $('.main-ecole').addClass('loaded');
+      console.log(data);
     }
   });
 }

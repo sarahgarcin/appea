@@ -45,7 +45,8 @@
       <div class="papeterie-onepage">
         <div class="papeterie-header row">
           <div class="logo-wrapper-print col-xs-6">
-            <img class="col-xs-4" src="<?php echo $page->parent()->logo()->toFile()->url() ?>" alt="">
+            <p>Administration</p>
+            <img class="col-xs-6" src="<?php echo $page->parent()->logo()->toFile()->url() ?>" alt="">
           </div>
           <div class="entetehaut col-xs-6">
             <p class="site-print">

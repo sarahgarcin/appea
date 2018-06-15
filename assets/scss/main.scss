@@ -63,6 +63,11 @@ p, a, li{
 	@include texteMoyen;
 }
 
+.row{
+	max-width: 1320px; 
+	margin:auto;
+}
+
 a{
 	color: #000;
 	font-size: 1em;
@@ -92,6 +97,10 @@ img{
 
 .module-menu{
 	position: relative;
+}
+
+.module-logo{
+	position:fixed;
 }
 
 #hamburger {
@@ -172,7 +181,10 @@ img{
 }
 
 .module-menu-ecole{
-	padding-top: 100px;
+	//padding-top: 100px;
+	position:fixed; 
+	top:0;
+
 	h3{
 		padding-bottom: 5px;
 	}
@@ -371,7 +383,7 @@ img{
 .arrow-back{
 	position:absolute;
 	left: -20px;
-	top: 10px;
+	top: 5.5px;
 	a{
 		padding: 3px 5px 3px 5px !important;
 		width: 20px;
@@ -449,9 +461,26 @@ body[data-template="partenaires"]{
 	margin-bottom: 20px;
 }
 
+.show-for-print{
+	display:none;
+}
+
+
+.hide-for-print{
+	display:block;
+}
+
 
 
 @media print{
+
+	.show-for-print{
+		display:block;
+	}
+
+	.hide-for-print{
+		display:none;
+	}
 
 	body{
 		margin: 0;
@@ -466,17 +495,18 @@ body[data-template="partenaires"]{
 	}
 
 		.module-logo{
-			flex-basis: 15%;
-	    max-width: 15%;
+			flex-basis: 25%;
+	    max-width: 25%;
+	    position:relative;
 		}
 		.logo-wrapper {
-			flex-basis: 90%;
-	    max-width: 90%;
+			// flex-basis: 20%;
+	  //   max-width: 20%;
 		}
 
 		.main-module{
-			flex-basis: 85%;
-	    max-width: 85%;
+			flex-basis: 70%;
+	    max-width: 70%;
 	    
 		}
 		.main-content{
@@ -503,6 +533,9 @@ body[data-template="partenaires"]{
 		.section{
 			page-break-inside: avoid; 
 		}
+		.main-ecole{
+			padding-top: 6cm;
+		}
 }
 
 
@@ -510,7 +543,16 @@ body[data-template="partenaires"]{
 //  Papeterie header
 .papeterie-header{
 	padding: 1cm;
-
+	.logo-wrapper-print{
+		position:relative;
+		p{
+			text-transform:uppercase;
+			position: absolute;
+			left: 60px;
+			top:12px;
+			margin:0;
+		}
+	}
 	p{
 		font-size: 12.8px;
 	}
@@ -543,7 +585,7 @@ body[data-template="partenaires"]{
 		.tva{
 			position: absolute; 
 			right: 8.8cm; 
-			bottom: 0.6cm; 
+			bottom: 1cm; 
 			border-top: 1px solid red;
 		}
 	}
@@ -559,7 +601,7 @@ body[data-template="partenaires"]{
 			text-indent: 0;
 		}
 	}
-	p{
+	p, li, a{
 		font-size: 12.8px;
 		text-align: justify;
 		text-indent: 30px;

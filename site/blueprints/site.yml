@@ -19,6 +19,16 @@ fields:
     types:
       - image
     help: Ajouter le logo à afficher dans le header du site
+  logosquare:
+    label: Logo Carré
+    type: selector
+    mode: single
+    sort: filename
+    autoselect: first
+    required: false
+    types:
+      - image
+    help: Ajouter le logo à afficher dans les documents imprimés
   author:
     label: Auteur(s)
     type:  text

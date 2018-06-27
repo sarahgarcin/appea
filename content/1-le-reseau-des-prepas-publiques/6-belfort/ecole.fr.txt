@@ -22,7 +22,7 @@ Adresse:
 
 T. : 03 84 36 62 10
 (email: e.art@wanadoo.fr text: e.art@wanadoo.fr)
-(link: http://www.ecole-art-belfort.fr text: www.ecole-art-belfort.fr)
+(link: http://www.ecole-art-belfort.fr text: www.ecole-art-belfort.fr popup: yes)
 
 ----
 
@@ -31,7 +31,7 @@ Infos:
 **Direction : Jean-Marie-Boizeau**
 
 Année de création classe préparatoire :**1997**
-Nbre de classe :** 1**
+Nbre de classe :**1**
 Nbre élèves par classe : **30 étudiants**
 
 **Tarif 2017-2018 :** 550 €
@@ -39,6 +39,17 @@ Nbre élèves par classe : **30 étudiants**
 ----
 
 Calendrier: 
+
+**Journée portes ouvertes**
+samedi 17 mars de 14h à 17h
+
+**Début des inscriptions** : jeudi 1er février
+
+**1ère session d'admission** (dépôt de candidature jusqu’au 27 avril)
+vendredi 4 mai
+
+**2ème session d'admission** (dépôt de candidature jusqu’au 1er juin)
+mardi 8 juin
 
 ----
 
@@ -49,13 +60,14 @@ Un contrôle continu est organisé dans le cadre des cours. Des évaluations ont
 
 ----
 
-Equipement: Située dans ancien bâtiment militaire adossé aux remparts de la Citadelle de Belfort, l’école dispose de 2000 m2 sur 3 niveaux d’espaces de cours et d’ateliers dédiés à l’enseignement (ateliers de peinture et de dessin, laboratoire et studio photo, salle informatique et impression, atelier de gravure et sérigraphie, atelier volume et céramique) dont un atelier spécifique à la classe préparatoire. L’école dispose également d’un auditorium, d’un centre de documentation spécialisé, d’espaces d'exposition dont *La Cantine d'art contemporain*, et fait peu habituel, d’un magasin de prêt pour outils et matériel audio-vidéo
+Equipement: Située dans un ancien bâtiment militaire adossé aux remparts de la Citadelle de Belfort, l’école dispose de 2.000 m2 sur 3 niveaux d’espaces de cours et d’ateliers dédiés à l’enseignement (ateliers de peinture et de dessin, laboratoire et studio photo, salle informatique et impression, atelier de gravure et sérigraphie, atelier volume et céramique) dont un atelier spécifique à la classe préparatoire. L’école dispose également d’un auditorium, d’un centre de documentation spécialisé, d’espaces d’exposition dont *La Cantine d’art contemporain*, d’un magasin de prêt pour outils et matériel audio-vidéo et, fait peu habituel, d’un Jardin potager expérimental.
 
 ----
 
 Temoignage: 
 
-"À l’issue de mon année préparatoire j’avais le choix entre 4 écoles, j’ai choisi d’intégrer La Haute école des arts du Rhin (Hear). Ce que j’ai aimé durant cette année préparatoire se sont les opportunités de découverte artistique qui m’ont été données à travers les ateliers techniques, les rencontres d'acteurs culturels et expositions, les expériences et moments en commun avec le groupe et les autres étudiants dans la région, la synergie avec les profs et l'ouverture sur d'autres pratiques comme la danse, la radio de l'École, le patrimoine, même le jardinage et la permaculture !" 
+*À l’issue de mon année préparatoire j’avais le choix entre 4 écoles, j’ai choisi d’intégrer La Haute école des arts du Rhin (Hear). Ce que j’ai aimé durant cette année préparatoire se sont les opportunités de découverte artistique qui m’ont été données à travers les ateliers techniques, les rencontres d'acteurs culturels et expositions, les expériences et moments en commun avec le groupe et les autres étudiants dans la région, la synergie avec les profs et l'ouverture sur d'autres pratiques comme la danse, la radio de l'École, le patrimoine, même le jardinage et la permaculture !*
+
 Elsa Lerouge - promotion 2016
 
 ----
@@ -65,3 +77,15 @@ Cover:
 ----
 
 Contexte: La classe prépa est au cœur du projet de l'Ecole de Belfort. La multiplicité des formations et évenements, des espaces vastes et modulables sont à l'origine de nombreuses expériences artistiques partagées. Une équipe d'enseignants réactive et impliquée permet la mise en place d'évenements culturels et pédagogiques originaux. L'École, c'est aussi* la Plateforme BFC* : un réseau régional des écoles d'art dédié aux rencontres et la mobilité des étudiants, des réseaux d'art contemporain (Trac, Seizemille), mais aussi *Belfort-ever* un réseau d'échanges de structures culturelles (19-centre d'art, Viadanse-Centre Chorégraphique National, le Centre d'art numérique Espace Gantner, les Musées de Belfort, Le Granit Scène Nationale, le Conservatoire).
+
+----
+
+Pdf: fiche-ecole-belfort.pdf
+
+----
+
+Positionleftmobile: 80
+
+----
+
+Positiontopmobile: 32

@@ -26,7 +26,7 @@ Adresse:
 
 T. : 01 45 89 50 60 
 (email: patrick.andre1@paris.fr text: patrick.andre1@paris.fr)
-(link: https://www.paris.fr/ateliers-beaux-arts#les-classes-preparatoires_20 text: ateliersbeauxarts.paris.fr)
+(link: https://www.paris.fr/ateliers-beaux-arts#les-classes-preparatoires_20 text: www.ateliersbeauxarts.paris.fr popup: yes)
 
 ----
 
@@ -43,6 +43,19 @@ Nbre élèves par classe : **15 à 20 étudiants**
 ----
 
 Calendrier: 
+
+**Journée portes ouvertes**
+(au 121 rue de la glacière, Paris 13e) 
+samedi 24 mars de 10h à 18h
+
+**1ère session d'admission** (sujet en ligne du 15 avril au 15 mai) 
+début juin
+
+**2ème session d'admission** (sujet en ligne du 15 juillet au 15 août) 
+mi-septembre
+
+**Rentrée scolaire**
+lundi 17 septembre 2018
 
 ----
 
@@ -74,3 +87,15 @@ Les cours préparatoires sont répartis sur deux sites:
 ----
 
 Temoignage: 
+
+----
+
+Pdf: fiche-ecole-paris.pdf
+
+----
+
+Positionleftmobile: 37
+
+----
+
+Positiontopmobile: 135

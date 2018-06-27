@@ -6,11 +6,11 @@ Shortname: Issy-les-Moulineaux
 
 ----
 
-Positionleft: 65
+Positionleft: 66
 
 ----
 
-Positiontop: 19
+Positiontop: 18
 
 ----
 
@@ -26,7 +26,7 @@ Adresse:
 
 T. : 01 41 23 90 50
 (email: lesarcades@ville-issy.fr text: lesarcades@ville-issy.fr)
-(link: http://www.issy.com/les-arcades/classe-prepa/inscription text: www.issy.com)
+(link: http://www.issy.com/les-arcades/classe-prepa/inscription text: www.issy.com popup: yes)
 
 ----
 
@@ -36,13 +36,23 @@ Infos:
 
 Année de création classe préparatoire :** 2005**
 Nbre de classe :** 1**
-Nbre élèves par classe : **32 étudiants**
+Nbre élèves par classe : **36 étudiants**
 
 **Tarifs 2017-2018 :** entre 634 € et 1.038 €
 
 ----
 
 Calendrier: 
+
+**Journée portes ouvertes**
+samedi 24 mars de 10h à 18h
+
+**Début des inscriptions** : fin janvier jusqu’au mardi 27 mars
+
+**Admissibilité** : du 30 mars au 3 avril, partir d’un sujet à traiter chez soi
+
+**Session d'admission**
+du mercredi 2 au vendredi 4 mai
 
 ----
 
@@ -54,11 +64,24 @@ Enseignement: De 24 à 30 heures de cours hebdomadaires sont dispensées selon l
 
 ----
 
-Equipement: Les Arcades disposent d’un fonds de documentation de plus de 2000 ouvrages, d’une salle de conférence, de plusieurs ateliers dont un dédié à la céramique (avec 6 tours et 2 fours) et d’une salle multimédia équipée de 16 ordinateurs et de tout le matériel nécessaire à la prise de vue photo et vidéo numériques. La salle de conférences permet l’installation ponctuelle d’un studio de prise de vue. Enfin, l’enseignement du volume et du design s’appuie sur un équipement de type fab lab (imprimante 3D, découpeuse laser, thermoplieuse, etc.).
+Equipement: Les Arcades disposent d’un fonds de documentation de plus de 2000 ouvrages, d’une salle de conférence, de plusieurs ateliers dont un dédié à la céramique (avec 6 tours et 2 fours) et d’une salle multimédia équipée de 18 ordinateurs et de tout le matériel nécessaire à la prise de vue photo et vidéo numériques. La salle de conférences permet l’installation ponctuelle d’un studio de prise de vue. Enfin, l’enseignement du volume et du design s’appuie sur un équipement de type fab lab (imprimante 3D, découpeuse laser, thermoplieuse, etc.).
 
 ----
 
 Temoignage: 
 
-« Quand nous en parlons aujourd’hui avec certains étudiants de ma promotion, nous partageons le sentiment d’avoir vécu une situation très privilégiée. Nous étions peu nombreux et nous recevions un enseignement de qualité par des professeurs impliqués dans les écoles supérieures d’art qui nous aidaient à construire une vision en nous parlant de ce qui se passe en ce moment dans le champ de l’art. Je me souviens en particulier des discussions avec Bernard Metzger, de ce qu’elles m’apportaient en termes de méthode et de la manière dont elles m’amenaient à poser les bonnes questions pour engager le travail au bon endroit. » 
+*Quand nous en parlons aujourd’hui avec certains étudiants de ma promotion, nous partageons le sentiment d’avoir vécu une situation très privilégiée. Nous étions peu nombreux et nous recevions un enseignement de qualité par des professeurs impliqués dans les écoles supérieures d’art qui nous aidaient à construire une vision en nous parlant de ce qui se passe en ce moment dans le champ de l’art. Je me souviens en particulier des discussions avec les enseignants, de ce qu’elles m’apportaient en termes de méthode et de la manière dont elles m’amenaient à poser les bonnes questions pour engager le travail au bon endroit. *
+
 Pierre Lebon - promotion 2007
+
+----
+
+Pdf: fiche-ecole-issy.pdf
+
+----
+
+Positionleftmobile: 4
+
+----
+
+Positiontopmobile: 144

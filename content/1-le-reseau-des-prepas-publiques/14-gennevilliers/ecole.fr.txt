@@ -26,7 +26,7 @@ Adresse:
 
 T. : 01 40 85 67 40
 (email: embamanet@ville-gennevilliers.fr text: embamanet@ville-gennevilliers.fr)
-(link: http://www.ville-gennevilliers.fr/1523/ecole-municipale-des-beaux-arts-galerie-edouard-manet.htm text: www.ville-gennevilliers.fr)
+(link: http://www.ville-gennevilliers.fr/1523/ecole-municipale-des-beaux-arts-galerie-edouard-manet.htm text: www.ville-gennevilliers.fr popup: yes)
 
 ----
 
@@ -44,6 +44,15 @@ Nbre élèves par classe : **20 étudiants**
 
 Calendrier: 
 
+**Journée portes ouvertes**
+samedi 10 mars de 10h à 18h
+
+**1ère session d'admission** (dépôt de candidature jusqu’au 15 avril) 
+du mardi 15 au vendredi 18 mai
+
+**2ème session d'admission** (dépôt de candidature jusqu’a mi-juillet) 
+fin août
+
 ----
 
 Contexte: La classe préparatoire aux écoles supérieures d’art de la ville de Gennevilliers s’inscrit dans le cadre des activités de l’école municipale des Beaux-Arts | galerie Édouard-Manet. Lieu d’enseignement et d’exposition, ses deux missions étroitement liées sont l’enseignement artistique et la diffusion de la création contemporaine. Partenaire privilégié de l’Éducation Nationale, l’EMBA Manet offre aussi une large palette d’ateliers d’arts plastiques pour les pratiques amateurs. De notoriété nationale, la programmation d’expositions à la galerie, les cartes blanches à des commissaires indépendants et l’accueil d’artistes en résidence favorisent la rencontre directe avec la création. Les expositions, les cycles de conférences et les workshops sont autant d’éléments stimulants pour les étudiants.
@@ -60,5 +69,18 @@ Equipement: Les étudiants en classe préparatoire bénéficient d’un atelier 
 
 Temoignage: 
 
-« Mon année à Gennevilliers était celle de transition entre le lycée et l’enseignement supérieur. En entrant en prépa, je ne savais pas trop ce que je voulais faire, ni vers quelle école me diriger exactement. C’est en prépa que j’ai pu préciser mes préoccupations esthétiques ; mes références, et surtout le médium qui m’attirait le plus. Quant aux relations établies avec les professeurs, elles furent précieuses. »
-Sacha Golemanas - Promotion 2012. Diplômée de l’école nationale supérieure d’art de Paris-Cergy.
+*Mon année à Gennevilliers était celle de transition entre le lycée et l’enseignement supérieur. En entrant en prépa, je ne savais pas trop ce que je voulais faire, ni vers quelle école me diriger exactement. C’est en prépa que j’ai pu préciser mes préoccupations esthétiques ; mes références, et surtout le médium qui m’attirait le plus. Quant aux relations établies avec les professeurs, elles furent précieuses.*
+
+Sacha Golemanas - Promotion 2012 / Diplômée de l’école nationale supérieure d’art de Paris-Cergy
+
+----
+
+Pdf: fiche-ecole-gennevilliers.pdf
+
+----
+
+Positionleftmobile: 18
+
+----
+
+Positiontopmobile: 127

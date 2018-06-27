@@ -22,7 +22,7 @@ Espace Culturel François Mitterrand - 43 rue de Gesvres
 
 T. : 03 44 15 67 06
 (email: eab@beauvaisis.fr text: eab@beauvaisis.fr)
-(link: http://www.ecole-art-du-beauvaisis.com text: www.ecole-art-du-beauvaisis.com)
+(link: http://www.ecole-art-du-beauvaisis.com text: www.ecole-art-du-beauvaisis.com popup: yes)
 
 ----
 
@@ -39,6 +39,20 @@ Nbre élèves par classe : **30 étudiants**
 ----
 
 Calendrier: 
+
+**Journée portes ouvertes**
+samedi 3 février 2018
+
+**Début des inscriptions** : début janvier
+
+**1ère session d'admission** (dépôt de candidature jusqu’au 9 avril)
+vendredi 18 mai
+
+**2ème session d'admission** (dépôt de candidature jusqu’au 18 juin)
+mardi 3 juillet
+
+**Rentrée scolaire**
+mardi 4 septembre 2018
 
 ----
 
@@ -59,8 +73,9 @@ Les étudiants de la classe préparatoire bénéficient d’un atelier spécifiq
 
 Temoignage: 
 
-« Pour être sûr de mon orientation j’ai commencé par des cours du soir lorsque j’étais lycéen et j’ai voulu continuer dans cette voie pour apprendre les bases et réflexions en intégrant une classe préparatoire. Ensuite, j’ai suivi un cursus de 5 ans à l’ENSAD et de 2 ans à l’ENSAD Lab. J’ai commencé à travailler en indépendant dès ma deuxième année à l’ENSAD en tant que designer graphique. Depuis deux ans, j’ai monté une agence de design à Paris. La classe préparatoire m’a apporté la maturité nécessaire pour réussir le concours de l’ENSAD. » 
-Geoffrey Dorne - promotion 2004.
+*Pour être sûr de mon orientation j’ai commencé par des cours du soir lorsque j’étais lycéen et j’ai voulu continuer dans cette voie pour apprendre les bases et réflexions en intégrant une classe préparatoire. Ensuite, j’ai suivi un cursus de 5 ans à l’ENSAD et de 2 ans à l’ENSAD Lab. J’ai commencé à travailler en indépendant dès ma deuxième année à l’ENSAD en tant que designer graphique. Depuis deux ans, j’ai monté une agence de design à Paris. La classe préparatoire m’a apporté la maturité nécessaire pour réussir le concours de l’ENSAD. *
+
+Geoffrey Dorne - promotion 2004
 
 ----
 
@@ -69,3 +84,15 @@ Cover:
 ----
 
 Contexte: En région Hauts de France, l’école d’art du Beauvaisis est un lieu d’enseignement unique à la lumière de son ancrage et de l’histoire locale qui offrent une double spécificité (terre/céramique et fil/textile/matériaux souples). Ateliers de pratiques amateurs, formation pour les congés individuels, stages, expositions céramique et résidence d’artiste, elle accueille aussi  la classe préparatoire. Depuis plusieurs années, d’anciens étudiants, reconnus sur la scène artistique (Alain Declercq, Benjamin Hochart.. ) reviennent y transmettre leur expérience. Les élèves ont accès à une actualité artistique locale (Le Quadrilatère, festival Les Photaumnales...), des collaborations régionales (ESAD Amiens, Frac Nord-Pas-de-Calais....), des visites d’expositions et des voyages pédagogiques en France et à l’étranger.
+
+----
+
+Pdf: fiche-ecole-beauvais.pdf
+
+----
+
+Positionleftmobile: 33
+
+----
+
+Positiontopmobile: 12

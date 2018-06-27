@@ -16,9 +16,7 @@
 					<div class="arrow-back">
 						<a href="<?php echo $site->url()?>" title=""><</a>
 					</div>
-					<div class="site show-for-print">
-						<p>www.appea.fr</p>
-					</div>
+						<p class= "site-print show-for-print">www.appea.fr</p>
 					<h1><?php echo $page->title()->html()?></h1>
 					<?php if($page->pdf()->isNotEmpty()):?>
 						<a class="print-ecole" target="_blank" href="<?php echo $page->pdf()->toFile()->url();?>" title="">Imprimer la fiche école</a>
@@ -29,10 +27,10 @@
 						</div>
 					<?php endif?>
 					<div class="infos-ecoles row">
-						<div class='col-xs-6'>
+						<div class='col-xs-12 col-md-6'>
 							<?php echo $page->adresse()->kt()?>
 						</div>
-						<div class='col-xs-6'>
+						<div class='col-xs-12 col-md-6'>
 							<?php echo $page->infos()->kt()?>
 						</div>
 					</div>
@@ -49,7 +47,7 @@
 					</div>
 					<?php endif;?>
 					<?php if($page->enseignement()->isNotEmpty()):?>
-					<div class="enseignement ">
+					<div class="enseignement section">
 						<h2><?php echo $page->parent()->titleEnseignement()->text()?></h2>
 						<?php echo $page->enseignement()->kt()?>
 					</div>

@@ -26,7 +26,7 @@ Adresse:
 
 T. : 02 96 01 26 56
 (email: beaux-arts@saint-brieuc.fr text: beaux-arts@saint-brieuc.fr)
-(link: http://www.saint-brieuc.fr/ville-dynamique/equipements-culturels/ecole-des-beaux-arts/classe-preparatoire/ text: www.saint-brieuc.fr)
+(link: http://www.saint-brieuc.fr/ville-dynamique/equipements-culturels/ecole-des-beaux-arts/classe-preparatoire/ text: www.saint-brieuc.fr popup: yes)
 
 ----
 
@@ -43,6 +43,20 @@ Nbre élèves par classe : **28 étudiants**
 ----
 
 Calendrier: 
+
+**Journée portes ouvertes**
+samedi 17 mars de 10h à 13h et de 14h à 18h
+
+**Début des inscriptions** : 1er février
+
+**1ère session d'admission** (dépôt de candidature jusqu’au 26 avril) 
+du mercredi 16 au vendredi 18 mai
+
+**2ème session d'admission** (dépôt de candidature jusqu’au 24 mai) 
+du mercredi 6 au vendredi 8 juin 
+
+**Rentrée scolaire**
+mardi 4 septembre 2018
 
 ----
 
@@ -66,6 +80,19 @@ Equipement: L'école a vu le jour à la fin du XIXe siècle et a emménagé en 2
 
 Temoignage: 
 
-« Grâce aux cours pratiques très variés (…), j’ai fait des progrès techniques impressionnants. Quand je regarde mes travaux de septembre et ceux d’aujourd’hui, cela n’a rien à voir.
-La prépa, c’est aussi un suivi personnalisé. Chaque semaine avec quatre autres élèves et un professeur, nous discutons de notre projet individuel mené tout au long de l’année. C’est l’occasion de prendre de la distance avec son travail et de réfléchir à de nouvelles approches. (...) C’est justement ce regard critique, ce recul avec mon travail qui me manquait (...). Chaque trimestre, nous faisons également un bilan devant des professeurs et un artiste invité pour l’occasion. C’est un très bon entraînement à l’épreuve orale des différentes écoles des Beaux-Arts."
+*Grâce aux cours pratiques très variés (…), j’ai fait des progrès techniques impressionnants. Quand je regarde mes travaux de septembre et ceux d’aujourd’hui, cela n’a rien à voir.
+La prépa, c’est aussi un suivi personnalisé. Chaque semaine avec quatre autres élèves et un professeur, nous discutons de notre projet individuel mené tout au long de l’année. C’est l’occasion de prendre de la distance avec son travail et de réfléchir à de nouvelles approches. (...) C’est justement ce regard critique, ce recul avec mon travail qui me manquait (...). Chaque trimestre, nous faisons également un bilan devant des professeurs et un artiste invité pour l’occasion. C’est un très bon entraînement à l’épreuve orale des différentes écoles des Beaux-Arts.*
+
 Marianne Mauclair - promotion 2016
+
+----
+
+Pdf: fiche-ecole-saint-brieuc.pdf
+
+----
+
+Positionleftmobile: -15
+
+----
+
+Positiontopmobile: 22

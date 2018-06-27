@@ -15,7 +15,7 @@ Adresse:
 T. : 05 45 94 00 76 / F. : 05 45 94 86 53
 (email: ecole.dart@grandangouleme.fr text: ecole.dart@grandangouleme.fr)
 (link: http://www.ecole-art-grandangouleme.fr/ text: www.ecole-art-grandangouleme.fr popup: yes )
-(link: http://www.facebook.com/EcoleDArtsPlastiquesDuGrandAngouleme/ text: @EcoleDArtsPlastiquesDuGrandAngouleme)
+F : (link: http://www.facebook.com/EcoleDArtsPlastiquesDuGrandAngouleme/ text: @EcoleDArtsPlastiquesDuGrandAngouleme popup: yes )
 
 ----
 
@@ -32,6 +32,21 @@ Nbre élèves par classe : **20 étudiants**
 ----
 
 Calendrier: 
+
+**Journée portes ouvertes**
+samedi 3 mars 2018, de 10h à 17h
+
+**1ère session d'admission**
+vendredi 6 et samedi 7 avril 2018
+
+**2ème session d'admission**
+vendredi 18 et samedi 19 mai 2018 
+
+**3ème session d'admission**
+lundi 2 juillet 2018
+
+**Rentrée scolaire**
+lundi 3 septembre 2018
 
 ----
 
@@ -51,7 +66,8 @@ Equipement: L’école se compose de deux sites dont un espace de 100 m2 destin�
 
 Temoignage: 
 
-« J’ai voulu faire une classe prépa pour aborder les études d’art et affiner mon choix d’école supérieure. À côté des ateliers sous forme de cours, nous avons eu l’occasion de participer aux évènements culturels et artistiques de la ville de la BD. La classe prépa m’a apporté une meilleure compréhension des enjeux de l’art aujourd’hui, ainsi que de nouveaux moyens d’exploration et d’expression. J’ai pu m’exercer dans des ateliers bien équipés et j’ai été particulièrement enchanté de l’atelier de gravure et des immenses possibilités autour de l’estampe et de l’édition. »
+*J’ai voulu faire une classe prépa pour aborder les études d’art et affiner mon choix d’école supérieure. À côté des ateliers sous forme de cours, nous avons eu l’occasion de participer aux évènements culturels et artistiques de la ville de la BD. La classe prépa m’a apporté une meilleure compréhension des enjeux de l’art aujourd’hui, ainsi que de nouveaux moyens d’exploration et d’expression. J’ai pu m’exercer dans des ateliers bien équipés et j’ai été particulièrement enchanté de l’atelier de gravure et des immenses possibilités autour de l’estampe et de l’édition. *
+
 Nicolas Legros - promotion 2013
 
 ----
@@ -72,4 +88,12 @@ Contexte: Au rythme des ateliers hebdomadaires et des workshops, l’activité d
 
 ----
 
-Pdf: appea-_-le-reseau-des-prepas-publiques.pdf
+Pdf: fiche-ecole-angouleme.pdf
+
+----
+
+Positionleftmobile: 1
+
+----
+
+Positiontopmobile: 52

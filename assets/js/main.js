@@ -38,20 +38,21 @@ function init(){
 
 	$(".rubrique h2").on('click', function(){
 		var $rubriqueInner = $(this).find('.rubrique-inner');
+		$('.rubrique').find('.rubrique-inner').removeClass('ecole-active');
 		if(!$(this).parents('.rubrique').hasClass('active')){
 			$(".rubrique").removeClass('active');
 			$(this).parents('.rubrique').addClass('active');
-			$('html,body').animate({
-	      scrollTop: $(this).offset().top - 30},
-	      800);
+			// $('html,body').animate({
+	  //     scrollTop: $(this).offset().top - 30},
+	  //     800);
 		}
 		else{
 			$(this).parents('.rubrique').removeClass('active');
-			console.log($(this).parents('.rubrique').find('.rubrique-inner'));
-			if($(this).parents('.rubrique').find('.rubrique-inner').hasClass('ecole-active')){
-				$(this).parents('.rubrique').find('.rubrique-inner').removeClass('ecole-active');
-			}
 		}
+		if($('.rubrique[data-key=1]').hasClass('active') && $(".main-ecole").hasClass('loaded')){
+			$('.rubrique[data-key=1]').find('.rubrique-inner').addClass('ecole-active');
+		}
+
 		
 	});
 
@@ -96,9 +97,13 @@ function init(){
 		$('.carte-nom-ecole[data-id='+id+']').removeClass('active');
 	});
 
+	var Zindex = 1;
 	$('.carte-nom-ecole').mouseenter(function(){
 		var id = $(this).attr('data-id');
-			$('.menu-ecole li[data-id='+id+']').addClass('active');
+		$('.menu-ecole li[data-id='+id+']').addClass('active');
+		Zindex++;
+		console.log(Zindex);
+		$(this).css({'z-index': Zindex});
 	});
 
 	$('.carte-nom-ecole').mouseleave(function(){
@@ -146,6 +151,20 @@ function init(){
 		};
 	}
 
+	$('#hamburger').on('click', function(){
+		if($(this).hasClass('checked')){
+			$(this).removeClass('checked');
+			setTimeout(function(){
+				$(".mobile-header").css('background', 'transparent');
+			}, 700);
+			
+		}
+		else{
+			$(this).addClass('checked');
+			$(".mobile-header").css('background', '#FFF');
+		}
+	});
+
 
 }
 
@@ -156,7 +175,8 @@ function openPage(url, target){
     success: function(data) {
       target.html(data).addClass('active').addClass('ecole-active');
       $('.main-ecole').addClass('loaded');
-      console.log(data);
+      var ecoleName = target.find('h1').text();
+      $(".ecole-name-ajax").html(ecoleName);
     }
   });
 }

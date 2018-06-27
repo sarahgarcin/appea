@@ -26,7 +26,7 @@ Adresse:
 
 T. : 04 78 92 94 57
 (email: prepa@ensba-lyon.fr text: prepa@ensba-lyon.fr)
-(link: http://www.prepa-lyon.net text: www.prepa-lyon.net)
+(link: http://www.prepa-lyon.net text: www.prepa-lyon.net popup: yes)
 
 ----
 
@@ -43,6 +43,15 @@ Nbre élèves par classe : **60 étudiants**
 ----
 
 Calendrier: 
+
+**Journée portes ouvertes**
+mercredi 24 janvier de 13h30 à 18h30
+
+**Session d'admission**
+du mardi 22 au jeudi 24 mai
+
+**Session d'admission — Section internationale**
+du mercredi 16 au jeudi 17 mai
 
 ----
 
@@ -74,5 +83,18 @@ Equipement: Les étudiants bénéficient de 1200 m² de surface de travail en pl
 
 Temoignage: 
 
-« Plus que le début d’un grand enrichissement personnel, ça a été le début de l’apprentissage ou un premier aperçu du monde dans lequel on s’apprête à mettre les pieds, de ses possibilités, de sa multiplicité et de ses difficultés. Après la classe préparatoire des Beaux-Arts de Lyon, j’ai passé 3 ans aux Beaux-Arts de Rennes, où j’ai pu approcher et définir, petit à petit, mes préoccupations et mon regard sur le monde. Être dans une école d’art, c’est apprivoiser et affiner ce regard pour lui donner une forme. Trouver la justesse de cette forme amène à exprimer et mieux partager cette pensée singulière. À la suite de mon DNAP obtenu en juin 2011, j’ai fait une équivalence pour les Beaux-Arts de Paris, j’y suis depuis maintenant un an et demi. » 
-Clémence Roudil – Promotion 2008.
+*Plus que le début d’un grand enrichissement personnel, ça a été le début de l’apprentissage ou un premier aperçu du monde dans lequel on s’apprête à mettre les pieds, de ses possibilités, de sa multiplicité et de ses difficultés. Après la classe préparatoire des Beaux-Arts de Lyon, j’ai passé 3 ans aux Beaux-Arts de Rennes, où j’ai pu approcher et définir, petit à petit, mes préoccupations et mon regard sur le monde. Être dans une école d’art, c’est apprivoiser et affiner ce regard pour lui donner une forme. Trouver la justesse de cette forme amène à exprimer et mieux partager cette pensée singulière. À la suite de mon DNAP obtenu en juin 2011, j’ai fait une équivalence pour les Beaux-Arts de Paris, j’y suis depuis maintenant un an et demi. *
+
+Clémence Roudil – Promotion 2008
+
+----
+
+Pdf: fiche-ecole-lyon.pdf
+
+----
+
+Positionleftmobile: 61
+
+----
+
+Positiontopmobile: 55

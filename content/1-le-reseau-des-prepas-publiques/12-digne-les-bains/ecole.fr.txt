@@ -22,7 +22,7 @@ Adresse:
 
 T. : 04 92 31 34 59
 (email: ecoleart@idbl.fr text: ecoleart@idbl.fr)
-(link: http://www.idbl.fr text: www.idbl.fr)
+(link: http://www.idbl.fr text: www.idbl.fr popup: yes)
 
 ----
 
@@ -39,6 +39,24 @@ Nbre élèves par classe : **25 étudiants**
 ----
 
 Calendrier: 
+
+**Journées portes ouvertes**
+du vendredi 16 au samedi 24 mars de 10h à 12h et de 14h à 18h
+sauf vendredi et samedi jusqu’à 17h
+
+**Début des inscriptions** : samedi 1er février
+
+**1ère session d'admission** (dépôt de candidature jusqu’au 12 mai) 
+mardi 22 mai
+
+**2ème session d'admission** (dépôt de candidature jusqu’au 4 juin) 
+mardi 12 juin
+
+**3ème session d'admission** (dépôt de candidature jusqu’au 12 juillet) 
+vendredi 31 août 2018
+
+**Rentrée scolaire** (pré-rentrée lundi 3 septembre 2018)
+mardi 4 septembre 2018
 
 ----
 
@@ -71,7 +89,8 @@ L’école dispose de :
 
 Temoignage: 
 
-« Après un parcours scolaire des plus chaotiques (j’obtiens quand même un bac général), j’arrive en prépa comme l’on arrive en terre inconnue, avec beaucoup de crainte et de préjugés. Choc thermique : pour la première fois, on ne me demande pas d’être le meilleur mais ce que j’ai envie de dire par les formes... J’ai obtenu tous les concours que j’ai tentés. Le fait d’être dans une toute petite structure fait que tout le monde se connaît. Pas de dispositif grandiloquent. Cela pousse à l’échange, au partage avec les professeurs, le personnel technique, les étudiants adultes et enfants ce qui enrichit le travail. Je suis en fin de cursus à l’École Nationale Supérieure de Paris Cergy et de nombreux conseils entendus à Digne résonnent encore en moi aujourd’hui ». 
+*Après un parcours scolaire des plus chaotiques (j’obtiens quand même un bac général), j’arrive en prépa comme l’on arrive en terre inconnue, avec beaucoup de crainte et de préjugés. Choc thermique : pour la première fois, on ne me demande pas d’être le meilleur mais ce que j’ai envie de dire par les formes... J’ai obtenu tous les concours que j’ai tentés. Le fait d’être dans une toute petite structure fait que tout le monde se connaît. Pas de dispositif grandiloquent. Cela pousse à l’échange, au partage avec les professeurs, le personnel technique, les étudiants adultes et enfants ce qui enrichit le travail. Je suis en fin de cursus à l’École Nationale Supérieure de Paris Cergy et de nombreux conseils entendus à Digne résonnent encore en moi aujourd’hui.*
+
  Stephen Loye
 
 ----
@@ -84,3 +103,15 @@ Contexte:
 
 L’école d’art intercommunale de Digne est implantée depuis 2012, dans un bâtiment de plus de 1900 m2, conçu et équipé spécifiquement pour l’enseignement et la diffusion des arts visuels. Elle bénéficie d’un environnement culturel exceptionnel grâce à une politique de commande publique ambitieuse, pilotée par le CAIRN-centre d’art et le musée Gassendi, autour des problématiques art/nature, art/paysage, etc., autant d’institutions avec qui l’école collabore dans le cadre d’une programmation d’expositions, d’événements, de workshops et de conférences.
 Elle possède une galerie d’exposition, le BILD, lieu de programmation conventionnée avec le Frac PACA, dont les commissariats d’expositions sont assurés par les étudiants de la classe préparatoire dans le cadre de leurs cours de culture générale.
+
+----
+
+Pdf: fiche-ecole-digne.pdf
+
+----
+
+Positionleftmobile: 68
+
+----
+
+Positiontopmobile: 63

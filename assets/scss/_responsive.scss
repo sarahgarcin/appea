@@ -1,4 +1,5 @@
-@media only screen and (max-width: 700px){
+
+@media only screen and (max-width: 48em){
 	$lineWidth: 2px;
 	$lineLength: 30px;
 	$baseMargin: 8px;
@@ -10,7 +11,23 @@
 
 	.logo-wrapper{
 		padding: 0;
+    padding-left: 0.5rem;
+    max-width: 350px;
 	}
+
+  .mobile-logo-ecole-menu{
+    position:absolute;
+    top:20px;
+    left:30px;
+  }
+
+  .mobile-header{
+    position:absolute;
+    right: 30px;
+    top:20px;
+    width: 100%;
+    z-index: 999;
+  }
 
 	.carte-ecoles{
 		display:none;
@@ -45,7 +62,10 @@
 		transition-duration: $animationDuration;
 		margin-top: 30px; 
 		margin-bottom: 20px;
-		padding-left: 0.5rem;
+		//padding-left: 0.5rem;
+    // width: 70%;
+    // margin-left: 27%;
+    text-align: right;
 	  li{
 	  	display:block;
 	  	font-size: 1.2em;
@@ -61,6 +81,7 @@
 	  		padding-left: 40px;
 	  		height: 0;
 	  		transition: all 1s linear;
+        margin:0;
 	  		li{
 	  			font-size: 1em;
 	  		}
@@ -75,10 +96,14 @@
 		height: 0;
 	}
 
+  .module-menu{
+    width: 100%;
+  }
+
 	.menuicon {
-	  position: absolute;
-	  top: 0px;
-	  left: 0.5rem;
+	 position: absolute;
+    top: 0px;
+    right: 0.5rem;
 	  display: block;
 	  cursor: pointer;
 	  height: $baseMargin*2 + $lineWidth;
@@ -113,7 +138,7 @@
 
 	#hamburger:checked ~ .menu {
 	  height: auto;
-	  max-height: 500px
+	  max-height: 500px;
 	}
 
 	#hamburger:checked ~ .menuicon {
@@ -138,9 +163,14 @@
 			// font-size: 1px;
 		}
 	}
-			.main-content{
-		margin-top: 50px;
+	.main-content{
+    position: relative; 
+    top: 150px;
 	}
+
+  .main-ecole{
+    top:0;
+  }
 
 
   .ecole-wrapper{
@@ -155,39 +185,63 @@
   	}
   }
 
-  .infos-ecoles{
-  	word-wrap: break-word;
-  }
+
 
   .carte-ecoles{
   	.carte-nom-ecole{
-  		padding: 1px 2px; 
-  		padding-top: 0px;
+      padding: 0px 3px 2px 3px;
+      a{
+        font-size: 0.6em;
+      }
   	}
+    .carte-wrapper{
+      //padding: 0;
+    }
   }
 }
 
-@media only screen and (max-width: 1000px){
+@media only screen and (min-width: 500px){
+  .carte-ecoles{
+    .carte-nom-ecole{
+      a{
+        font-size: 1em;
+      }
+    }
+  }
+}
 
-	.main-ecole{
-		margin-top: 10px;
-	}
+@media only screen and (min-width: 760px){
+  .carte-ecoles{
+    .carte-nom-ecole{
+      a{
+        font-size: 0.8em;
+      }
+    }
+  }
+}
 
-	.arrow-back {
-	    left: 0.5rem;
-	    top: -28px;
-	  }
+@media only screen and (min-width: 1000px){
 
-	.main-content{
-		margin-top: 35px;
-	}
-	.carte-ecoles{
-		.carte-nom-ecole{
-			a{
-				font-size: 0.6em;
-			}
-		}
-	}
+  .main-ecole{
+    margin-top: 10px;
+    top:0;
+  }
+
+  .arrow-back {
+      left: 0.5rem;
+      top: -28px;
+    }
+
+  .main-content{
+    margin-top: 35px;
+  }
+  .carte-ecoles{
+    .carte-nom-ecole{
+      a{
+        font-size: 0.8em;
+      }
+    }
+  }
 }
 
 
@@ -433,7 +487,7 @@
 
 @media only screen and (min-width: 2000px){
 	.row{
-		max-width: 1800px;
+		max-width: 1700px;
 	}
 
 

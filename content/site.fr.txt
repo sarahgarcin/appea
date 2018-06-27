@@ -47,3 +47,7 @@ Logospartenaires:
 ----
 
 Logosquare: logo_block.png
+
+----
+
+Construction: Ce site est actuellement en construction

@@ -1,5 +1,5 @@
 @import "../fonts/stylesheet.css";
-// @import url('https://rsms.me/inter/inter-ui.css');
+@import url('https://rsms.me/inter/inter-ui.css');
 
 @mixin titrePage{
 	font-family: "petitemort", serif;
@@ -13,6 +13,12 @@
 @mixin texteMoyen{
 	font-family: 'Inter UI', sans-serif;
 	font-size: 1.2em;
+	line-height: 140%;
+}
+
+@mixin texteCourant{
+	font-family: 'spectral', sans-serif;
+	font-size: 15px;
 	line-height: 140%;
 }
 

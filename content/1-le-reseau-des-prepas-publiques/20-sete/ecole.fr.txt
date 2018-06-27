@@ -6,11 +6,11 @@ Shortname: Sète
 
 ----
 
-Positionleft: 21
+Positionleft: 29
 
 ----
 
-Positiontop: 50
+Positiontop: 48
 
 ----
 
@@ -26,7 +26,7 @@ Adresse:
 
 T. :  04 99 04 76 10
 (email: ecolebeauxarts@ville-sete.fr text: ecolebeauxarts@ville-sete.fr)
-(link: http://beauxarts.sete.fr text: beauxarts.sete.fr)
+(link: http://beauxarts.sete.fr text: www.beauxarts.sete.fr popup: yes)
 
 ----
 
@@ -43,6 +43,15 @@ Nbre élèves par classe : **30 étudiants**
 ----
 
 Calendrier: 
+
+**Journée portes ouvertes**
+samedi 3 mars de 10h30 à 18h
+
+**Session d'admission** (dépôt de candidature jusqu’au 3 mai)
+du lundi 28 mai au vendredi 1er juin
+
+**Rentrée scolaire**
+mardi 4 septembre 2018 à 10h
 
 ----
 
@@ -67,5 +76,18 @@ Le site offre aussi dans le parc, des ateliers extérieurs et un théâtre de ve
 
 Temoignage: 
 
-« Prépa de Sète c'est le mec sur qui t'as des vues et qui un jour te fait comprendre qu'y a moyen. Il est beau, cultivé, même le souvenir de son odeur t'empêche de dormir. T'es persuadée de ne pas mériter qu'il te mate avec autant de désir mais il le fait. Prépa de Sète te rend dingue, tu t'intéresses à ce qui l'intéresse, tu mijotes des plats dans l'espoir qu'il les aime, tu le présentes à tes parents — ils l'adorent —, alors tu ne penses plus qu'à lui, tu lui fais des enfants. Puis un jour, il te présente à des amis, tu tombes amoureuse d'un des amis, tu te sépares de Prépa de Sète, tu gardes contact, c'était court mais il reste le père de tes enfants. Ou Prépa de Sète c'était peut être qu'un coup d'un soir... » 
-Stessie Audras - Promotion 2010-2011. DNSEP Villa Arson, 2016.
+*Prépa de Sète c'est le mec sur qui t'as des vues et qui un jour te fait comprendre qu'y a moyen. Il est beau, cultivé, même le souvenir de son odeur t'empêche de dormir. T'es persuadée de ne pas mériter qu'il te mate avec autant de désir mais il le fait. Prépa de Sète te rend dingue, tu t'intéresses à ce qui l'intéresse, tu mijotes des plats dans l'espoir qu'il les aime, tu le présentes à tes parents — ils l'adorent —, alors tu ne penses plus qu'à lui, tu lui fais des enfants. Puis un jour, il te présente à des amis, tu tombes amoureuse d'un des amis, tu te sépares de Prépa de Sète, tu gardes contact, c'était court mais il reste le père de tes enfants. Ou Prépa de Sète c'était peut être qu'un coup d'un soir... *
+
+Stessie Audras - Promotion 2010 / DNSEP Villa Arson
+
+----
+
+Pdf: fiche-ecole-sete.pdf
+
+----
+
+Positionleftmobile: 55
+
+----
+
+Positiontopmobile: 87

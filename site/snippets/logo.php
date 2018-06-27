@@ -1,7 +1,12 @@
 <!-- <div class="module-logo col-xs-5 col-sm-2 col-md-3 col-lg-3"> -->
-	<div class="logo-wrapper col-xs-10 col-sm-8 col-md-6 col-xlg-5 hide-for-print">
+	<div class="logo-wrapper col-xs-10 col-sm-8 col-md-6 col-xlg-5 hide-for-print hide-for-small-only">
 	  <a href="<?php echo $site->url()?>" title="<?php echo $site->title()?>">
 	  	<img src="<?php echo $site->logo()->toFile()->url()?>" alt="Logo APPEA">
+	  </a>
+	</div>
+	<div class="logo-wrapper col-xs-12 show-for-small-only">
+	  <a href="<?php echo $site->url()?>" title="<?php echo $site->title()?>">
+	  	<img src="<?php echo $site->url()?>/assets/images/Logo_Block-light.png" alt="Logo APPEA">
 	  </a>
 	</div>
 	<div class="logo-wrapper col-xs-12 show-for-print">

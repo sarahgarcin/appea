@@ -6,11 +6,11 @@ Shortname: Beaune
 
 ----
 
-Positionleft: 30
+Positionleft: 32
 
 ----
 
-Positiontop: 25
+Positiontop: 24
 
 ----
 
@@ -22,7 +22,7 @@ PMB – 6 Boulevard Perpreuil
 
 T. : 03 80 24 56 96 / F. :03 80 22 58 90
 (email: ecolebeauxarts@beaunecoteetsud.fr text: ecolebeauxarts@beaunecoteetsud.fr)
-(link: http://artbeaune.fr/ text: beaunart.com)
+(link: http://artbeaune.fr/ text: www.beaunart.com popup: yes)
 
 ----
 
@@ -40,6 +40,18 @@ Nbre élèves par classe : **26 étudiants**
 
 Calendrier: 
 
+**Journées portes ouvertes**
+du lundi 12 au vendredi 16 février de 10h à 18h
+
+**1ère session d'admission** (dépôt de candidature jusqu’au 30 mars)
+jeudi 5 et vendredi 6 avril 
+
+**2ème session d'admission** (dépôt de candidature jusqu’au 22 juin)
+jeudi 28 et vendredi 29 juin
+
+**Rentrée scolaire**
+lundi 10 septembre 2018
+
 ----
 
 Enseignement: 
@@ -56,7 +68,8 @@ Equipement: L’école bénéficie de 900 m2 de locaux : un plateau polyvalent d
 
 Temoignage: 
 
-Une école préparatoire, c’est un an pour apprendre beaucoup de choses ! Non seulement, il y a une vraie préparation aux concours des écoles supérieur d’arts, mais aussi de réels échanges et un accompagnement spécifique grâce à l’expertise des professeurs afin de cibler au mieux les écoles qui nous correspondent, prendre confiance en soi, et découvrir des pratiques et techniques artistiques. Pour moi l’école préparatoire des Beaux-arts de Beaune a été primordiale dans mon cursus scolaire. 
+*Une école préparatoire, c’est un an pour apprendre beaucoup de choses ! Non seulement, il y a une vraie préparation aux concours des écoles supérieur d’arts, mais aussi de réels échanges et un accompagnement spécifique grâce à l’expertise des professeurs afin de cibler au mieux les écoles qui nous correspondent, prendre confiance en soi, et découvrir des pratiques et techniques artistiques. Pour moi l’école préparatoire des Beaux-arts de Beaune a été primordiale dans mon cursus scolaire. *
+
 Hélène Fréry – promotion 2011-2012
 
 ----
@@ -66,3 +79,15 @@ Cover:
 ----
 
 Contexte: À l’école des Beaux-arts de Beaune se cotoient différents types de publics (classe préparatoire et pratiques amateurs enfants/adultes) à travers des échanges variés et des expositions. Depuis plusieurs années, l’école a ainsi développé plusieurs partenariats locaux avec les ateliers de cinéma de Claude Lelouch, le lycée agricole et viticole de Beaune et l’École des Beaux-Arts de Dijon. Elle a également signé une convention portant sur la création d’une plateforme des écoles d’arts publiques de Bourgogne-Franche-Comté afin de favoriser les rencontres entre étudiants. Chaque année, des workshops, des spectacles, des visites extérieures et des projections sont intégrés à l’emploi du temps de nos élèves.
+
+----
+
+Pdf: 
+
+----
+
+Positionleftmobile: 56
+
+----
+
+Positiontopmobile: 42

@@ -1,8 +1,8 @@
-Title: Evry
+Title: Évry
 
 ----
 
-Shortname: Evry
+Shortname: Évry
 
 ----
 
@@ -20,13 +20,13 @@ Cover:
 
 Adresse: 
 
-**Service Arts visuels **
+**Ateliers d’arts plastiques / Évry**
 6 rue de Ratisbonne
 91000 Évry
 
 T. : 01 60 78 76 81
 (email: aap@grandparissud.fr text: aap@grandparissud.fr)
-(link: https://sortir.grandparissud.fr/equipements/classe-preparatoire-arts-visuels-site-de-la-ferme-du-bois-briard text: sortir.grandparissud.fr)
+(link: https://sortir.grandparissud.fr/equipements/classe-preparatoire-arts-visuels-site-de-la-ferme-du-bois-briard text: www.sortir.grandparissud.fr popup: yes)
 
 ----
 
@@ -43,6 +43,22 @@ Nbre élèves par classe : **20 étudiants**
 ----
 
 Calendrier: 
+
+**Journée portes ouvertes**
+(à la Ferme du Bois Briard, Courcouronnes) 
+samedi 17 mars de 11h à 18h
+
+**1ère session d'admission** (dépôt de candidature jusqu’au 30 avril) 
+mercredi 16 mai 2018
+
+**2ème session d'admission** (dépôt de candidature jusqu’au 4 juin) 
+mercredi 27 juin 2018
+
+**3ème session d'admission** (dépôt de candidature jusqu’au 20 août) 
+mercredi 29 août 2018
+
+**Rentrée scolaire**
+mercredi 5 septembre 2018
 
 ----
 
@@ -66,5 +82,18 @@ Equipement: Les infrastructures dont disposent les étudiants se trouvent sur de
 
 Temoignage: 
 
-« À travers cet enseignement, j’ai découvert des questions et des réponses que j’ai eu envie de creuser, je me suis épanoui». L’année est intense. Il faut intégrer beaucoup de choses en peu de temps. Et il faut se trouver une identité pour avoir un travail personnel à présenter aux concours. On apprend beaucoup sur soi. Cette prépa a des avantages énormes : elle est publique, déjà, mais elle est surtout plus petite. Il y a un prof pour trois élèves, ce qui fait que nous sommes vraiment suivis. C’est génial ! J’ai beaucoup appris ici. » 
-Louis Chaumier - promotion 2016
+*À travers cet enseignement, j’ai découvert des questions et des réponses que j’ai eu envie de creuser, je me suis épanoui». L’année est intense. Il faut intégrer beaucoup de choses en peu de temps. Et il faut se trouver une identité pour avoir un travail personnel à présenter aux concours. On apprend beaucoup sur soi. Cette prépa a des avantages énormes : elle est publique, déjà, mais elle est surtout plus petite. Il y a un prof pour trois élèves, ce qui fait que nous sommes vraiment suivis. C’est génial ! J’ai beaucoup appris ici. *
+
+Louis Chaumier - Promotion 2016
+
+----
+
+Pdf: fiche-ecole-evry.pdf
+
+----
+
+Positionleftmobile: 34
+
+----
+
+Positiontopmobile: 155

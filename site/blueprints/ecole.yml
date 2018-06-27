@@ -16,6 +16,14 @@ fields:
     label: Position en y sur la carte
     type: text
     width: 1/2
+  positionLeftMobile:
+    label: Smartphone — Position en x sur la carte
+    type: text
+    width: 1/2
+  positionTopMobile:
+    label: Smartphone — Position en y sur la carte
+    type: text
+    width: 1/2  
   pdf:
     label: Fiche école
     type: selector

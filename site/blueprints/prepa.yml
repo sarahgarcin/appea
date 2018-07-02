@@ -23,4 +23,10 @@ fields:
   text:
     label: Texte
     type:  markdown
+  docs:
+    label: Documents
+    type: selector
+    mode:  multiple
+    types:
+      - document
 

@@ -31,13 +31,16 @@
 						    $files = call_user_func_array(array($rubrique->files(), 'find'), $filenames);?>
 						    <div class="rubrique-inner">
 								  <div class="rubrique-content">
+								  	<?php if($rubrique->hasChildren()):
+								  		snippet('carte'); 
+								  	endif; ?>
 								  	<?php echo $rubrique->text()->kt() ?>
 								  </div>
 
 								  <ul class="docs row">
 								  	<h3 class="col-xs-12">Documents à télécharger</h3>
 								    <?php foreach($files as $file):?>
-								    <li class="col-xs-4">
+								    <li class="col-xs-12 col-md-4">
 									  	<a href="<?php echo $file->url()?>" title="<?php echo $file->url()?>" target="_blank">
 									  		<img src="<?php echo $site->url()?>/assets/images/pdf.png" alt="document" width="24" >
 									  		<?php echo $file->name()?>
@@ -48,13 +51,13 @@
 							  </div>
 							<?php elseif($rubrique->questions()->isNotEmpty()):?>
 								<div class='row rubrique-inner'>
-									<div class="questions col-xs-4">
+									<div class="questions col-xs-12 col-md-4">
 										<?php foreach($rubrique->questions()->toStructure() as $key=>$question): ?>
 											<h3 class='<?php if($key == 0){?>active<?php }?>' data-key=<?php echo $key ?>><?php echo $question->title()->html()?></h3>
 										<?php endforeach ?>
 										
 									</div>
-									<div class="reponses col-xs-8">
+									<div class="reponses col-xs-12 col-md-8">
 										<?php foreach($rubrique->questions()->toStructure() as $key=>$question): ?>
 											<div class="response-wrapper<?php if($key == 0){?> active<?php }?>" data-key=<?php echo $key ?>>
 												<?php echo $question->text()->kt()?>
@@ -63,11 +66,6 @@
 										
 									</div>
 								
-								</div>
-							<?php else:?>
-								<div class="rubrique-inner">
-									<?php snippet('carte'); ?>
-									<?php echo $rubrique->text()->kt() ?>
 								</div>
 							<?php endif?>
 

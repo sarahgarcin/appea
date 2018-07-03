@@ -5,36 +5,50 @@ Title: Partenaires
 Partenaires: 
 
 - 
-  title: test
-  text: "ça c'est mon super"
+  title: Ministère de la Culture
+  text: |
+    Le Ministère de la Culture participe au développement des pratiques et des enseignements artistiques. Il contribue, conjointement avec les autres ministres intéressés, à la définition et à la mise en œuvre de la politique d'éducation artistique et culturelle des enfants et des jeunes adultes tout au long de leurs cycles de formation.
+    Il encourage les initiatives culturelles locales, développe les liens entre les politiques culturelles de l’État et celles des collectivités territoriales.
+    Depuis 2017, le Ministère de la culture apporte son soutien à l’APPÉA.
+    De plus, dans le cadre du Décret n° 2017-718 du 2 mai 2017 relatif aux établissements d’enseignement de la création artistique, toutes les écoles membres de l’APPÉA bénéficie de l’agrément du ministère de la Culture permettant à leurs élèves de bénéficier des bourses.
+    
+    (link: http://www.culture.gouv.fr/ text: www.culture.gouv.fr popup: yes)
   logo: logo-ministere.png
 - 
-  title: Lorem ipsum dolor sit amet.
-  text: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Curabitur nisl elit,
-    gravida ut scelerisque a, feugiat et mi.
-    Morbi egestas eget purus nec cursus.
-    Integer dignissim bibendum nulla at
-    bibendum. Phasellus fermentum velit eget
-    eros molestie, non commodo turpis
-    accumsan. Sed facilisis tortor in
-    scelerisque aliquam. Donec vel eleifend
-    arcu. Donec sed dui pulvinar, ornare
-    odio vitae, varius lectus.
+  title: 'La Fondation Culture & Diversité'
+  text: |
+    La Fondation d’entreprise Culture & Diversité a pour mission de favoriser l'accès aux arts et à la culture des jeunes issus de milieux modestes. Depuis son lancement en 2006, elle conçoit et mène directement sur le terrain avec ses partenaires culturels, éducatifs et sociaux des programmes pérennes. Plus de 30 000 jeunes ont d’ores et déjà bénéficié de ses actions.
+    Les programmes de la Fondation visent un double objectif :
+    •	en faveur de l’égalité des chances, ils facilitent l’accès aux études supérieures culturelles ou artistiques d’excellence.
+    •	en faveur de la cohésion sociale, ils permettent la sensibilisation culturelle, la pratique artistique et l’apprentissage des connaissances.
+    Depuis 2008, la Fondation d’entreprise Culture & Diversité est partenaire de l’APPÉA et apporte son soutien à l’association lui permettant de développer ses actions pour mieux faire connaître les classes préparatoires publiques aux Écoles d’art et permettre à tous ceux qui cherchent une orientation artistique à mieux se repérer dans le paysage éducatif.
+    
+    (link: http://www.fondationcultureetdiversite.org/ text: www.fondationcultureetdiversite.org popup: yes)
   logo: logo-culture.png
 - 
-  title: Curabitur
-  text: >
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Curabitur nisl elit,
-    gravida ut scelerisque a, feugiat et mi.
-    Morbi egestas eget purus nec cursus.
-    Integer dignissim bibendum nulla at
-    bibendum. Phasellus fermentum velit eget
-    eros molestie, non commodo turpis
-    accumsan. Sed facilisis tortor in
-    scelerisque aliquam. Donec vel eleifend
-    arcu. Donec sed dui pulvinar, ornare
-    odio vitae, varius lectus.
-  logo: logo-ministere.png
+  title: Studyrama
+  text: |
+    En tant qu’acteur référent du monde de l’orientation et de l’aide à la réussite aux examens et aux concours, la vocation du groupe Studyrama est d’accompagner et de conseiller chaque individu tout au long de son parcours étudiant et professionnel.
+    Depuis 2016 Studyrama est partenaire de l’APPÉA à travers le mise à disposition gracieuse d’un stand à l’occasion de la tenue leur salon étudiant « Art & luxe » à Paris.
+    
+    (link: https://www.studyrama.com/ text: www.studyrama.com popup: yes)
+  logo: logo_studyrama.png
+- 
+  title: ANdÉA
+  text: |
+    Association Nationale des Écoles supérieures d'Art et de design publiques
+    Créée en 1995, l’ANdÉA fédère 43 écoles supérieures d'art françaises sous tutelle du ministère de la Culture. Ces établissements d’enseignement supérieur et de recherche délivrant des diplômes nationaux de niveau Bac +3, Bac +5 et Bac +8, des 3e cycles et post-masters professionnels, sont représentés au sein de l’ANdÉA par plus de 200 membres issus de toutes les catégories d’acteurs : professeurs, étudiants, directeurs, administrateurs, chefs de services.
+    Mettant en réseau des écoles territoriales et nationales de toutes envergures et de tous les territoires, l’ANdÉA est une plate-forme de réflexion, une instance de proposition et une force d’affirmation de la spécificité de l’enseignement supérieur artistique par la création. Elle défend un modèle de formation et de recherche singulier qui se caractérise par le primat de la référence au champ artistique contemporain, aux figures de l’artiste et de l’auteur et par une pédagogie fondée sur l’expérimentation, le jugement critique et le projet personnel de l’étudiant.
+    
+    (link: http://www.andea.fr/fr/home/ text: www.andea.fr popup: yes)
+  logo: andea_logo_final_baseline.jpg
+- 
+  title: CIPAC
+  text: |
+    Le CIPAC / Fédération des professionnels de l'art contemporain, fédère dix-huit organisations professionnelles ou réseaux engagés pour le soutien à la création et la diffusion de l'art contemporain.
+    Le CIPAC rassemble des réseaux nationaux de structures (les Centres d'art, les Fonds régionaux d'art contemporain, les Artothèques, les Écoles supérieures d'art, leurs bibliothèques, les Écoles préparatoires aux écoles d'art, résidences d'artistes, diffuseurs de la photographie contemporaine). En 2012, Le CIPAC a également ouvert ses statuts aux réseaux régionaux constitués d'institutions, d'associations, de collectifs d'artistes œuvrant ensemble sur un territoire.
+    Le CIPAC regroupe également les organisations professionnelles représentant plus spécifiquement des métiers : les métiers de l'exposition agissant dans ces structures, les commissaires d'exposition, les critiques d'art, les conservateurs-restaurateurs, les enseignants des écoles d'art. Enfin le secteur privé de l'art est représenté par l'adhésion du Comité professionnel des galeries d'art.
+    Les organisations ainsi rassemblées contribuent à soutenir et à développer le secteur des arts plastiques et des arts visuels grâce à la diffusion de travaux et de propositions pour la professionnalisation des métiers et des structures.
+    
+    (link: http://www.cipac.net/ text: www.cipac.net popup: yes)
+  logo: zs8.jpg

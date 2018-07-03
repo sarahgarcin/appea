@@ -4,9 +4,8 @@ Title: Cherbourg
 
 Adresse: 
 
-61, rue de l’Abbaye 
-50100
-Cherbourg-en-Cotentin
+61 rue de l’Abbaye 
+50100 Cherbourg-en-Cotentin
 
 T. 02 14 37 25 00
 (email: info@esam-c2.fr text: info@esam-c2.fr)
@@ -30,15 +29,15 @@ Nbre élèves : **30 à 40 élèves**
 Calendrier: 
 
 **Journée portes ouvertes**
-samedi 10 février de 10h à 18h
+samedi 10 février 2018, de 10h à 18h
 
-**Début des inscriptions** : lundi 15 janvier
+**Début des inscriptions** : lundi 15 janvier 2018
 
 **1ère session d'admission** (dépôt de candidature jusqu’au 3 mai) 
-du lundi 14 au mercredi 16 mai
+du lundi 14 au mercredi 16 mai 2018
 
-**2ème session d'admission** (dépôt de candidature jusqu’au 10 juillet) 
-jeudi 12 et vendredi 13 juillet
+**2ème session d'admission** (inscription en ligne en cliquant (link: https://www.esam-c2.fr/admission-81 text: ici popup: yes) et dépôt de candidature jusqu’au 10 juillet) 
+jeudi 12 et vendredi 13 juillet 2018
 
 ----
 
@@ -67,7 +66,6 @@ Equipement:
 Temoignage: 
 
 *Après mon bac S, j’ai intégré la classe préparatoire à Cherbourg. Elle a été déterminante pour moi car j’y ai découvert une autonomie, une façon de penser et d’enseigner complètement différente du lycée. On apprend à nous lâcher dans nos pratiques et à faire un gros travail sur nous-mêmes pour savoir qui nous sommes et comment choisir notre orientation. La prépa a déclenché chez moi une réelle passion pour le design textile. Après avoir suivi les conseils des professeurs, j’ai réussi le concours de l’école qu’il me fallait : la HEAR à Mulhouse.*
-
 Charles-Henri Liégeard - promotion 2013 / Étudiant à l’ISTA (Institut Supérieur Textile d’Alsace)
 
 ----
@@ -76,7 +74,7 @@ Shortname: Cherbourg
 
 ----
 
-Positionleft: 5
+Positionleft: 6
 
 ----
 
@@ -92,12 +90,12 @@ Contexte: L’ésam Caen/Cherbourg fait partie du réseau des 45 écoles supéri
 
 ----
 
-Pdf: fiche-ecole-cherbourg.pdf
+Pdf: fiche-ecole-appea-2018-cherbourg.pdf
 
 ----
 
-Positionleftmobile: -2
+Positionleftmobile: 12
 
 ----
 
-Positiontopmobile: 10
+Positiontopmobile: 14

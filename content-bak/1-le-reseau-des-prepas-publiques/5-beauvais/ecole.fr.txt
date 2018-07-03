@@ -16,25 +16,66 @@ Positiontop: 9
 
 Adresse: 
 
+**École d’Art du Beauvaisis**
+Espace Culturel François Mitterrand - 43 rue de Gesvres
+60000 Beauvais
+
+T. : 03 44 15 67 06
+(email: eab@beauvaisis.fr text: eab@beauvaisis.fr)
+(link: http://www.ecole-art-du-beauvaisis.com text: www.ecole-art-du-beauvaisis.com popup: yes)
+
 ----
 
 Infos: 
+
+**Direction : Hélène Lallier**
+
+Année de création classe préparatoire :**1980**
+Nbre de classe :** 1**
+Nbre élèves par classe : **30 étudiants**
+
+**Tarif 2017-2018 :** 670 €
 
 ----
 
 Calendrier: 
 
+**Journée portes ouvertes**
+samedi 3 février 2018
+
+**Début des inscriptions** : début janvier
+
+**1ère session d'admission** (dépôt de candidature jusqu’au 9 avril)
+vendredi 18 mai
+
+**2ème session d'admission** (dépôt de candidature jusqu’au 18 juin)
+mardi 3 juillet
+
+**Rentrée scolaire**
+mardi 4 septembre 2018
+
 ----
 
 Enseignement: 
+
+L’année pédagogique se construit de septembre à avril, au rythme de 35 h hebdomadaire.
+Un suivi personnalisé est opéré pour chaque élève, et ce, jusqu’au stage en entreprise (mai-juin). Une thématique oriente l’année et chaque jour de la semaine est consacré à une dominante plastique : dessin et couleur, communication visuelle, infographie,  analyse d’œuvre, suivi de dossier, photographie, anglais, gravure, histoire de l’art, terre-volume-espace. Deux concours blancs, un oral devant un jury extérieur composé d’enseignants d’Écoles Supérieures d’Art, ainsi que des notations par atelier, des corrections collectives de travaux et la réalisation d’un dossier personnel jalonnent l’année pour s’entraîner aux concours. Au-delà du cursus obligatoire, des intervenants extérieurs et des artistes en résidence, viennent partager leur pratique et animer des stages et des workshops.
 
 ----
 
 Equipement: 
 
+L’école dispose d’un espace de 2000 m2 et de 14 salles et ateliers répartis autour d’une verrière : un atelier terre/volume de 500 m2, des ateliers infographie, gravure, photographie, sculpture. La salle audio est équipée d'un matériel de vidéo-projection ; l'atelier céramique est doté de 4 fours électriques et de 2 fours à gaz.
+L’école dispose aussi de 3 salles de dessin/peinture, ainsi que d’une salle d’exposition.
+Les étudiants de la classe préparatoire bénéficient d’un atelier spécifique au développement de leurs activités.
+
 ----
 
 Temoignage: 
+
+*Pour être sûr de mon orientation j’ai commencé par des cours du soir lorsque j’étais lycéen et j’ai voulu continuer dans cette voie pour apprendre les bases et réflexions en intégrant une classe préparatoire. Ensuite, j’ai suivi un cursus de 5 ans à l’ENSAD et de 2 ans à l’ENSAD Lab. J’ai commencé à travailler en indépendant dès ma deuxième année à l’ENSAD en tant que designer graphique. Depuis deux ans, j’ai monté une agence de design à Paris. La classe préparatoire m’a apporté la maturité nécessaire pour réussir le concours de l’ENSAD. *
+
+Geoffrey Dorne - promotion 2004
 
 ----
 
@@ -42,4 +83,16 @@ Cover:
 
 ----
 
-Contexte: 
+Contexte: En région Hauts de France, l’école d’art du Beauvaisis est un lieu d’enseignement unique à la lumière de son ancrage et de l’histoire locale qui offrent une double spécificité (terre/céramique et fil/textile/matériaux souples). Ateliers de pratiques amateurs, formation pour les congés individuels, stages, expositions céramique et résidence d’artiste, elle accueille aussi  la classe préparatoire. Depuis plusieurs années, d’anciens étudiants, reconnus sur la scène artistique (Alain Declercq, Benjamin Hochart.. ) reviennent y transmettre leur expérience. Les élèves ont accès à une actualité artistique locale (Le Quadrilatère, festival Les Photaumnales...), des collaborations régionales (ESAD Amiens, Frac Nord-Pas-de-Calais....), des visites d’expositions et des voyages pédagogiques en France et à l’étranger.
+
+----
+
+Pdf: fiche-ecole-beauvais.pdf
+
+----
+
+Positionleftmobile: 33
+
+----
+
+Positiontopmobile: 12

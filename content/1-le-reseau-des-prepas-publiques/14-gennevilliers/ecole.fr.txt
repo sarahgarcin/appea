@@ -21,7 +21,7 @@ Cover:
 Adresse: 
 
 **École municipale des Beaux-Arts | Galerie Édouard-Manet**
-3 Place Jean-Grandel
+3 place Jean-Grandel
 92230 Gennevilliers
 
 T. : 01 40 85 67 40
@@ -34,8 +34,8 @@ Infos:
 
 **Direction : Lionel Balouin**
 
-Année de création classe préparatoire :** 2004**
-Nbre de classe :** 1**
+Année de création classe préparatoire : **2004**
+Nbre de classe : **1**
 Nbre élèves par classe : **20 étudiants**
 
 **Tarif 2017-2018 :** 536,30 €
@@ -45,13 +45,13 @@ Nbre élèves par classe : **20 étudiants**
 Calendrier: 
 
 **Journée portes ouvertes**
-samedi 10 mars de 10h à 18h
+samedi 10 mars 2018, de 10h à 18h
 
 **1ère session d'admission** (dépôt de candidature jusqu’au 15 avril) 
-du mardi 15 au vendredi 18 mai
+du mardi 15 au vendredi 18 mai 2018
 
 **2ème session d'admission** (dépôt de candidature jusqu’a mi-juillet) 
-fin août
+fin août 2018
 
 ----
 
@@ -70,17 +70,16 @@ Equipement: Les étudiants en classe préparatoire bénéficient d’un atelier 
 Temoignage: 
 
 *Mon année à Gennevilliers était celle de transition entre le lycée et l’enseignement supérieur. En entrant en prépa, je ne savais pas trop ce que je voulais faire, ni vers quelle école me diriger exactement. C’est en prépa que j’ai pu préciser mes préoccupations esthétiques ; mes références, et surtout le médium qui m’attirait le plus. Quant aux relations établies avec les professeurs, elles furent précieuses.*
-
 Sacha Golemanas - Promotion 2012 / Diplômée de l’école nationale supérieure d’art de Paris-Cergy
 
 ----
 
-Pdf: fiche-ecole-gennevilliers.pdf
+Pdf: fiche-ecole-appea-2018-gennevilliers.pdf
 
 ----
 
-Positionleftmobile: 18
+Positionleftmobile: 24
 
 ----
 
-Positiontopmobile: 127
+Positiontopmobile: 113

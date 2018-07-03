@@ -4,7 +4,7 @@ Title: Qu’est-ce qu’une classe préparatoire ?
 
 Text: 
 
-Une classe préparatoire publique aux écoles supérieures d’art permet à tout élève titulaire du bac de préparer les examens d’entrée des écoles supérieures d’art et de design en France (link: http://www.andea.fr/fr/home/ text: ANdÉA) et à l’étranger (link: http://www.elia-artschools.org/ text: ELIA). Les personnes qui auraient engagé un parcours professionnel avant le bac peuvent obtenir une dérogation.
+Une classe préparatoire publique aux écoles supérieures d’art permet à tout élève titulaire du bac de préparer les examens d’entrée des écoles supérieures d’art et de design en France (link: http://www.andea.fr/fr/home/ text: ANdÉA popup:yes) et à l’étranger (link: http://www.elia-artschools.org/ text: ELIA popup:yes). Les personnes qui auraient engagé un parcours professionnel avant le bac peuvent obtenir une dérogation.
 
 Une classe préparatoire n’est pas une étape obligatoire pour accéder aux écoles supérieures d’art.   
 
@@ -34,4 +34,4 @@ Des examens blancs sont organisés dans la plupart des classes préparatoires.
 
 ----
 
-Docs: gabarit_courriers.pdf
+Docs: cartes-appea-et-andea.pdf

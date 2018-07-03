@@ -6,7 +6,7 @@ Shortname: Saint-Brieuc
 
 ----
 
-Positionleft: -2
+Positionleft: -1
 
 ----
 
@@ -34,8 +34,8 @@ Infos:
 
 **Direction : Béatrice Méline**
 
-Année de création classe préparatoire :** 2000**
-Nbre de classe :** 1**
+Année de création classe préparatoire : **2000**
+Nbre de classe : **1**
 Nbre élèves par classe : **28 étudiants**
 
 **Tarifs 2017-2018 :** entre 316 € et 1.155 €
@@ -45,15 +45,15 @@ Nbre élèves par classe : **28 étudiants**
 Calendrier: 
 
 **Journée portes ouvertes**
-samedi 17 mars de 10h à 13h et de 14h à 18h
+samedi 17 mars 2018, de 10h à 13h et de 14h à 18h
 
-**Début des inscriptions** : 1er février
+**Début des inscriptions** : 1er février 2018
 
 **1ère session d'admission** (dépôt de candidature jusqu’au 26 avril) 
-du mercredi 16 au vendredi 18 mai
+du mercredi 16 au vendredi 18 mai 2018
 
 **2ème session d'admission** (dépôt de candidature jusqu’au 24 mai) 
-du mercredi 6 au vendredi 8 juin 
+du mercredi 6 au vendredi 8 juin 2018
 
 **Rentrée scolaire**
 mardi 4 septembre 2018
@@ -82,17 +82,16 @@ Temoignage:
 
 *Grâce aux cours pratiques très variés (…), j’ai fait des progrès techniques impressionnants. Quand je regarde mes travaux de septembre et ceux d’aujourd’hui, cela n’a rien à voir.
 La prépa, c’est aussi un suivi personnalisé. Chaque semaine avec quatre autres élèves et un professeur, nous discutons de notre projet individuel mené tout au long de l’année. C’est l’occasion de prendre de la distance avec son travail et de réfléchir à de nouvelles approches. (...) C’est justement ce regard critique, ce recul avec mon travail qui me manquait (...). Chaque trimestre, nous faisons également un bilan devant des professeurs et un artiste invité pour l’occasion. C’est un très bon entraînement à l’épreuve orale des différentes écoles des Beaux-Arts.*
-
 Marianne Mauclair - promotion 2016
 
 ----
 
-Pdf: fiche-ecole-saint-brieuc.pdf
+Pdf: fiche-ecole-appea-2018-saint-brieuc.pdf
 
 ----
 
-Positionleftmobile: -15
+Positionleftmobile: -1
 
 ----
 
-Positiontopmobile: 22
+Positiontopmobile: 24

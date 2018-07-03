@@ -1,12 +1,12 @@
-Title: Digne-Les-Bains
+Title: Digne-les-Bains
 
 ----
 
-Shortname: Digne-Les-Bains
+Shortname: Digne-les-Bains
 
 ----
 
-Positionleft: 35
+Positionleft: 36
 
 ----
 
@@ -18,7 +18,7 @@ Adresse:
 
 **École d’art intercommunale idbl**
 24 avenue Saint Véran
-04000 Digne-Les-Bains
+04000 Digne-les-Bains
 
 T. : 04 92 31 34 59
 (email: ecoleart@idbl.fr text: ecoleart@idbl.fr)
@@ -41,16 +41,16 @@ Nbre élèves par classe : **25 étudiants**
 Calendrier: 
 
 **Journées portes ouvertes**
-du vendredi 16 au samedi 24 mars de 10h à 12h et de 14h à 18h
+du vendredi 16 au samedi 24 mars 2018, de 10h à 12h et de 14h à 18h
 sauf vendredi et samedi jusqu’à 17h
 
-**Début des inscriptions** : samedi 1er février
+**Début des inscriptions** : samedi 1er février 2018
 
 **1ère session d'admission** (dépôt de candidature jusqu’au 12 mai) 
-mardi 22 mai
+mardi 22 mai 2018
 
 **2ème session d'admission** (dépôt de candidature jusqu’au 4 juin) 
-mardi 12 juin
+mardi 12 juin 2018
 
 **3ème session d'admission** (dépôt de candidature jusqu’au 12 juillet) 
 vendredi 31 août 2018
@@ -90,8 +90,7 @@ L’école dispose de :
 Temoignage: 
 
 *Après un parcours scolaire des plus chaotiques (j’obtiens quand même un bac général), j’arrive en prépa comme l’on arrive en terre inconnue, avec beaucoup de crainte et de préjugés. Choc thermique : pour la première fois, on ne me demande pas d’être le meilleur mais ce que j’ai envie de dire par les formes... J’ai obtenu tous les concours que j’ai tentés. Le fait d’être dans une toute petite structure fait que tout le monde se connaît. Pas de dispositif grandiloquent. Cela pousse à l’échange, au partage avec les professeurs, le personnel technique, les étudiants adultes et enfants ce qui enrichit le travail. Je suis en fin de cursus à l’École Nationale Supérieure de Paris Cergy et de nombreux conseils entendus à Digne résonnent encore en moi aujourd’hui.*
-
- Stephen Loye
+Stephen Loye
 
 ----
 
@@ -106,12 +105,12 @@ Elle possède une galerie d’exposition, le BILD, lieu de programmation convent
 
 ----
 
-Pdf: fiche-ecole-digne.pdf
+Pdf: fiche-ecole-appea-2018-digne.pdf
 
 ----
 
-Positionleftmobile: 68
+Positionleftmobile: 65
 
 ----
 
-Positiontopmobile: 63
+Positiontopmobile: 64

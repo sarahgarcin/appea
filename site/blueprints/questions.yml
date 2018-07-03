@@ -9,7 +9,7 @@ fields:
     label: Questions
     type:  structure
     entry: >
-      <b>{{title}}</b><br>{{text}}
+      <b>{{title}}</b><br>{{text}}<br><br> Afficher cette question sur mobile ?<br><b>{{mobile}}</b>
     fields:
       title:
         label: Question
@@ -17,4 +17,11 @@ fields:
       text: 
         label: Réponse
         type: markdown
+      mobile: 
+        label: Afficher cette question sur mobile ? 
+        type: radio
+        default: oui
+        options: 
+          oui: Oui
+          non: Non
 

@@ -6,7 +6,7 @@ Shortname: Beauvais
 
 ----
 
-Positionleft: 21
+Positionleft: 20
 
 ----
 
@@ -43,13 +43,13 @@ Calendrier:
 **Journée portes ouvertes**
 samedi 3 février 2018
 
-**Début des inscriptions** : début janvier
+**Début des inscriptions** : début janvier 2018
 
 **1ère session d'admission** (dépôt de candidature jusqu’au 9 avril)
-vendredi 18 mai
+vendredi 18 mai 2018
 
 **2ème session d'admission** (dépôt de candidature jusqu’au 18 juin)
-mardi 3 juillet
+mardi 3 juillet 2018
 
 **Rentrée scolaire**
 mardi 4 septembre 2018
@@ -58,8 +58,9 @@ mardi 4 septembre 2018
 
 Enseignement: 
 
-L’année pédagogique se construit de septembre à avril, au rythme de 35 h hebdomadaire.
-Un suivi personnalisé est opéré pour chaque élève, et ce, jusqu’au stage en entreprise (mai-juin). Une thématique oriente l’année et chaque jour de la semaine est consacré à une dominante plastique : dessin et couleur, communication visuelle, infographie,  analyse d’œuvre, suivi de dossier, photographie, anglais, gravure, histoire de l’art, terre-volume-espace. Deux concours blancs, un oral devant un jury extérieur composé d’enseignants d’Écoles Supérieures d’Art, ainsi que des notations par atelier, des corrections collectives de travaux et la réalisation d’un dossier personnel jalonnent l’année pour s’entraîner aux concours. Au-delà du cursus obligatoire, des intervenants extérieurs et des artistes en résidence, viennent partager leur pratique et animer des stages et des workshops.
+**L’année pédagogique se construit de septembre à avril, au rythme de 35 h hebdomadaire.**
+Un suivi personnalisé est opéré pour chaque élève, et ce, jusqu’au stage en entreprise (mai-juin). Une thématique oriente l’année et chaque jour de la semaine est consacré à une dominante plastique : dessin et couleur, communication visuelle, infographie,  analyse d’œuvre, suivi de dossier, photographie, anglais, gravure, histoire de l’art, terre-volume-espace. 
+Deux concours blancs, un oral devant un jury extérieur composé d’enseignants d’Écoles Supérieures d’Art, ainsi que des notations par atelier, des corrections collectives de travaux et la réalisation d’un dossier personnel jalonnent l’année pour s’entraîner aux concours. Au-delà du cursus obligatoire, des intervenants extérieurs et des artistes en résidence, viennent partager leur pratique et animer des stages et des workshops.
 
 ----
 
@@ -74,7 +75,6 @@ Les étudiants de la classe préparatoire bénéficient d’un atelier spécifiq
 Temoignage: 
 
 *Pour être sûr de mon orientation j’ai commencé par des cours du soir lorsque j’étais lycéen et j’ai voulu continuer dans cette voie pour apprendre les bases et réflexions en intégrant une classe préparatoire. Ensuite, j’ai suivi un cursus de 5 ans à l’ENSAD et de 2 ans à l’ENSAD Lab. J’ai commencé à travailler en indépendant dès ma deuxième année à l’ENSAD en tant que designer graphique. Depuis deux ans, j’ai monté une agence de design à Paris. La classe préparatoire m’a apporté la maturité nécessaire pour réussir le concours de l’ENSAD. *
-
 Geoffrey Dorne - promotion 2004
 
 ----
@@ -87,12 +87,12 @@ Contexte: En région Hauts de France, l’école d’art du Beauvaisis est un li
 
 ----
 
-Pdf: fiche-ecole-beauvais.pdf
+Pdf: fiche-ecole-appea-2018-beauvais.pdf
 
 ----
 
-Positionleftmobile: 33
+Positionleftmobile: 37
 
 ----
 
-Positiontopmobile: 12
+Positiontopmobile: 16

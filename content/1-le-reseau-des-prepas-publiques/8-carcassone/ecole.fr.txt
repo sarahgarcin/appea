@@ -1,16 +1,16 @@
-Title: Carcassone
+Title: Carcassonne
 
 ----
 
-Shortname: Carcassone
+Shortname: Carcassonne
 
 ----
 
-Positionleft: 18
+Positionleft: 17
 
 ----
 
-Positiontop: 49
+Positiontop: 46
 
 ----
 
@@ -41,21 +41,22 @@ Nbre élèves par classe : **30 étudiants**
 Calendrier: 
 
 **Journée portes ouvertes**
-mercredi 14 mars de 10h à 17h
+mercredi 14 mars 2018, de 10h à 17h
 
-**Début des inscriptions** : jeudi 1er février
+**Début des inscriptions** : jeudi 1er février 2018
 
 **1ère session d'admission** (dépôt de candidature jusqu’au 8 avril) 
-du mardi 17 au jeudi 19 avril
+du mardi 17 au jeudi 19 avril 2018
 
 **2ème session d'admission** (dépôt de candidature jusqu’au 13 mai) 
-du mardi 22 au jeudi 24 mai
+du mardi 22 au jeudi 24 mai 2018
 
 ----
 
 Enseignement: 
 
-Les 36 heures de cours hebdomadaires sont dispensées par 7 enseignants engagés dans la création artistique. Ils accompagnent les étudiants dans la réalisation de projets et la constitution d'un dossier personnalisé selon les concours envisagés.
+**Les 36 heures de cours hebdomadaires sont dispensées par 7 enseignants engagés dans la création artistique.** 
+Ils accompagnent les étudiants dans la réalisation de projets et la constitution d'un dossier personnalisé selon les concours envisagés.
 Au programme : histoire de l’art, dessin, graphisme, couleur, peinture, volume, installation, plastique du son en lien avec le Conservatoire, photo, vidéo, arts numériques, etc.
 L'enseignement fondamental est complété par :
 •	des ateliers de recherche-création, de recherche personnelle, de suivi de dossier et de verbalisation ;
@@ -74,7 +75,6 @@ Equipement: L'espace pédagogique, au sein de La Fabrique des Arts, comprend deu
 Temoignage: 
 
 *La classe prépa, c’est une grande famille. J’y suis arrivée afin de me mettre à niveau pour les concours, je n’avais jamais fait d’art en classe avant, je sortais d’un bac L option anglais, et pratiquais la peinture et le dessin de manière confidentielle chez moi. Dès le premier jour, je m’y suis sentie bien. Cette classe m’a apporté plus de confiance, m’a permis de m’affirmer et de savoir vers quoi je voulais aller. Elle m’a aidée à préparer les concours, que j’ai tous réussis. Aujourd’hui, je sais ce que je veux faire dans les années à venir car la classe prépa m’y a préparée. Je conseille la classe prépa à toutes les personnes qui souhaitent aller en école d’art. C’est une superbe année. *
-
 Charlène Desmoulins – Promotion 2016
 
 ----
@@ -85,17 +85,17 @@ Cover:
 
 Contexte: 
 
-Au carrefour entre Toulouse, Montpellier et le Musée Régional d’Art Contemporain de Sérignan, Carcassonne se situe au centre de la région Occitanie. À cette situation géographique privilégiée s’ajoute une grande richesse patrimoniale avec notamment la cité médiévale, qui reste un des monuments historiques les plus visités de France. La classe préparatoire se trouve au cœur de *la Fabrique des arts*, ensemble architectural de 6000m2 construit en 2012, qui comprend un Conservatoire à Rayonnement Départemental (danse, musique, théâtre), ainsi qu’une École des Beaux-Arts. 
+Au carrefour entre Toulouse, Montpellier et le Musée Régional d’Art Contemporain de Sérignan, Carcassonne se situe au centre de la région Occitanie. À cette situation géographique privilégiée s’ajoute une grande richesse patrimoniale avec notamment la cité médiévale, qui reste un des monuments historiques les plus visités de France. La classe préparatoire se trouve au cœur de *La Fabrique des arts*, ensemble architectural de 6000m2 construit en 2012, qui comprend un Conservatoire à Rayonnement Départemental (danse, musique, théâtre), ainsi qu’une École des Beaux-Arts. 
 Résolument tournée vers l’avenir, notre classe préparatoire reste attachée au patrimoine artistique et historique indispensable à une bonne compréhension des arts plastiques.
 
 ----
 
-Pdf: fiche-ecole-carcasonne.pdf
+Pdf: fiche-ecole-appea-2018-carcasonne.pdf
 
 ----
 
-Positionleftmobile: 26
+Positionleftmobile: 29
 
 ----
 
-Positiontopmobile: 91
+Positiontopmobile: 78

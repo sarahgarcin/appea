@@ -6,18 +6,16 @@ Text:
 
 L’APPÉA est un réseau de 20 classes préparatoires publiques aux écoles supérieures d’art et de design réparties sur l’ensemble du territoire national.  
 
-Ces classes préparent aux examens d’entrée des écoles supérieures d’art et de design placées sous la tutelle pédagogique du ministère de la Culture (link: http://www.andea.fr/fr/home/ text: ANdÉA) ainsi qu’à leurs homologues à l’étranger (link: http://www.elia-artschools.org/ text: ELIA).
+Ces classes préparent aux examens d’entrée des écoles supérieures d’art et de design placées sous la tutelle pédagogique du ministère de la Culture (link: http://site.sarahgarcin.com/appea/content/1-le-reseau-des-prepas-publiques/carte-appea-andea.pdf text: ANdÉA popup:yes) ainsi qu’à leurs homologues à l’étranger (link: http://www.elia-artschools.org/ text: ELIA).
 Certaines de ces classes proposent également une préparation aux écoles nationales supérieures d’architecture.
-Dans tous les cas, elles assurent une préparation à des cycles d’études de 3 et 5 ans sanctionnés par des diplômes aux grades de Licence et de Master 2.
+Dans tous les cas, elles assurent une préparation à des cycles d’études de 3 et 5 ans sanctionnés par des diplômes aux grades de Licence et de Master 2. (link: http://site.sarahgarcin.com/appea/content/1-le-reseau-des-prepas-publiques/carte-appea-andea.pdf text: Consulter la carte des écoles communes aux écoles de l'ANdÉA et de l'APPÉA popup:yes)
 
 Réunies autour d’une charte, les classes préparatoires de l’APPÉA sont agréées par le ministère de la Culture (décret du 2 mai 2017). À ce titre, elles sont habilitées à recevoir des étudiants boursiers et permettent l’accès à la sécurité sociale étudiante et aux logements du CROUS selon les critères en vigueur.
 Les classes préparatoires ne délivrent pas d’ECTS mais remettent un certificat d’étude.
 
-L’inscription aux examens d’entrée des classes préparatoires de l’APPÉA se fait, hors de Parcoursup, directement auprès des établissements, à partir du mois de janvier.
+L’inscription aux examens d’entrée des classes préparatoires de l’APPÉA se fait, hors de Parcoursup', directement auprès des établissements, à partir du mois de janvier.
 
 Ce site vous informe sur tous les aspects que partagent les classes préparatoires membres du réseau de l’APPÉA. Il vous permet d’accéder au site de chaque école pour en découvrir les particularités.
-
-Vous êtes un professionnel, cliquez ici pour en savoir plus sur le réseau.
 
 ----
 
@@ -38,7 +36,3 @@ Titletemoignage: Témoignage
 ----
 
 Titlecontexte: Contexte et spécificités
-
-----
-
-Docs: 20-objects-with-hair.pdf

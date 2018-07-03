@@ -52,27 +52,26 @@ lundi 3 septembre 2018
 
 Enseignement: 
 
-L’année scolaire se déroule de septembre à mai sur 33 semaines  et se compose de trois temps forts rythmés par du tutorat individuel, des entraînements aux concours, des expositions, ateliers hebdomadaires et workshops. 
-1. Immersion et découverte : les étudiants sont initiés au dessin, à la couleur, au volume, aux matériaux, à la gravure, au cinéma d’animation ou à la vidéo, à la création numérique, au son. 
+**L’année scolaire se déroule de septembre à mai sur 33 semaines et se compose de trois temps forts rythmés par du tutorat individuel, des entraînements aux concours, des expositions, ateliers hebdomadaires et workshops. **
+1. **Immersion et découverte** : les étudiants sont initiés au dessin, à la couleur, au volume, aux matériaux, à la gravure, au cinéma d’animation ou à la vidéo, à la création numérique, au son. 
 Minimum 29 heures d’atelier par semaine.
-2. Production et expérimentation : les étudiants élaborent leurs premières réalisations personnelles en se confrontant aux questions du design et aux nouvelles technologies pour affiner la question de l’orientation lors du bilan avec l’équipe pédagogique.
-3. Émergence et cohérence du dossier : salon de la BD, festival au théâtre, projections publics et concerts animés rythment cette période afin de confronter l’étudiant aux questions de l’actualité artistique.
+2. **Production et expérimentation** : les étudiants élaborent leurs premières réalisations personnelles en se confrontant aux questions du design et aux nouvelles technologies pour affiner la question de l’orientation lors du bilan avec l’équipe pédagogique.
+3. ** Émergence et cohérence du dossier **: salon de la BD, festival au théâtre, projections publics et concerts animés rythment cette période afin de confronter l’étudiant aux questions de l’actualité artistique.
 
 ----
 
-Equipement: L’école se compose de deux sites dont un espace de 100 m2 destiné aux étudiants de la classe préparatoire en centre-ville pour des ateliers théoriques, des installations ou du modèle vivant. En périphérie de la ville se trouvent les ateliers : terre, céramique, construction, gravure, lithographie, salle infographie, studio et plateau de tournage. La ville met à disposition des espaces d’exposition, d’expérimentation de tous genres afin de permettre aux étudiants une véritable immersion dans le champ d’activités artistiques (patinoire, espaces verts, salle d’expositions, les musées etc.).
+Equipement: **L’école se compose de deux sites dont un espace de 100 m2 destiné aux étudiants de la classe préparatoire en centre-ville pour des ateliers théoriques, des installations ou du modèle vivant. **En périphérie de la ville se trouvent les ateliers : terre, céramique, construction, gravure, lithographie, salle infographie, studio et plateau de tournage. La ville met à disposition des espaces d’exposition, d’expérimentation de tous genres afin de permettre aux étudiants une véritable immersion dans le champ d’activités artistiques (patinoire, espaces verts, salle d’expositions, les musées etc.).
 
 ----
 
 Temoignage: 
 
 *J’ai voulu faire une classe prépa pour aborder les études d’art et affiner mon choix d’école supérieure. À côté des ateliers sous forme de cours, nous avons eu l’occasion de participer aux évènements culturels et artistiques de la ville de la BD. La classe prépa m’a apporté une meilleure compréhension des enjeux de l’art aujourd’hui, ainsi que de nouveaux moyens d’exploration et d’expression. J’ai pu m’exercer dans des ateliers bien équipés et j’ai été particulièrement enchanté de l’atelier de gravure et des immenses possibilités autour de l’estampe et de l’édition. *
-
 Nicolas Legros - promotion 2013
 
 ----
 
-Positionleft: 4
+Positionleft: 6
 
 ----
 
@@ -88,12 +87,12 @@ Contexte: Au rythme des ateliers hebdomadaires et des workshops, l’activité d
 
 ----
 
-Pdf: fiche-ecole-angouleme.pdf
+Pdf: fiche-ecole-appea-2018-angouleme.pdf
 
 ----
 
-Positionleftmobile: 1
+Positionleftmobile: 11
 
 ----
 
-Positiontopmobile: 52
+Positiontopmobile: 50

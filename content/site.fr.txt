@@ -46,7 +46,7 @@ Logospartenaires:
 
 ----
 
-Logosquare: logo_block.png
+Logosquare: logo_block.svg
 
 ----
 

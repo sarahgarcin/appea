@@ -17,7 +17,7 @@ Positiontop: 26
 Adresse: 
 
 **École Municipale des Beaux-Arts de Châteauroux (EMBAC)**
-10/12 place Sainte Hélène
+10-12 place Sainte-Hélène
 36000 Châteauroux
 
 T. : 02 54 22 40 20
@@ -42,15 +42,15 @@ Nbre élèves par classe : **18 étudiants**
 Calendrier: 
 
 **Journée portes ouvertes**
-jeudi 22 février de 9h30 à 18h
+jeudi 22 février 2018, de 9h30 à 18h
 
-**Début des inscriptions** : lundi 18 mars
+**Début des inscriptions** : lundi 18 mars 2018
 
 **1ère session d'admission** (dépôt de candidature jusqu’au 11 mai)
-mercredi 16  mai
+mercredi 16  mai 2018
 
 **2ème session d'admission** (dépôt de candidature jusqu’au 22 juin) 
-lundi 25 juin
+lundi 25 juin 2018
 
 ----
 
@@ -74,7 +74,6 @@ Temoignage:
 *Après le bac, voulant m’orienter vers le domaine des arts mais ne sachant pas vers quelle structure m’orienter, j’ai suivi la formation proposée par l’EMBAC.
 J’y ai apprécié la qualité de l’enseignement dû au ratio professeurs / élèves, à l’accompagnement technique et à l’équipement varié (chambre noir argentique, pôle céramique...). J’ai pu y développer ma culture et critique artistique ainsi qu’acquérir une méthodologie de travail.
 Cette année passée au sein du Collège Marcel-Duchamp a été pour moi la charnière de mon parcours scolaire. C’est elle qui a précisé mon orientation et c’est grâce à cette formation que j’ai pu intégrer l’ENSBAL puis par la suite l’Université Lumière Lyon 2. *
-
 Nicolas Stankova – promotion 2010
 
 ----
@@ -87,12 +86,12 @@ Contexte: La classe préparatoire de Châteauroux dispense un enseignement qui p
 
 ----
 
-Pdf: fiche-ecole-chateauroux.pdf
+Pdf: fiche-ecole-appea-2018-chateauroux.pdf
 
 ----
 
-Positionleftmobile: 20
+Positionleftmobile: 24
 
 ----
 
-Positiontopmobile: 46
+Positiontopmobile: 43

@@ -6,7 +6,7 @@ Shortname: Issy-les-Moulineaux
 
 ----
 
-Positionleft: 66
+Positionleft: 67
 
 ----
 
@@ -34,8 +34,8 @@ Infos:
 
 **Direction : Emmanuel Hermange**
 
-Année de création classe préparatoire :** 2005**
-Nbre de classe :** 1**
+Année de création classe préparatoire : **2005**
+Nbre de classe : **1**
 Nbre élèves par classe : **36 étudiants**
 
 **Tarifs 2017-2018 :** entre 634 € et 1.038 €
@@ -45,18 +45,18 @@ Nbre élèves par classe : **36 étudiants**
 Calendrier: 
 
 **Journée portes ouvertes**
-samedi 24 mars de 10h à 18h
+samedi 24 mars 2018, de 10h à 18h
 
-**Début des inscriptions** : fin janvier jusqu’au mardi 27 mars
+**Début des inscriptions** : fin janvier jusqu’au mardi 27 mars 2018
 
-**Admissibilité** : du 30 mars au 3 avril, partir d’un sujet à traiter chez soi
+**Admissibilité** : du 30 mars au 3 avril 2018, partir d’un sujet à traiter chez soi
 
 **Session d'admission**
-du mercredi 2 au vendredi 4 mai
+du mercredi 2 au vendredi 4 mai 2018
 
 ----
 
-Contexte: Créée en 2005, la Classe préparatoire est intégrée aux Arcades, l’école d’art de la Ville dont l’une des missions est l’enseignement des arts plastiques auprès de tous les publics. Située dans le quartier Issy-Val de Seine, au bord du parc Suzanne Lenglen, l’école bénéficie d’un environnement privilégié à proximité de Paris. En complément des cours et ateliers, de nombreux partenariats en relation avec les pratiques de la scène et la diffusion de l’art permettent aux étudiants de découvrir l’écosystème de l’art et de commencer à y projeter une activité professionnelle. Les étudiants peuvent ainsi partager les recherches d’un(e) artiste en résidence aux Arcades, contribuer à la scénographie d’un spectacle, élaborer une exposition à partir de la collection du Fonds régional d’art contemporain d’Île-de-France, etc.
+Contexte: Créée en 2005, la classe préparatoire est intégrée aux Arcades, l’école d’art de la Ville dont l’une des missions est l’enseignement des arts plastiques auprès de tous les publics. Située dans le quartier Issy-Val de Seine, au bord du parc Suzanne Lenglen, l’école bénéficie d’un environnement privilégié à proximité de Paris. En complément des cours et ateliers, de nombreux partenariats en relation avec les pratiques de la scène et la diffusion de l’art permettent aux étudiants de découvrir l’écosystème de l’art et de commencer à y projeter une activité professionnelle. Les étudiants peuvent ainsi partager les recherches d’un(e) artiste en résidence aux Arcades, contribuer à la scénographie d’un spectacle, élaborer une exposition à partir de la collection du Fonds régional d’art contemporain d’Île-de-France, etc.
 
 ----
 
@@ -70,18 +70,17 @@ Equipement: Les Arcades disposent d’un fonds de documentation de plus de 2000 
 
 Temoignage: 
 
-*Quand nous en parlons aujourd’hui avec certains étudiants de ma promotion, nous partageons le sentiment d’avoir vécu une situation très privilégiée. Nous étions peu nombreux et nous recevions un enseignement de qualité par des professeurs impliqués dans les écoles supérieures d’art qui nous aidaient à construire une vision en nous parlant de ce qui se passe en ce moment dans le champ de l’art. Je me souviens en particulier des discussions avec les enseignants, de ce qu’elles m’apportaient en termes de méthode et de la manière dont elles m’amenaient à poser les bonnes questions pour engager le travail au bon endroit. *
-
+*Quand nous en parlons aujourd’hui avec certains étudiants de ma promotion, nous partageons le sentiment d’avoir vécu une situation très privilégiée. Nous étions peu nombreux et nous recevions un enseignement de qualité par des professeurs impliqués dans les écoles supérieures d’art qui nous aidaient à construire une vision en nous parlant de ce qui se passe en ce moment dans le champ de l’art. Je me souviens en particulier des discussions avec les enseignants, de ce qu’elles m’apportaient en termes de méthode et de la manière dont elles m’amenaient à poser les bonnes questions pour engager le travail au bon endroit.*
 Pierre Lebon - promotion 2007
 
 ----
 
-Pdf: fiche-ecole-issy.pdf
+Pdf: fiche-ecole-appea-2018-issy.pdf
 
 ----
 
-Positionleftmobile: 4
+Positionleftmobile: 17
 
 ----
 
-Positiontopmobile: 144
+Positiontopmobile: 126

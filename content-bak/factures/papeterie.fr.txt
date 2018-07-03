@@ -2,7 +2,7 @@ Title: Factures
 
 ----
 
-Logo: logo.png
+Logo: logo_block.svg
 
 ----
 

@@ -21,7 +21,7 @@ T. : 05 59 59 48 41
 Infos: 
 
 **Direction : Delphine Etchepare**
-**Direction adjoint : Frédéric Duprat (responsable classes préparatoires)**
+**Direction adjoint (responsable classes préparatoires) : Frédéric Duprat **
 
 Année de création classe préparatoire :**1991**
 Nbre de classe :**2**
@@ -34,22 +34,25 @@ Nbre élèves par classe : **20 étudiants**
 Calendrier: 
 
 **Journée portes ouvertes**
-mercredi 7 et samedi 10 mars 2018 de 10h à 18h
+mercredi 7 et samedi 10 mars 2018, de 10h à 18h
 
-**Début des inscriptions** : début janvier
+**Début des inscriptions** : début janvier 2018
 
 **1ère session d'admission** (dépôt de candidature jusqu’au 23 mars)
-du lundi 9 au mercredi 11 avril
+du lundi 9 au mercredi 11 avril 2018
 
 **2ème session d'admission** (dépôt de candidature jusqu’à mi-juin)
-début juillet
+début juillet 2018
 
 **Rentrée scolaire**
 lundi 3 septembre 2018
 
 ----
 
-Enseignement: En découvrant les différents médiums de la pratique artistique contemporaine, l’étudiant acquiert les compétences fondamentales dans les disciplines théoriques et pratiques. De septembre à avril, sur 28 semaines, à raison de 38 heures de cours hebdomadaires en moyenne, l’élève est au centre d’un programme qui lui permet d’aborder tous les champs de la création contemporaine : histoire de l’art /théorie,  dessin (représentation du réel), dessin (toutes les formes du dessin), graphisme, couleur, fondements visuels/expression plastique, volume/espace, volume/ matériaux, arts numériques, photo, vidéo, informatique, cours projet. En lien avec le Diplôme National d’Art, les classes préparatoires bénéficient d’un important programme culturel, de workshops et de séminaires animés par des artistes. L’École organise régulièrement des voyages culturels et des visites d’expositions en France et à l’étranger.
+Enseignement: 
+
+En découvrant les différents médiums de la pratique artistique contemporaine, l’étudiant acquiert les compétences fondamentales dans les disciplines théoriques et pratiques. 
+De septembre à avril, sur 28 semaines, à raison de 38 heures de cours hebdomadaires en moyenne, l’élève est au centre d’un programme qui lui permet d’aborder tous les champs de la création contemporaine : histoire de l’art /théorie,  dessin (représentation du réel), dessin (toutes les formes du dessin), graphisme, couleur, fondements visuels/expression plastique, volume/espace, volume/ matériaux, arts numériques, photo, vidéo, informatique, cours projet. En lien avec le Diplôme National d’Art, les classes préparatoires bénéficient d’un important programme culturel, de workshops et de séminaires animés par des artistes. L’École organise régulièrement des voyages culturels et des visites d’expositions en France et à l’étranger.
 
 ----
 
@@ -71,7 +74,6 @@ Espaces pédagogiques :
 Temoignage: 
 
 *L’année préparatoire à l’Ecole d’Art de l’Agglomération Côte Basque-Adour a été cruciale pour moi. Au sortir du baccalauréat, je ne connaissais pas le système des écoles d’art, et cette année m’a permis de découvrir les différentes offres scolaires (et de rassurer mes parents)… Cette année préparatoire m’a permis d’expérimenter sans complexe : dessin, peinture, vidéo, sculpture, installation, j’ai pu toucher à tout et évacuer de ma pratique un certain nombre de clichés. On ne retrouve pas forcément cette phase de production tous azimuts dans les années propédeutiques des écoles d’art françaises. *
-
 Bertrand Dezoteux - promotion 2005
 
 ----
@@ -95,12 +97,12 @@ L’école propose une formation globale en arts plastiques et visuels, avec une
 
 ----
 
-Pdf: fiche-ecole-bayonne.pdf
+Pdf: fiche-ecole-appea-2018-bayonne.pdf
 
 ----
 
-Positionleftmobile: -7
+Positionleftmobile: 2
 
 ----
 
-Positiontopmobile: 70
+Positiontopmobile: 64

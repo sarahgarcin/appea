@@ -10,7 +10,7 @@ Positionleft: 79
 
 ----
 
-Positiontop: 14
+Positiontop: 13
 
 ----
 
@@ -34,8 +34,8 @@ Infos:
 
 **Direction : Patrick André**
 
-Année de création classe préparatoire :** 2008**
-Nbre de classe :**3**
+Année de création classe préparatoire : **2008**
+Nbre de classe : **3**
 Nbre élèves par classe : **15 à 20 étudiants**
 
 **Tarifs 2017-2018 :** entre 639 € et 1.066 €
@@ -46,13 +46,13 @@ Calendrier:
 
 **Journée portes ouvertes**
 (au 121 rue de la glacière, Paris 13e) 
-samedi 24 mars de 10h à 18h
+samedi 24 mars 2018, de 10h à 18h
 
 **1ère session d'admission** (sujet en ligne du 15 avril au 15 mai) 
-début juin
+début juin 2018
 
 **2ème session d'admission** (sujet en ligne du 15 juillet au 15 août) 
-mi-septembre
+mi-septembre 2018
 
 **Rentrée scolaire**
 lundi 17 septembre 2018
@@ -90,12 +90,12 @@ Temoignage:
 
 ----
 
-Pdf: fiche-ecole-paris.pdf
+Pdf: fiche-ecole-appea-2018-paris.pdf
 
 ----
 
-Positionleftmobile: 37
+Positionleftmobile: 42
 
 ----
 
-Positiontopmobile: 135
+Positiontopmobile: 118

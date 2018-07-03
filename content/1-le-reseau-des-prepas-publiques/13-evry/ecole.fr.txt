@@ -6,7 +6,7 @@ Shortname: Évry
 
 ----
 
-Positionleft: 79
+Positionleft: 82
 
 ----
 
@@ -46,7 +46,7 @@ Calendrier:
 
 **Journée portes ouvertes**
 (à la Ferme du Bois Briard, Courcouronnes) 
-samedi 17 mars de 11h à 18h
+samedi 17 mars 2018, de 11h à 18h
 
 **1ère session d'admission** (dépôt de candidature jusqu’au 30 avril) 
 mercredi 16 mai 2018
@@ -82,18 +82,17 @@ Equipement: Les infrastructures dont disposent les étudiants se trouvent sur de
 
 Temoignage: 
 
-*À travers cet enseignement, j’ai découvert des questions et des réponses que j’ai eu envie de creuser, je me suis épanoui». L’année est intense. Il faut intégrer beaucoup de choses en peu de temps. Et il faut se trouver une identité pour avoir un travail personnel à présenter aux concours. On apprend beaucoup sur soi. Cette prépa a des avantages énormes : elle est publique, déjà, mais elle est surtout plus petite. Il y a un prof pour trois élèves, ce qui fait que nous sommes vraiment suivis. C’est génial ! J’ai beaucoup appris ici. *
-
+*À travers cet enseignement, j’ai découvert des questions et des réponses que j’ai eu envie de creuser, je me suis épanoui». L’année est intense. Il faut intégrer beaucoup de choses en peu de temps. Et il faut se trouver une identité pour avoir un travail personnel à présenter aux concours. On apprend beaucoup sur soi. Cette prépa a des avantages énormes : elle est publique, déjà, mais elle est surtout plus petite. Il y a un prof pour trois élèves, ce qui fait que nous sommes vraiment suivis. C’est génial ! J’ai beaucoup appris ici.*
 Louis Chaumier - Promotion 2016
 
 ----
 
-Pdf: fiche-ecole-evry.pdf
+Pdf: fiche-ecole-appea-2018-evry.pdf
 
 ----
 
-Positionleftmobile: 34
+Positionleftmobile: 43
 
 ----
 
-Positiontopmobile: 155
+Positiontopmobile: 137

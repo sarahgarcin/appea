@@ -6,11 +6,11 @@ Shortname: Belfort
 
 ----
 
-Positionleft: 42
+Positionleft: 43
 
 ----
 
-Positiontop: 20
+Positiontop: 21
 
 ----
 
@@ -41,22 +41,23 @@ Nbre élèves par classe : **30 étudiants**
 Calendrier: 
 
 **Journée portes ouvertes**
-samedi 17 mars de 14h à 17h
+samedi 17 mars 2018, de 14h à 17h
 
-**Début des inscriptions** : jeudi 1er février
+**Début des inscriptions** : jeudi 1er février 2018
 
 **1ère session d'admission** (dépôt de candidature jusqu’au 27 avril)
-vendredi 4 mai
+vendredi 4 mai 2018
 
 **2ème session d'admission** (dépôt de candidature jusqu’au 1er juin)
-mardi 8 juin
+mardi 8 juin 2018
 
 ----
 
 Enseignement: 
 
-33 heures de cours hebdomadaires de septembre à mai soit un volume global de 858 heures. Contenu pédagogique : Volume/sculpture/design, photographie/images mobiles, performance et son, dessin/peinture/impressions, histoire de l’art/culture générale, anglais, workshop, conférences, accès libre aux ateliers techniques du soir et du week end, visites d’expositions, voyages d’études. 
-Un contrôle continu est organisé dans le cadre des cours. Des évaluations ont lieu en décembre et en mars devant un jury constitué d'enseignants de l'école, de l’ISBA et d'acteurs culturels. À l’issue de la formation, chaque étudiant aura constitué un dossier personnalisé validé par cinq unités de valeurs : expression écrite, orale, argumentaire pour soutenir une présentation, travail de recherche, finalisation, travail personnel approfondi à partir d’une conférence, d’une thématique, en relation avec une exposition, ou en conclusion d’un stage. Assiduité, implication collective, investissement personnel dans les projets d’action culturelle de l’Ecole.
+**33 heures de cours hebdomadaires de septembre à mai soit un volume global de 858 heures.** 
+Contenu pédagogique : Volume/sculpture/design, photographie/images mobiles, performance et son, dessin/peinture/impressions, histoire de l’art/culture générale, anglais, workshop, conférences, accès libre aux ateliers techniques du soir et du week end, visites d’expositions, voyages d’études. 
+Un contrôle continu est organisé dans le cadre des cours. Des évaluations ont lieu en décembre et en mars devant un jury constitué d'enseignants de l'école, de l’ISBA et d'acteurs culturels. À l’issue de la formation, chaque étudiant aura constitué un dossier personnalisé validé par cinq unités de valeurs : expression écrite, orale, argumentaire pour soutenir une présentation, travail de recherche, finalisation, travail personnel approfondi à partir d’une conférence, d’une thématique, en relation avec une exposition, ou en conclusion d’un stage. Assiduité, implication collective, investissement personnel dans les projets d’action culturelle de l’École.
 
 ----
 
@@ -67,7 +68,6 @@ Equipement: Située dans un ancien bâtiment militaire adossé aux remparts de l
 Temoignage: 
 
 *À l’issue de mon année préparatoire j’avais le choix entre 4 écoles, j’ai choisi d’intégrer La Haute école des arts du Rhin (Hear). Ce que j’ai aimé durant cette année préparatoire se sont les opportunités de découverte artistique qui m’ont été données à travers les ateliers techniques, les rencontres d'acteurs culturels et expositions, les expériences et moments en commun avec le groupe et les autres étudiants dans la région, la synergie avec les profs et l'ouverture sur d'autres pratiques comme la danse, la radio de l'École, le patrimoine, même le jardinage et la permaculture !*
-
 Elsa Lerouge - promotion 2016
 
 ----
@@ -76,16 +76,16 @@ Cover:
 
 ----
 
-Contexte: La classe prépa est au cœur du projet de l'Ecole de Belfort. La multiplicité des formations et évenements, des espaces vastes et modulables sont à l'origine de nombreuses expériences artistiques partagées. Une équipe d'enseignants réactive et impliquée permet la mise en place d'évenements culturels et pédagogiques originaux. L'École, c'est aussi* la Plateforme BFC* : un réseau régional des écoles d'art dédié aux rencontres et la mobilité des étudiants, des réseaux d'art contemporain (Trac, Seizemille), mais aussi *Belfort-ever* un réseau d'échanges de structures culturelles (19-centre d'art, Viadanse-Centre Chorégraphique National, le Centre d'art numérique Espace Gantner, les Musées de Belfort, Le Granit Scène Nationale, le Conservatoire).
+Contexte: La classe préparatoire est au cœur du projet de l'École de Belfort. La multiplicité des formations et évenements, des espaces vastes et modulables sont à l'origine de nombreuses expériences artistiques partagées. Une équipe d'enseignants réactive et impliquée permet la mise en place d'évenements culturels et pédagogiques originaux. L'École, c'est aussi* la Plateforme BFC* : un réseau régional des écoles d'art dédié aux rencontres et la mobilité des étudiants, des réseaux d'art contemporain (Trac, Seizemille), mais aussi *Belfort-ever* un réseau d'échanges de structures culturelles (19-centre d'art, Viadanse-Centre Chorégraphique National, le Centre d'art numérique Espace Gantner, les Musées de Belfort, Le Granit Scène Nationale, le Conservatoire).
 
 ----
 
-Pdf: fiche-ecole-belfort.pdf
+Pdf: fiche-ecole-appea-2018-belfort.pdf
 
 ----
 
-Positionleftmobile: 80
+Positionleftmobile: 74
 
 ----
 
-Positiontopmobile: 32
+Positiontopmobile: 35

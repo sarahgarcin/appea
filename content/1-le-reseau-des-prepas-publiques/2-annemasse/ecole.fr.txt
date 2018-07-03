@@ -34,8 +34,8 @@ Tarif 2017-2018 :  **974 €**
 Calendrier: 
 
 **Journées portes ouvertes**
-vendredi 16 mars 2018 de 17h à 19h
-samedi 17 mars 2018 de 10h à 18h
+vendredi 16 mars 2018, de 17h à 19h
+samedi 17 mars 2018, de 10h à 18h
 
 **Début des inscriptions** : à partir du 19 mars 2018
 
@@ -52,13 +52,13 @@ lundi 3 septembre 2018
 
 Enseignement: 
 
-De septembre à avril, réparties sur 37 heures hebdomadaires, les études de s'organisent autour : 
-•	d’enseignements théoriques (histoire de l’art, culture générale, visites diverses selon l'actualité artistique, anglais) ;
-•	d’enseignements pratiques (couleur et graphisme, dessin, croquis et modèle vivant, perspective, estampe, infographie, vidéo, photo argentique) ;
-•	d'ateliers de recherche et de création ;
-•	de workshops (vacances scolaires)
-•	de cours occasionnels avec l’intervention de professionnels (espace/ scénographie, design, édition et communication visuelle) ;
-•	d’évaluations (contrôle continu, bilans trimestriels, jury blanc dont un avec des enseignants d’école supérieure d’art). 
+**De septembre à avril, réparties sur 37 heures hebdomadaires, les études de s'organisent autour **: 
+•	**d’enseignements théoriques** (histoire de l’art, culture générale, visites diverses selon l'actualité artistique, anglais) ;
+•	**d’enseignements pratiques** (couleur et graphisme, dessin, croquis et modèle vivant, perspective, estampe, infographie, vidéo, photo argentique) ;
+•	**d'ateliers de recherche et de création** ;
+•	**de workshops** (vacances scolaires)
+•	**de cours occasionnels avec l’intervention de professionnels** (espace/ scénographie, design, édition et communication visuelle) ;
+•	**d’évaluations** (contrôle continu, bilans trimestriels, jury blanc dont un avec des enseignants d’école supérieure d’art). 
 Un suivi personnalisé de l’étudiant l’aide pour son orientation et pour constituer son dossier en fonction des concours envisagés.
 
 ----
@@ -70,12 +70,11 @@ Equipement: La classe préparatoire, implantée sur le site d'Annemasse (850 m2)
 Temoignage: 
 
 *L’EBAG a été une très bonne expérience pour moi dans la mesure où j'ai pu expérimenter un certain nombre de médiums de manière très libre et complète. Cette année de prépa m'a permis d'entrer progressivement dans l'univers des écoles d'art. Elle m'a donné plus de temps pour expérimenter et déterminer ce qui me plaisait ou non, commencer à définir les thématiques que je pourrais aborder dans mon travail. Ma promo ne comptant que 18 élèves pour une dizaine de professeurs, j'ai pu bénéficier d'un très bon encadrement, en plus d'un espace conséquent pour travailler. *
-
 Marie Mallon - promotion 2014
 
 ----
 
-Positionleft: 41
+Positionleft: 42
 
 ----
 
@@ -91,12 +90,12 @@ Contexte: L’EBAG, une école d’Annemasse Agglo, s’inscrit dans la dynamiqu
 
 ----
 
-Pdf: fiche-ecole-anemasse.pdf
+Pdf: fiche-ecole-appea-2018-anemasse.pdf
 
 ----
 
-Positionleftmobile: 74
+Positionleftmobile: 73
 
 ----
 
-Positiontopmobile: 46
+Positiontopmobile: 48

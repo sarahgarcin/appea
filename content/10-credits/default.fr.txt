@@ -4,27 +4,28 @@ Title: Crédits
 
 Text: 
 
-© APPÉA, 2009
+© APPÉA, 2018
 
 Site optimisé pour Safari et Firefox.
 
-**Responsable de la publication :**
-Emmanuel  Hermange, Président de l’APPEA
+**Responsable de la publication**
+Emmanuel  Hermange, Président de l’APPÉA
 
-**Conception et création graphique :**
-amac - La Société - Sarah Garcin
+**Conception et création graphique**
+La Société - Julien Imbert, Guillaume Moitessier
+(link: http://belouvrage.tumblr.com/ text: lasociete.com popup:yes)
 
-**Hébergement :** 
-Ensa Bourges,
-7 allée Édouard Branly, 18000 Bourges
+**Développement du site**
+Sarah Garcin
+(link: http://sarahgarcin.com text: www.sarahgarcin.com popup:yes)
 
-**Typographies :**
-Petite Mort par Yohan Minet
-En supplément de la revue La Perruque
+**Hébergement** 
+OVH
 
-Inter UI par Rasmus Andersson
+**Typographies **
+*Petite Mort* par Yohan Minet
+*Inter UI* par Rasmus Andersson
+*Spectral* par Production Type
 
-Spectral par Production Type
-
-**CMS :**
+**CMS**
 Kirby

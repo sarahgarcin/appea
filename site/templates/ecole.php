@@ -19,7 +19,9 @@
 						<p class= "site-print show-for-print">www.appea.fr</p>
 					<h1><?php echo $page->title()->html()?></h1>
 					<?php if($page->pdf()->isNotEmpty()):?>
-						<a class="print-ecole" target="_blank" href="<?php echo $page->pdf()->toFile()->url();?>" title="">Imprimer la fiche école</a>
+						<a class="print-ecole" target="_blank" href="<?php echo $page->pdf()->toFile()->url();?>" title="">
+							<img src="<?php echo $site->url()?>/assets/images/print.svg" alt="Imprimer la fiche école">
+						</a>
 					<?php endif ?>
 					<?php if($page->cover()->isNotEmpty()):?>
 						<div class="image-wrapper">

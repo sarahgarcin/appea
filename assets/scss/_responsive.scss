@@ -222,15 +222,10 @@
 
 @media only screen and (min-width: 1000px){
 
-  .main-ecole{
-    margin-top: 10px;
-    top:0;
-  }
-
-  .arrow-back {
-      left: 0.5rem;
-      top: -28px;
-    }
+  // .arrow-back {
+  //   left: 0.5rem;
+  //   top: -28px;
+  // }
 
   .main-content{
     margin-top: 35px;
@@ -242,6 +237,10 @@
       }
     }
   }
+  .main-content.main-ecole{
+    margin-top: 10px;
+    top:0;
+  }
 }
 
 
@@ -251,6 +250,11 @@
 	// .module-menu-ecole{
 	// 	 margin-left: 41%;
 	// }
+
+  .arrow-back {
+    left: -20px;
+    top: 5.5px;
+  }
 
 
 	.carte-ecoles .carte-nom-ecole a{

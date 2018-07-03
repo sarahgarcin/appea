@@ -2678,18 +2678,18 @@ body[data-template="partenaires"] h4 {
     font-size: 0.8em; } }
 
 @media only screen and (min-width: 1000px) {
-  .main-ecole {
-    margin-top: 10px;
-    top: 0; }
-  .arrow-back {
-    left: 0.5rem;
-    top: -28px; }
   .main-content {
     margin-top: 35px; }
   .carte-ecoles .carte-nom-ecole a {
-    font-size: 0.8em; } }
+    font-size: 0.8em; }
+  .main-content.main-ecole {
+    margin-top: 10px;
+    top: 0; } }
 
 @media only screen and (min-width: 1600px) {
+  .arrow-back {
+    left: -20px;
+    top: 5.5px; }
   .carte-ecoles .carte-nom-ecole a {
     font-size: 0.5vw; }
   .col-xlg,

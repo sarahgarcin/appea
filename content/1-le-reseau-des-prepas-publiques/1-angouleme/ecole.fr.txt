@@ -82,7 +82,7 @@ Positiontop: 30
 
 ----
 
-Cover: 
+Cover: 1-lane-qui-ecoute.jpg
 
 ----
 

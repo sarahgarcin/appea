@@ -17,7 +17,7 @@
 				<?php endforeach ?>
 			</ul>
 			<?php if($page->intendedTemplate() != "partenaires"):?>
-				<?php echo $site->mentions()->markdown()?>	
+				<?php echo $site->mentions()->kt()?>	
 			<?php endif ?>
 		</div>
 

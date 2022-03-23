@@ -6,15 +6,15 @@ Logo: logo.png
 
 ----
 
-Author: 
+Author: Sarah Garcin, Julien Imbert, Marie-Charlotte Gain-Hautbois
 
 ----
 
-Description: 
+Description: L’APPÉA est un réseau de 23 classes préparatoires publiques aux écoles supérieures d’art et de design réparties sur l’ensemble du territoire national.
 
 ----
 
-Keywords: 
+Keywords: art,classes préparatoires publiques,APPÉA,écoles supérieures d’art et de design,écoles publiques,art et design
 
 ----
 
@@ -40,6 +40,7 @@ Copyright: © APPÉA 2021
 Mentions: 
 
 Les écoles membres du réseau APPÉA sont agréées par le ministère de la Culture. L’association APPÉA est soutenue par le ministère de la Culture et par la Fondation d’entreprise Culture & Diversité.
+(image: logo-home.png width: 200)
 
 L’APPÉA est membre associé de l’ANdÉA (Association Nationale des Écoles supérieures d’Art).
 

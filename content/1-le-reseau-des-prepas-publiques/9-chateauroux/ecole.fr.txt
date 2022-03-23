@@ -23,34 +23,40 @@ Adresse:
 T. : 02 54 22 40 20
 (email: embac@chateauroux-metropole.fr text: embac@chateauroux-metropole.fr)
 (link: http://www.embac.fr text: www.embac.fr popup: yes)
-(link: https://www.facebook.com/BeauxArtsChateauroux/ text: @Beaux-ArtsdeChâteauroux popup: yes)
+
+FB : (link: https://www.facebook.com/BeauxArtsChateauroux/ text: @BeauxArtsChateauroux popup: yes)
+I : (link: https://www.instagram.com/beauxarts36/ text: @beauxarts36 popup: yes)
 
 ----
 
 Infos: 
 
-**Direction : Nathalie Sécardin**
+**Direction : Nathalie Secardin**
 
-Année de création classe préparatoire :**1990**
-Nbre de classe :** 1**
-Nbre élèves par classe : **18 étudiants**
+Année de création  : **1990**
+Nbre de classe(s) :** 1**
+Nbre d'étudiants par classe : **20 étudiants**
 
-**Tarif 2018-2019 :** 373 € (+ 21 € de frais de dossier)
+Tarif 2021-2022 : **308,50 à 463,50 €** (+ 22 € de frais de dossier)
 
 ----
 
 Calendrier: 
 
-**Journée portes ouvertes**
-jeudi 22 février 2018, de 9h30 à 18h
+**Journée Portes Ouvertes 2022**
+ samedi 29 janvier 2022
+ 
+ **Début des inscriptions**
+ samedi 29 janvier 2022
 
-**Début des inscriptions** : lundi 18 mars 2018
+**1ère session d’admission** (dépôt de candidature avant le 30 avril)
+jeudi 19 mai 2022
 
-**1ère session d'admission** (dépôt de candidature jusqu’au 11 mai)
-mercredi 16  mai 2018
+**2ème session d’admission** (dépôt de candidature avant le 15 juin)
+jeudi 23 juin 2022
 
-**2ème session d'admission** (dépôt de candidature jusqu’au 22 juin) 
-lundi 25 juin 2018
+**3ème session d’admission** (dépôt de candidature avant le 22 août)
+jeudi 1er septembre 2022
 
 ----
 
@@ -86,7 +92,7 @@ Contexte: La classe préparatoire de Châteauroux dispense un enseignement qui p
 
 ----
 
-Pdf: fiche-ecole-appea-2018-chateauroux.pdf
+Pdf: fiche-ecole-appea-2022_chateauroux.pdf
 
 ----
 

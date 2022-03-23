@@ -1,5 +1,0 @@
-Title: Dates d’admissions
-
-----
-
-Pdf: en_tete_courrier_ficheecole_candidature.pdf

@@ -4,14 +4,18 @@ Title: Le réseau des prépas publiques
 
 Text: 
 
-L’APPÉA est un réseau de 20 classes préparatoires publiques aux écoles supérieures d’art et de design réparties sur l’ensemble du territoire national.  
+**L’APPÉA est un réseau de 23 classes préparatoires publiques aux écoles supérieures d’art et de design réparties sur l’ensemble du territoire national. **
 
-Ces classes préparent aux examens d’entrée des écoles supérieures d’art et de design placées sous la tutelle pédagogique du ministère de la Culture (link: http://site.sarahgarcin.com/appea/content/1-le-reseau-des-prepas-publiques/carte-appea-andea.pdf text: ANdÉA popup:yes) ainsi qu’à leurs homologues à l’étranger (link: http://www.elia-artschools.org/ text: ELIA).
-Certaines de ces classes proposent également une préparation aux écoles nationales supérieures d’architecture.
-Dans tous les cas, elles assurent une préparation à des cycles d’études de 3 et 5 ans sanctionnés par des diplômes aux grades de Licence et de Master 2. (link: http://site.sarahgarcin.com/appea/content/1-le-reseau-des-prepas-publiques/carte-appea-andea.pdf text: Consulter la carte des écoles communes aux écoles de l'ANdÉA et de l'APPÉA popup:yes)
+Ces classes préparent aux examens d’entrée des écoles supérieures d’art et de design placées sous la tutelle pédagogique du ministère de la Culture (link: http://www.andea.fr/fr/home/ text: ANdÉA popup:yes) ainsi qu’à leurs homologues à l’étranger (link: http://www.elia-artschools.org/ text: ELIA).
+Certaines de ces classes proposent également une préparation aux écoles d'arts appliqués et aux écoles nationales supérieures d’architecture.
+Dans tous les cas, elles assurent une préparation à des cycles d’études de 3 et 5 ans sanctionnés par des diplômes aux grades de Licence et de Master. 
+(link: http://site.sarahgarcin.com/appea/content/1-le-reseau-des-prepas-publiques/carte-appea-andea.pdf text: Consulter la carte commune des écoles de l'ANdÉA et de l'APPÉA popup:yes)
 
-Réunies autour d’une charte, les classes préparatoires de l’APPÉA sont agréées par le ministère de la Culture (décret du 2 mai 2017). À ce titre, elles sont habilitées à recevoir des étudiants boursiers et permettent l’accès à la sécurité sociale étudiante et aux logements du CROUS selon les critères en vigueur.
-Les classes préparatoires ne délivrent pas d’ECTS mais remettent un certificat d’étude.
+Réunies autour d’une charte, les classes préparatoires de l’APPÉA sont agréées par le ministère de la Culture (décret du 2 mai 2017). À ce titre, elles sont habilitées à recevoir des étudiants boursiers et permettent l’accès à la sécurité sociale étudiante et aux logements du CROUS selon les critères en vigueur. L'accès au dispositif (link: https://www.visale.fr/#!/ text: VISALE popup:yes) est également possible.
+
+Si les classes préparatoires de l'APPÉA ne délivrent pas d'ECTS (ou crédits), elles remettent au terme de leur formation un certificat de fin d’étude exigé par le ministère de la Culture qui les agrémente.
+
+Il est à noter que l'année préparatoire n'étant pas incluse dans le cycle diplômant de la licence, les classes préparatoires du réseau APPÉA ne délivrent pas d’ECTS, contrairement aux CPES-CAAP (classes préparatoires sous tutelle du ministère de l'Éducation Nationale) ou classes préparatoires hors-réseau APPÉA. En conséquence, les ECTS validés par ces dernières ne permettent d'intégrer qu'une faculté d'arts plastiques dont elles sont souvent partenaires et non les écoles supérieures d'art et de design, la seule voie d'accès de ces dernières restant le concours d'entrée. 
 
 L’inscription aux examens d’entrée des classes préparatoires de l’APPÉA se fait, hors de Parcoursup', directement auprès des établissements, à partir du mois de janvier.
 
@@ -23,7 +27,7 @@ Titlecalendrier: Calendrier
 
 ----
 
-Titleenseignement: Enseignements
+Titleenseignement: Enseignement
 
 ----
 
@@ -36,3 +40,7 @@ Titletemoignage: Témoignage
 ----
 
 Titlecontexte: Contexte et spécificités
+
+----
+
+Docs: 

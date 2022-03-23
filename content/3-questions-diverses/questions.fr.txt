@@ -39,4 +39,13 @@ Questions:
     Le Brevet de technicien supérieur d’arts appliqués (BTS, bac+2) devient Diplôme national des métiers d’art et de design (DNMAD, bac+3). Certaines ESAA proposent des Diplômes supérieurs d’arts appliqués (DSA, bac+5).
     Cette filière est réservée en priorité aux élèves titulaires d’un bac STD2A. Les titulaires des autres bacs doivent passer par une année de Mise à niveau en arts appliqués (MAANA) au sein de certaines ESAA et lycées qui proposent des BTS d’arts appliqués.
     Cependant, dans le cadre d’une réforme en cours, les MAANA seront supprimées à la rentrée 2019-2020 (et dès la rentrée 2018-2019 dans certaines Académies). Les BTS et les DMA s’effectueront en 3 ans et auront le grade de Licence. Le détail des modalités d’accès à ces nouvelles formations ne sont pas encore connus.
-  mobile: non
+  mobile: oui
+- 
+  title: >
+    Pourquoi les droits d’inscription
+    varient d’une prépa à l’autre ?
+  text: |
+    Les écarts entre les droits d’inscription correspondent aux différentes politiques tarifaires des instances qui assurent le financement et l’administration des classes préparatoires (collectivités territoriales, établissements publics de coopération culturelle ou associations).
+    Les droits d’inscription sont indépendants des moyens mis en œuvre par les établissements. Toutes les prépas membres de l’APPÉA doivent répondre de ce point de vue aux critères définis par la charte de l’association, d’une part, et par un arrêté fixant les conditions de l’agrément délivré par le Ministère de la Culture, d’autre part.
+    En somme, si les montants varient, les contenus sont eux semblables et toujours exigeants afin de garantir uniformément à l’échelle du réseau un niveau d’accompagnement que les écoles agréées savent justifier.
+  mobile: oui

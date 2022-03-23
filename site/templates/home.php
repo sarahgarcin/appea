@@ -18,6 +18,8 @@
 		</div>
 		<main class="row">
 			<div class="main-content col-xs-12 col-sm-11 col-md-8 col-lg-8">
+				<?php snippet('chiffres') ?>
+				<?php snippet('actus') ?>
 				<div class="content-wrapper">
 					<?php foreach($pages->visible()->slice(0,3) as $rubrique):?>
 						<?php $count ++ ?>
@@ -80,7 +82,7 @@
 				</div>
 				<?php snippet('credits')?>
 			</div>
-			<div class="module-menu-ecole col-xs-6 col-sm-4 col-md-4 col-lg-3 col-sm-offset-7 col-md-offset-6 col-xlg-offset-5 hide-for-small-only">
+			<div class="module-menu-ecole col-xs-6 col-sm-4 col-md-4 col-lg-3 col-sm-offset-7 col-md-offset-7 col-xlg-offset-5 hide-for-small-only">
 				<?php snippet('menu-ecole')?>		
 			</div>
 		</main>

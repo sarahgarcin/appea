@@ -1,16 +1,16 @@
-Title: Évry
+Title: Évry–Courcouronnes
 
 ----
 
-Shortname: Évry
+Shortname: Évry–Courcouronnes
 
 ----
 
-Positionleft: 82
+Positionleft: 75
 
 ----
 
-Positiontop: 25
+Positiontop: 26
 
 ----
 
@@ -20,13 +20,16 @@ Cover:
 
 Adresse: 
 
-**Ateliers d’arts plastiques / Évry**
+**Service Arts Visuels / Évry–Courcouronnes**
 6 rue de Ratisbonne
-91000 Évry
+91000 Évry-Courcouronnes
 
 T. : 01 60 78 76 81
 (email: aap@grandparissud.fr text: aap@grandparissud.fr)
-(link: https://sortir.grandparissud.fr/equipements/classe-preparatoire-arts-visuels-site-de-la-ferme-du-bois-briard text: www.sortir.grandparissud.fr popup: yes)
+(link: https://sortir.grandparissud.fr/equipements/classe-preparatoire-de-grand-paris-sud text: sortir.grandparissud.fr popup: yes)
+
+FB : (link: https://www.facebook.com/ArtsVisuelsGrandParisSud/ text: @ArtsVisuelsGrandParisSud popup:yes)
+I : (link: https://www.instagram.com/prepa_grandparissud/ text: @prepa_grandparissud popup:yes)
 
 ----
 
@@ -34,35 +37,38 @@ Infos:
 
 **Direction : Sandrine Rouillard**
 
-Année de création classe préparatoire :** 2013**
-Nbre de classe :** 1**
-Nbre élèves par classe : **20 étudiants**
+Année de création :** 2013**
+Nbre de classe(s) :** 1**
+Nbre d'étudiants par classe : **20 étudiants**
 
-**Tarifs 2017-2018 :** entre 246 € et 2.152,50 €
+Tarifs 2021-2022 : **entre 246 € et 1431 €**
 
 ----
 
 Calendrier: 
 
-**Journée portes ouvertes**
-(à la Ferme du Bois Briard, Courcouronnes) 
-samedi 17 mars 2018, de 11h à 18h
+**Salon Étudiant**
+Samedi 12 février, de 13h30 à 18h
+au Campus de la Faculté des Métiers de l’Essonne à Evry-Courcouronnes
+avec intervention de Sandrine Rouillard, directrice de l'école à la conférence « Intégrer une classe prépa près de chez vous ».
 
-**1ère session d'admission** (dépôt de candidature jusqu’au 30 avril) 
-mercredi 16 mai 2018
+**Journée Portes Ouvertes 2022**
+samedi 26 mars 2022, de 11h à 18h
 
-**2ème session d'admission** (dépôt de candidature jusqu’au 4 juin) 
-mercredi 27 juin 2018
+**Début des inscriptions**
+mardi 19 avril 2022
 
-**3ème session d'admission** (dépôt de candidature jusqu’au 20 août) 
-mercredi 29 août 2018
+**1ère session d’admission**  (dépôt de candidature avant le 9 mai)
+vendredi 13 mai 2022
 
-**Rentrée scolaire**
-mercredi 5 septembre 2018
+**2ème session d’admission**  (dépôt de candidature avant le 20 juin)
+vendredi 24 juin 2022
 
 ----
 
 Contexte: 
+
+(vimeo:https://vimeo.com/502246074)
 
 La classe préparatoire d’Évry fait partie de l’École d’art de la communauté d’agglomération Grand Paris Sud Seine-Essonne-Sénart.
 Elle prépare 20 étudiants par an aux concours en affirmant personnalité artistique et développement d’un regard singulier. La richesse culturelle du territoire permet de tisser des partenariats artistiques productifs: interventions d’artistes, workshops avec la scène nationale d’Évry - Théâtre de l’Agora ; stage de rentrée au domaine départemental de Chamarande, visites d’expositions, rencontres d’artistes et de commissaire d’exposition avec le Fonds départemental d’art contemporain et Siana (arts et cultures numériques en Essonne), échanges de pratiques et workshops partagés avec les étudiants de la classe préparatoire de l’Ecole Départementale de Théâtre du 91…
@@ -71,12 +77,12 @@ Elle prépare 20 étudiants par an aux concours en affirmant personnalité artis
 
 Enseignement: 
 
-L’équipe pédagogique est constituée de 9 artistes-plasticiens diplômés. Les enseignements alternent pratique (peinture, couleur, céramique, image-mouvement, volume, dessin, photo, gravure, etc.) et théorie (histoire des arts, visites de musées, galeries, centres d’art, culture générale et anglais) pour 35 h hebdomadaires de septembre à mai. Parallèlement, des workshops avec des artistes, des projets partenariaux en lien avec d’autres pratiques (théâtre, musique et danse) sont organisés pour nourrir l’univers artistique des étudiants. Trois jurys blancs sont organisés avec l’équipe enseignante et des artistes invités afin de préparer au mieux les étudiants aux concours.
+L’équipe pédagogique est constituée de 9 artistes-plasticiens diplômés. Les enseignements alternent pratique (peinture, couleur, céramique, image-mouvement, volume, dessin, photo, gravure, etc.) et théorie (histoire des arts, visites de musées, galeries, centres d’art, culture générale et anglais) pour 31 h hebdomadaires de septembre à mai. Parallèlement, des workshops avec des artistes, des projets partenariaux en lien avec d’autres pratiques (théâtre, musique et danse) sont organisés pour nourrir l’univers artistique des étudiants. Trois jurys blancs sont organisés avec l’équipe enseignante et des artistes invités afin de préparer au mieux les étudiants aux concours.
 Chaque étudiant est accompagné personnellement dans son parcours par un tuteur, enseignant référent permettant ainsi d’affiner au mieux les orientations au sein des différentes filières artistiques.
 
 ----
 
-Equipement: Les infrastructures dont disposent les étudiants se trouvent sur deux sites : à Évry, quartier de Grand Bourg et à Courcouronnes à la Ferme du Bois Briard. Chacun de ces lieux est accessible par les transports en commun. Les étudiants bénéficient au sein de ces installations, de conditions de travail privilégiées avec des salles dédiées : à la pratique du volume (terre, moulage, assemblage…) du multimédia (12 mac avec logiciels de traitement d’images et de 3D, appareils photos, caméra, matériel son) et aux techniques graphiques (presses à gravure notamment).
+Equipement: Les infrastructures dont disposent les étudiants se trouvent sur deux sites : à Évry –Courcouronnes, quartier de Grand Bourg et Ferme du Bois Briard. Chacun de ces lieux est accessible par les transports en commun. Les étudiants bénéficient au sein de ces installations, de conditions de travail privilégiées avec des salles dédiées : à la pratique du volume (terre, moulage, assemblage…) du multimédia (12 mac avec logiciels de traitement d’images et de 3D, appareils photos, caméra, matériel son) et aux techniques graphiques (presses à gravure notamment).
 
 ----
 
@@ -87,12 +93,12 @@ Louis Chaumier - Promotion 2016
 
 ----
 
-Pdf: fiche-ecole-appea-2018-evry.pdf
+Pdf: fiche-ecole-appea-2022_evry.pdf
 
 ----
 
-Positionleftmobile: 43
+Positionleftmobile: 33
 
 ----
 
-Positiontopmobile: 137
+Positiontopmobile: 143

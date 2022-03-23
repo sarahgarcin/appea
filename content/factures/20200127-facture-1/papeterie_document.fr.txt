@@ -1,0 +1,47 @@
+Title: facture 1
+
+----
+
+Date: today
+
+----
+
+Shareable: 
+
+----
+
+Headline0: 
+
+----
+
+Intitule: Lettres et factures
+
+----
+
+Text: 
+
+----
+
+Headline1: 
+
+----
+
+Entetehautsite: 
+
+----
+
+Entetehaut: 
+
+### www.appea.fr 
+**Siège administratIf & courrier**
+Les Arcades - 52/54, bd Gallieni 92130 Issy-les-Moulineaux
+**Siège social**
+32 rue Yves Toudic 75010 Paris
+
+----
+
+Destinataire: 
+
+----
+
+Entetebas: 

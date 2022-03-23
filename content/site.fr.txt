@@ -27,18 +27,21 @@ Socialnetworks:
 - 
   icon: fa-facebook
   link: 'https://fr-fr.facebook.com/Association-des-classes-pr%C3%A9paratoires-publiques-aux-%C3%A9coles-dart-appea-1445452075695441/'
+- 
+  icon: fa-instagram
+  link: https://www.instagram.com/reseau.appea/
 
 ----
 
-Copyright: © APPÉA 2017
+Copyright: © APPÉA 2021
 
 ----
 
 Mentions: 
 
-Les écoles membres du réseau APPÉA sont agréées par le Ministère de la Culture et de la Communication. L’association APPÉA est soutenue par le Ministère de la Culture et de la Communication et par la Fondation d’entreprise Culture & Diversité.
+Les écoles membres du réseau APPÉA sont agréées par le ministère de la Culture. L’association APPÉA est soutenue par le ministère de la Culture et par la Fondation d’entreprise Culture & Diversité.
 
-L’APPÉA est également en lien avec l’ANdÉA (Association Nationale des Écoles supérieures d’Art).
+L’APPÉA est membre associé de l’ANdÉA (Association Nationale des Écoles supérieures d’Art).
 
 ----
 
@@ -50,4 +53,4 @@ Logosquare: logo_block.svg
 
 ----
 
-Construction: Ce site est actuellement en construction
+Construction: 

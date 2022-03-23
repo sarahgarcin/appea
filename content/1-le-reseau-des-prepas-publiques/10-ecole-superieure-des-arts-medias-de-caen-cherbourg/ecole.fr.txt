@@ -4,12 +4,17 @@ Title: Cherbourg
 
 Adresse: 
 
+**École supérieure d’arts et médias 
+de Caen/Cherbourg (ESAM)**
 61 rue de l’Abbaye 
 50100 Cherbourg-en-Cotentin
 
 T. 02 14 37 25 00
 (email: info@esam-c2.fr text: info@esam-c2.fr)
-(link: http://www.esam-c2.fr/-classe-preparatoire text: www.esam.fr popup: yes)
+(link: https://www.esam-c2.fr/-Prepa- text: www.esam.fr popup: yes)
+
+FB : (link: https://www.facebook.com/esamCaenCh/ text: @esamCaenCh popup:yes)
+I : (link: https://www.instagram.com/esamcaench/ text: @esamcaench popup:yes)
 
 ----
 
@@ -18,26 +23,27 @@ Infos:
 **Direction : Arnaud Stinès**
 **Responsable de la classe préparatoire : Matthieu Layeillon**
 
-Année de création classe préparatoire : **2012**
-Nbre de classe : **1 classe divisée en 2 groupes**
-Nbre élèves : **30 à 40 élèves**
+Année de création : **2012**
+Nbre de classe(s) : **1 classe divisée en 2 groupes**
+Nbre d'étudiants par classe : **30 à 40 élèves**
 
-**Tarif 2017-2018 :** 620 €
+Tarif 2021-2022 : **660 €**
 
 ----
 
 Calendrier: 
 
-**Journée portes ouvertes**
-samedi 10 février 2018, de 10h à 18h
+**Journée Portes Ouvertes 2022**
+samedi 5 février 2022, de 10h à 18h
 
-**Début des inscriptions** : lundi 15 janvier 2018
+**Début des inscriptions**
+à partir du jeudi 20 janvier 2022 (inscription en ligne)
 
-**1ère session d'admission** (dépôt de candidature jusqu’au 3 mai) 
-du lundi 14 au mercredi 16 mai 2018
+**1ère session d’admission**  (dépôt de candidature avant le 11 mai)
+jeudi 19 et vendredi 20 mai 2022
 
-**2ème session d'admission** (inscription en ligne en cliquant (link: https://www.esam-c2.fr/admission-81 text: ici popup: yes) et dépôt de candidature jusqu’au 10 juillet) 
-jeudi 12 et vendredi 13 juillet 2018
+**2ème session d’admission**  (dépôt de candidature avant le 6 juillet)
+vendredi 8 juillet 2022
 
 ----
 
@@ -86,11 +92,14 @@ Cover:
 
 ----
 
-Contexte: L’ésam Caen/Cherbourg fait partie du réseau des 45 écoles supérieures d’art françaises. Sa classe préparatoire publique, la seule en Normandie, est située sur le site de Cherbourg. Les élèves de la prépa y côtoient les étudiants ainsi que les enfants et adultes inscrits aux ateliers tous publics. Ils y sont également à proximité immédiate d’une résidence comprenant 225 studios meublés où il leur est possible de loger, dans un environnement de type campus. La formation en prépa est assurée par une équipe d’artistes et théoriciens de l’ésam Caen/Cherbourg et par des intervenants extérieurs. Sorties culturelles et voyages d’études complètent les enseignements. L’admission en prépa se fait soit par concours, soit via une « passerelle » mise en place avec des lycées partenaires de l’Académie de Caen.
+Contexte: 
+
+(youtube: https://www.youtube.com/watch?v=6w6NTSrmI0U&feature=youtu.be&fbclid=IwAR16rg3hbcQJqsFzZFVlcQMPtYmYumWsYT-gQbC7MR2k-W-wuz-PEPM4dxs)
+L’ésam Caen/Cherbourg fait partie du réseau des 45 écoles supérieures d’art françaises. Sa classe préparatoire publique, la seule en Normandie, est située sur le site de Cherbourg. Les élèves de la prépa y côtoient les étudiants ainsi que les enfants et adultes inscrits aux ateliers tous publics. Ils y sont également à proximité immédiate d’une résidence comprenant 225 studios meublés où il leur est possible de loger, dans un environnement de type campus. La formation en prépa est assurée par une équipe d’artistes et théoriciens de l’ésam Caen/Cherbourg et par des intervenants extérieurs. Sorties culturelles et voyages d’études complètent les enseignements. L’admission en prépa se fait soit par concours, soit via une « passerelle » mise en place avec des lycées partenaires de l’Académie de Caen.
 
 ----
 
-Pdf: fiche-ecole-appea-2018-cherbourg.pdf
+Pdf: fiche-ecole-appea-2022_cherbourg.pdf
 
 ----
 

@@ -10,7 +10,7 @@
 				else:
 					$link = $el->url();
 			endif; ?>
-	  	<li <?php e($el->isOpen(), ' class="active"') ?>>
+	  	<li class="menu-el<?php e($el->isOpen(), ' active') ?>">
 	  		<a href="<?php echo $link ?>" title="<?php echo $el->title()?>" data-menu="<?php echo $el->uri()?>">
 					<?php echo $el->title()->html()?>
 				</a>

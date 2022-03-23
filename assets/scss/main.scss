@@ -98,6 +98,24 @@ img{
 	}
 }
 
+.chiffres{
+	border: 1px solid red; 
+	padding: 0px 15px;
+	color: red;
+	margin-top: -20px;
+	margin-bottom: 20px;
+}
+
+.actualites{
+	background: red; 
+	padding: 5px 15px;
+	color: #FFF; 
+	margin-bottom: 40px;
+	.actualite:not(:last-child){
+		border-bottom: 1px solid #FFF;
+	}
+}
+
 .main-ecole{
 	margin-top:0;
 	top:0;
@@ -111,6 +129,23 @@ img{
 
 .module-logo{
 	position:fixed;
+}
+
+.docs-btn-wrapper{
+	margin-top: 20px;
+}
+
+.doc-btn{
+	background:red;
+	padding: 10px 5px;
+	text-align: center;
+	transform: translateX(-15%);
+	margin-top: 10px;
+	a{
+		color: #FFF;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
 }
 
 #hamburger {
@@ -191,7 +226,7 @@ img{
 	height:0;
 	transition: all 0.5s linear;
 	&.active{
-		height:70px;
+		height:120px;
 	}
 }
 
@@ -503,6 +538,11 @@ body[data-template="partenaires"]{
 
 @media print{
 
+	@page{
+		size: A4;
+		margin: 1cm; 
+	}
+
 	.show-for-print{
 		display:block;
 	}
@@ -513,10 +553,6 @@ body[data-template="partenaires"]{
 
 	body{
 		margin: 0;
-	}
-
-	@page{
-		margin: 1cm;
 	}
 
 	h1{
@@ -577,11 +613,11 @@ body[data-template="partenaires"]{
 			//padding-top: 6cm;
 		}
 
-		.site-print{
-			display: inline-block;
-			margin-bottom: 4cm;
-			margin-left: 4cm;
-		}
+		// .site-print{
+		// 	display: inline-block;
+		// 	margin-bottom: 4cm;
+		// 	margin-left: 4cm;
+		// }
 }
 
 	.site-print{
@@ -608,16 +644,30 @@ body[data-template="partenaires"]{
 		}
 	}
 	p{
-		font-size: 12.8px;
+		font-size: 11px;
 	}
 
 	.entete-adresse{
 		column-count: 2;
 		column-gap: 1cm; 
+		// height:100px;
 		p{
+			display: inline-block;
 			margin-top: 0;
 		}
 	}
+
+	.destinataire{
+		column-count: 2;
+		column-gap: 1cm; 
+		margin-top: 0.8cm;
+		// height:100px;
+		p{
+			display: inline-block;
+			margin-top: 0;
+		}
+	}
+
 	.footer{
 		.type-smaller{
 			p{font-size: 8pt; 
@@ -643,7 +693,7 @@ body[data-template="partenaires"]{
 
 
 .papeterie-mainContent{
-	margin-top: 2cm; 
+	margin-top: 1cm; 
 	.intitule{
 		p{
 			text-indent: 0;
@@ -652,7 +702,7 @@ body[data-template="partenaires"]{
 	p, li, a{
 		font-size: 12.8px;
 		text-align: justify;
-		text-indent: 30px;
+		//text-indent: 30px;
 		font-family: 'spectral', serif;
 	}
 }

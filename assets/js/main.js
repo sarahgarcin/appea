@@ -12,7 +12,7 @@ function init(){
 	  $('.main-content').addClass('loaded');
 	});
 
-	$('.menu li a').on('click', function(){
+	$('.menu li.menu-el a').on('click', function(){
 		if($(this).parents('li').find('.submenu').hasClass('active')){
 			$(this).parents('li').find('.submenu').removeClass('active');
 			$('.empty-submenu').removeClass('active');

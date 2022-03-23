@@ -3,3 +3,39 @@ Title: LE RÉSEAU DES PRÉPAS PUBLIQUES
 ----
 
 Text: 
+
+----
+
+Docs: 
+
+- 
+  text: Candidater
+  doc: carte-inscription-classes-2022-2023.pdf
+- 
+  text: Aller plus loin
+  doc: carte-inscription-classes-2022-2023.pdf
+
+----
+
+Chiffres: 
+
+En 2022, l'APPÉA c'est: 
+- 670 élèves formés aux concours des Écoles supérieures d'art et de design 
+- 97% de taux de réussite
+- Un coût moyen de 650€ par an
+
+----
+
+Actus: 
+
+- 
+  text: >
+    Samedi 19 mars, de 10h à 18h, Journées
+    Portes Ouvertes des écoles de Calais,
+    Belfort et Carcassonne.
+- 
+  text: >
+    L’APPÉA aura un stand au Salon
+    Studyrama au Parc des Expositions de
+    Versailles le samedi 27 mars 2022, de
+    10h à 19h. Venez nombreux !

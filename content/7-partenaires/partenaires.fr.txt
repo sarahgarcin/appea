@@ -7,13 +7,13 @@ Partenaires:
 - 
   title: Ministère de la Culture
   text: |
-    Le Ministère de la Culture participe au développement des pratiques et des enseignements artistiques. Il contribue, conjointement avec les autres ministres intéressés, à la définition et à la mise en œuvre de la politique d'éducation artistique et culturelle des enfants et des jeunes adultes tout au long de leurs cycles de formation.
+    Le ministère de la Culture participe au développement des pratiques et des enseignements artistiques. Il contribue, conjointement avec les autres ministres intéressés, à la définition et à la mise en œuvre de la politique d'éducation artistique et culturelle des enfants et des jeunes adultes tout au long de leurs cycles de formation.
     Il encourage les initiatives culturelles locales, développe les liens entre les politiques culturelles de l’État et celles des collectivités territoriales.
-    Depuis 2017, le Ministère de la culture apporte son soutien à l’APPÉA.
+    Depuis 2017, le ministère de la Culture apporte son soutien à l’APPÉA.
     De plus, dans le cadre du Décret n° 2017-718 du 2 mai 2017 relatif aux établissements d’enseignement de la création artistique, toutes les écoles membres de l’APPÉA bénéficie de l’agrément du ministère de la Culture permettant à leurs élèves de bénéficier des bourses.
     
     (link: http://www.culture.gouv.fr/ text: www.culture.gouv.fr popup: yes)
-  logo: logo-ministere.png
+  logo: logo_mc-web.jpg
 - 
   title: 'La Fondation Culture & Diversité'
   text: |
@@ -40,6 +40,8 @@ Partenaires:
     Créée en 1995, l’ANdÉA fédère 43 écoles supérieures d'art françaises sous tutelle du ministère de la Culture. Ces établissements d’enseignement supérieur et de recherche délivrant des diplômes nationaux de niveau Bac +3, Bac +5 et Bac +8, des 3e cycles et post-masters professionnels, sont représentés au sein de l’ANdÉA par plus de 200 membres issus de toutes les catégories d’acteurs : professeurs, étudiants, directeurs, administrateurs, chefs de services.
     Mettant en réseau des écoles territoriales et nationales de toutes envergures et de tous les territoires, l’ANdÉA est une plate-forme de réflexion, une instance de proposition et une force d’affirmation de la spécificité de l’enseignement supérieur artistique par la création. Elle défend un modèle de formation et de recherche singulier qui se caractérise par le primat de la référence au champ artistique contemporain, aux figures de l’artiste et de l’auteur et par une pédagogie fondée sur l’expérimentation, le jugement critique et le projet personnel de l’étudiant.
     
+    Depuis 2019, l'APPÉA est membre associé de l'ANdÉA.
+    
     (link: http://www.andea.fr/fr/home/ text: www.andea.fr popup: yes)
   logo: andea_logo_final_baseline.jpg
 - 
@@ -52,3 +54,13 @@ Partenaires:
     
     (link: http://www.cipac.net/ text: www.cipac.net popup: yes)
   logo: zs8.jpg
+- 
+  title: ANÉAT
+  text: |
+    L’Association Nationale des Écoles d’Art Territoriales de pratiques amateurs, l’ANÉAT, a été fondée en 2015 dans l’objectif de donner, au plan national, un cadre aux échanges entre les écoles d’art territoriales de pratiques amateurs en arts plastiques et visuels, de participer à la structuration de ces écoles très variées et nombreuses sur le territoire français et de devenir l'interlocutrice à part entière et clairement identifiée des associations professionnelles, des collectivités, des ministères, etc.
+    Les membres de cette association sont les collectivités territoriales, EPCC, EPCI, EPT, etc. qui délèguent leur représentation aux directrices et directeurs ou responsables de leurs écoles.
+    Cette caractéristique témoigne notamment de la détermination qu’ont les collectivités à porter des écoles de pratiques amateurs de qualité et de plain-pied avec les problématiques plus larges que celles de leurs seuls territoires, problématiques relevant des enseignements artistiques envisagés dans leur globalité.
+    L'ANÉAT et l'APPÉA échangent régulièrement et travaillent ensemble sur certains sujets comme celui de la formation et des enseignants.
+    
+    (link: https://www.aneat.fr text: www.aneat.fr popup: yes)
+  logo: logo-aneat-long.jpg

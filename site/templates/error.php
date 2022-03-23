@@ -31,7 +31,7 @@
 				<hr>
 				<?php snippet('credits')?>
 			</div>
-			<div class="module-menu-ecole col-xs-6 col-sm-4 col-md-4 col-lg-3 col-sm-offset-7 col-md-offset-6 col-xlg-offset-5 hide-for-small-only">
+			<div class="module-menu-ecole col-xs-6 col-sm-4 col-md-4 col-lg-3 col-sm-offset-7 col-md-offset-7 col-xlg-offset-5 hide-for-small-only">
 				<?php snippet('menu-ecole')?>
 			</div>
 		</main>

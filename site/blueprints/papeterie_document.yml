@@ -79,12 +79,14 @@ fields:
       en: Header
       fr: Haut du papier en-tête
     type: markdown
+    help: Séparer les colonnes par un saut de ligne
 
   destinataire:
     label:
       en: Recipient
       fr: Destinataire
     type: markdown
+    help: Séparer les colonnes par un saut de ligne
 
   entetebas:
     label:

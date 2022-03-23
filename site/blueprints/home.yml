@@ -1,0 +1,33 @@
+title: Home
+pages: false
+files: true
+fields:
+  title:
+    label: Titre
+    type:  text
+  docs: 
+    label: Documents
+    type: structure
+    entry: <b>{{text}}</b> <br> {{doc}}
+    help: Ajouter un nouveau bouton pour télécharger un document (s'affiche dans la colonne de gauche, sous le logo)
+    fields: 
+      text: 
+        label: Texte à afficher sur le bouton
+        type: text
+      doc: 
+        label: Document
+        type: selector
+        mode: single
+  chiffres: 
+    label: L'APPÉA en chiffres
+    type: markdown
+  actus: 
+    label: Actualités
+    type: structure
+    entry: {{text}}
+    fields: 
+      text: 
+        label: Texte
+        type: markdonw
+
+

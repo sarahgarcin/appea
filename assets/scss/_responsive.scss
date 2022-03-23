@@ -15,6 +15,13 @@
     max-width: 350px;
 	}
 
+  .docs-btn-wrapper{
+    position: absolute;
+    right: calc(-100% + 20px);
+    top: 7px;
+    font-size: 0.9em;
+  }
+
   .mobile-logo-ecole-menu{
     position:absolute;
     top:20px;
@@ -91,7 +98,7 @@
 	  	}
 
 	  }
-}
+  }
 	.empty-submenu.active{
 		height: 0;
 	}

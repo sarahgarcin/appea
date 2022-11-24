@@ -5,21 +5,24 @@ fields:
   title:
     label: Titre
     type:  text
-  titleCalendrier:
-    label: Intitulé calendrier
-    type:  text
-  titleContexte: 
-    label: Intitulé Contexte et spécificité
-    type: text
-  titleEnseignement:
-    label: Intitulé enseignement
-    type:  text
-  titleEquipement:
-    label: Intitulé équipement
-    type:  text
-  titleTemoignage:
-    label: Intitulé Témoignage
-    type:  text
+  # titleCalendrier:
+  #   label: Intitulé calendrier
+  #   type:  text
+  # titleContexte: 
+  #   label: Intitulé Contexte et spécificité
+  #   type: text
+  # titleEnseignement:
+  #   label: Intitulé enseignement
+  #   type:  text
+  # titleEquipement:
+  #   label: Intitulé équipement
+  #   type:  text
+  # titleTemoignage:
+  #   label: Intitulé Témoignage
+  #   type:  text
+  summary:
+    label: Résumé
+    type: markdown
   text:
     label: Texte
     type:  markdown

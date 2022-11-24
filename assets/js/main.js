@@ -39,21 +39,27 @@ function init(){
 	$(".rubrique h2").on('click', function(){
 		var $rubriqueInner = $(this).find('.rubrique-inner');
 		$('.rubrique').find('.rubrique-inner').removeClass('ecole-active');
+		$('.intro_see-more').show();
 		if(!$(this).parents('.rubrique').hasClass('active')){
 			$(".rubrique").removeClass('active');
 			$(this).parents('.rubrique').addClass('active');
-			// $('html,body').animate({
-	  //     scrollTop: $(this).offset().top - 30},
-	  //     800);
+			if($(this).parents('.rubrique').attr('data-key') == 1){
+				$('.intro_see-more').hide();
+			}
 		}
 		else{
 			$(this).parents('.rubrique').removeClass('active');
+			$('.intro_see-more').show();
 		}
 		if($('.rubrique[data-key=1]').hasClass('active') && $(".main-ecole").hasClass('loaded')){
 			$('.rubrique[data-key=1]').find('.rubrique-inner').addClass('ecole-active');
-		}
+		}		
+	});
 
-		
+	$('.intro_see-more').on('click', function(){
+		$(".rubrique").removeClass('active');
+		$(this).parents('.rubrique').addClass('active');
+		$('.intro_see-more').hide();
 	});
 
 

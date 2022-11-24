@@ -24,36 +24,39 @@ T. : 04 92 31 34 59
 (email: ecoleart@idbl.fr text: ecoleart@idbl.fr)
 (link: http://www.idbl.fr text: www.idbl.fr popup: yes)
 
-FB : (link: https://www.facebook.com/Idbl-Bild-1458785727710504/ text: @Idbl-Bild popup:yes)
-I :  (link: https://www.instagram.com/ecoledartidbl/ text: @ecoledartidbl popup:yes)
-
 ----
 
 Infos: 
 
-**Direction : Émeline Eudes**
+**Direction : Laurent Charbonnier**
 
-Année de création : **1983**
-Nbre de classe(s) : **1**
-Nbre d'étudiants par classe : **25 étudiants**
+Année de création classe préparatoire :** 1983**
+Nbre de classe :** 1**
+Nbre élèves par classe : **25 étudiants**
 
-Tarifs 2021-2022 : **entre 300 € et 350 €**
+**Tarifs 2017-2018 :** entre 300 € et 350 €
 
 ----
 
 Calendrier: 
 
-**Journées Portes Ouvertes 2022**
-du samedi 12 au samedi 19 mars 2022, de 9 h à 12 h et de 14h à 17h
+**Journées portes ouvertes**
+du vendredi 16 au samedi 24 mars 2018, de 10h à 12h et de 14h à 18h
+sauf vendredi et samedi jusqu’à 17h
 
-**Début des inscriptions** 
-lundi 17 janvier 2022
+**Début des inscriptions** : samedi 1er février 2018
 
-**1ère session d’admission** (dépôt de candidature avant le 29 avril)
-mardi 24 mai 2022
+**1ère session d'admission** (dépôt de candidature jusqu’au 12 mai) 
+mardi 22 mai 2018
 
-**2ème session d’admission** (dépôt de candidature avant le 1er juin)
-mardi 21 juin 2022
+**2ème session d'admission** (dépôt de candidature jusqu’au 4 juin) 
+mardi 12 juin 2018
+
+**3ème session d'admission** (dépôt de candidature jusqu’au 12 juillet) 
+vendredi 31 août 2018
+
+**Rentrée scolaire** (pré-rentrée lundi 3 septembre 2018)
+mardi 4 septembre 2018
 
 ----
 
@@ -97,14 +100,12 @@ Cover:
 
 Contexte: 
 
-(vimeo:https://vimeo.com/533892396)
-
 L’école d’art intercommunale de Digne est implantée depuis 2012, dans un bâtiment de plus de 1900 m2, conçu et équipé spécifiquement pour l’enseignement et la diffusion des arts visuels. Elle bénéficie d’un environnement culturel exceptionnel grâce à une politique de commande publique ambitieuse, pilotée par le CAIRN-centre d’art et le musée Gassendi, autour des problématiques art/nature, art/paysage, etc., autant d’institutions avec qui l’école collabore dans le cadre d’une programmation d’expositions, d’événements, de workshops et de conférences.
 Elle possède une galerie d’exposition, le BILD, lieu de programmation conventionnée avec le Frac PACA, dont les commissariats d’expositions sont assurés par les étudiants de la classe préparatoire dans le cadre de leurs cours de culture générale.
 
 ----
 
-Pdf: fiche-ecole-appea-2022_digne.pdf
+Pdf: fiche-ecole-appea-2018-digne.pdf
 
 ----
 

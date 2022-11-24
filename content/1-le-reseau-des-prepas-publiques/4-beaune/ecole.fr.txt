@@ -22,10 +22,7 @@ PMB – 6 boulevard Perpreuil
 
 T. : 03 80 24 56 96 / F. : 03 80 22 58 90
 (email: ecolebeauxarts@beaunecoteetsud.fr text: ecolebeauxarts@beaunecoteetsud.fr)
-(link: http://artbeaune.fr/ text: www.artbeaune.fr popup: yes)
-
-FB : (link: https://www.facebook.com/beauxartsbeaune/ text: @beauxartsbeaune popup:yes)
-I : (link: https://www.instagram.com/beauxartsbeaune/ text: @beauxartsbeaune popup:yes)
+(link: http://artbeaune.fr/ text: www.beaunart.com popup: yes)
 
 ----
 
@@ -33,25 +30,27 @@ Infos:
 
 **Direction : Samuel Mathieu**
 
-Année de création : **1966**
-Nbre de classe (s) :** 1**
-Nbre d'étudiants par classe : **26 étudiants**
+Année de création classe préparatoire :**1966**
+Nbre de classe :** 1**
+Nbre élèves par classe : **26 étudiants**
 
-Tarifs 2021-2022 : **780 €**
-**180 €** pour les élèves boursiers
+**Tarifs 2017-2018 :** entre 275 € et 530 €
 
 ----
 
 Calendrier: 
 
-**Journées Portes Ouvertes 2022**
-du 14 au 18 février 2022, de 10h à 17h
+**Journées portes ouvertes**
+du lundi 12 au vendredi 16 février 2018, de 10h à 18h
 
-**Début des inscriptions**
-lundi 10 janvier 2022
+**1ère session d'admission** (dépôt de candidature jusqu’au 30 mars)
+jeudi 5 et vendredi 6 avril 2018
 
-**Session d'admission** (date limite d’inscription au 15 avril)
-du mardi 17 au vendredi 20 mai 2022
+**2ème session d'admission** (dépôt de candidature jusqu’au 22 juin)
+jeudi 28 et vendredi 29 juin 2018
+
+**Rentrée scolaire**
+lundi 10 septembre 2018
 
 ----
 
@@ -79,15 +78,11 @@ Cover:
 
 ----
 
-Contexte: 
-
-(youtube:https://www.youtube.com/watch?v=ejeFQqq2Gdo)
-
-À l’école des Beaux-arts de Beaune se cotoient différents types de publics (classe préparatoire et pratiques amateurs enfants/adultes) à travers des échanges variés et des expositions. Depuis plusieurs années, l’école a ainsi développé plusieurs partenariats locaux avec les ateliers de cinéma de Claude Lelouch, le lycée agricole et viticole de Beaune et l’École des Beaux-Arts de Dijon. Elle a également signé une convention portant sur la création d’une plateforme des écoles d’arts publiques de Bourgogne-Franche-Comté afin de favoriser les rencontres entre étudiants. Chaque année, des workshops, des spectacles, des visites extérieures et des projections sont intégrés à l’emploi du temps de nos élèves.
+Contexte: À l’école des Beaux-arts de Beaune se cotoient différents types de publics (classe préparatoire et pratiques amateurs enfants/adultes) à travers des échanges variés et des expositions. Depuis plusieurs années, l’école a ainsi développé plusieurs partenariats locaux avec les ateliers de cinéma de Claude Lelouch, le lycée agricole et viticole de Beaune et l’École des Beaux-Arts de Dijon. Elle a également signé une convention portant sur la création d’une plateforme des écoles d’arts publiques de Bourgogne-Franche-Comté afin de favoriser les rencontres entre étudiants. Chaque année, des workshops, des spectacles, des visites extérieures et des projections sont intégrés à l’emploi du temps de nos élèves.
 
 ----
 
-Pdf: fiche-ecole-appea-2022_beaune.pdf
+Pdf: fiche-ecole-appea-2018-beaune.pdf
 
 ----
 

@@ -24,9 +24,6 @@ T. : 03 21 19 56 60
 (email: ecole.art@grandcalais.fr text: ecole.art@grandcalais.fr)
 (link: http://www.ecole-art-calaisis.fr text: www.ecole-art-calaisis.fr popup: yes)
 
-FB : (link: https://www.facebook.com/artcalaisis/ text: @artcalaisis popup: yes)
-Youtube : (link: https://www.youtube.com/channel/UC2fIMXQ3hXLLSt_-J-bu81A text: Le Concept Ecole Art du Calaisis popup: yes)
-
 ----
 
 Infos: 
@@ -34,33 +31,29 @@ Infos:
 **Direction : Stephen Touron**
 **Direction pédagogique de la classe préparatoire : Laurent Moszkowicz**
 
-Année de création :** 2014**
-Nbre de classe(s) :** 1**
-Nbre d'étudiants par classe : **20 à 30 étudiants**
+Année de création classe préparatoire :** 2014**
+Nbre de classe :** 1**
+Nbre élèves par classe : **20 à 30 étudiants**
 
-Tarifs 2020-2021 : **entre 600 € et 900 €**
+**Tarifs 2018-2019 :** entre 600 € et 900 €
 
 ----
 
 Calendrier: 
 
-**Journées d’information 2022**
-samedi 29 janvier et samedi 19 mars 2022, de 10h à 12h
+**Journées d'information**
+samedi 26 janvier et samedi 2 mars 2019, de 10h à 12h
 
-**Journée Portes Ouvertes 2022**
-samedi 19  mars 2022, de 12h à 17h
+**Journée portes ouvertes**
+samedi 2 mars 2019, de 10h à 17h
 
-**Début des inscriptions**
-lundi 31 janvier 2022
+**Début des inscriptions** : lundi 28 janvier 2019
 
-**1ère session d’admission** (dépôt de candidature avant le 15 avril)
-lundi 9 et mardi 10 mai 2022
+**1ère session d'admission** (dépôt de candidature jusqu’au 8 avril)
+jeudi 2 mai 2018
 
-**2ème session d’admission** (dépôt de candidature avant le 13 juin)
-lundi 4 et mardi 5 juillet 2022
-
-
-Les modalités d’organisation des épreuves d’admission, des réunions d’information comme de la journée « portes ouvertes » peuvent évoluer en fonction du contexte sanitaire (plus d’information sur (link: http://www.ecole-art-calaisis.fr text: www.ecole-art-calaisis.fr popup:yes))
+**2ème session d'admission** (dépôt de candidature jusqu’au 3 juin)
+jeudi 27 juin 2018
 
 ----
 
@@ -102,7 +95,7 @@ Enfin, les rencontres avec le milieu professionnel – notamment axées sur une 
 
 ----
 
-Pdf: fiche-ecole-appea-2022_calais.pdf
+Pdf: fiche-ecole-appea-2018_calais.pdf
 
 ----
 

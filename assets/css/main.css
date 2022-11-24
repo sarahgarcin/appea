@@ -2188,6 +2188,10 @@ img {
   margin-bottom: 40px; }
   .actualites .actualite:not(:last-child) {
     border-bottom: 1px solid #FFF; }
+  .actualites a {
+    color: #FFF; }
+    .actualites a:hover {
+      color: #FFF; }
 
 .main-ecole {
   margin-top: 0;
@@ -2356,6 +2360,11 @@ img {
   .rubrique:first-child.active .rubrique-inner {
     display: block; }
 
+.intro_see-more {
+  color: red;
+  cursor: pointer;
+  text-align: right; }
+
 .docs {
   padding: 0;
   margin-top: 10px;
@@ -2413,6 +2422,9 @@ img {
 
 .main-content .content-wrapper .infos-ecoles {
   word-wrap: break-word; }
+  .main-content .content-wrapper .infos-ecoles div {
+    padding-left: 0;
+    padding-right: 1em; }
   .main-content .content-wrapper .infos-ecoles p, .main-content .content-wrapper .infos-ecoles a, .main-content .content-wrapper .infos-ecoles li {
     font-family: 'Inter UI', sans-serif; }
 
@@ -2449,12 +2461,18 @@ footer li {
 footer p, footer li {
   font-size: 0.8em; }
 
-body[data-template="default"] h2, body[data-template="partenaires"] h2, body[data-template="visuels"] h2 {
+body[data-template="default"] h2,
+body[data-template="partenaires"] h2,
+body[data-template="visuels"] h2,
+body[data-template="ecole"] h2 {
   color: red;
   border-bottom: 1px solid red;
   padding-bottom: 20px; }
 
-body[data-template="default"] footer, body[data-template="partenaires"] footer, body[data-template="visuels"] footer {
+body[data-template="default"] footer,
+body[data-template="partenaires"] footer,
+body[data-template="visuels"] footer,
+body[data-template="ecole"] footer {
   margin-top: 50px;
   border-top: 1px solid #000;
   padding-top: 30px; }

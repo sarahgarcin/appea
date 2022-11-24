@@ -21,12 +21,8 @@ Adresse:
 90000 Belfort
 
 T. : 03 84 36 62 10
-(email: contact@ecole-art-belfort.fr text: contact@ecole-art-belfort.fr)
+(email: e.art@wanadoo.fr text: e.art@wanadoo.fr)
 (link: http://www.ecole-art-belfort.fr text: www.ecole-art-belfort.fr popup: yes)
-
-FB : (link: https://www.facebook.com/ecoledartdebelfort/ text: @ecoledartdebelfort popup: yes)
-I : (link: https://www.instagram.com/ecoledartdebelfort/ text: @ecoledartdebelfort popup: yes)
-Youtube : (link: https://www.youtube.com/channel/UCfCgAVqTuA7tVoOU6nmergQ text: Ecole d'art de Belfort popup: yes)
 
 ----
 
@@ -34,31 +30,26 @@ Infos:
 
 **Direction : Jean-Marie-Boizeau**
 
-Année de création : **1997**
-Nbre de classe : **1**
+Année de création classe préparatoire :**1997**
+Nbre de classe :**1**
 Nbre élèves par classe : **30 étudiants**
 
-Tarif 2021-2022 : **entre 200 € et 650 €**
+**Tarif 2017-2018 :** 550 €
 
 ----
 
 Calendrier: 
 
-**Journée Portes Ouvertes 2022**
-samedi 12 mars 2022, de 10h à 17h
+**Journée portes ouvertes**
+samedi 17 mars 2018, de 14h à 17h
 
-**Début des inscriptions**
-lundi 21 mars 2022
-// Télécharger le dossier de candidature sur le site de l'école
+**Début des inscriptions** : jeudi 1er février 2018
 
-**1ère session d’admission** (dépôt de candidature avant le 29 avril)
-lundi 9 et mardi 10 mai 2022
+**1ère session d'admission** (dépôt de candidature jusqu’au 27 avril)
+vendredi 4 mai 2018
 
-**2ème session d’admission** (dépôt de candidature avant le 3 juin)
-lundi 20 et mardi 21 juin 2022
-
-**3ème session d’admission** (dépôt de candidature avant le 29 août)
-lundi 5 septembre 2022
+**2ème session d'admission** (dépôt de candidature jusqu’au 1er juin)
+mardi 8 juin 2018
 
 ----
 
@@ -89,7 +80,7 @@ Contexte: La classe préparatoire est au cœur du projet de l'École de Belfort.
 
 ----
 
-Pdf: fiche-ecole-appea-2022_belfort.pdf
+Pdf: fiche-ecole-appea-2018-belfort.pdf
 
 ----
 

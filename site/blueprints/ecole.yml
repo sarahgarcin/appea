@@ -32,6 +32,9 @@ fields:
     label: Image de couverture
     type: selector
     mode: single
+  videocover:
+    label: Video de couverture
+    type: markdown
   adresse:
     label: Infos adresse
     type:  markdown

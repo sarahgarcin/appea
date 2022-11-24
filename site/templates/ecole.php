@@ -1,15 +1,21 @@
-<?php if(!kirby()->request()->ajax()):?>
-	<?php snippet('head') ?>
-<?php endif?>
+<?php snippet('head') ?>
 
-<div class="<?php if(!kirby()->request()->ajax()):?>row<?php endif?>">
-	<?php if(!kirby()->request()->ajax()):?>
-	<?php snippet('logo') ?>
-	<?php endif ?>
-	<div class="main-module <?php if(!kirby()->request()->ajax()):?>col-md-offset-2 col-xs-12 col-sm-12 col-md-6 col-lg-9<?php endif?>">
-		<?php if(!kirby()->request()->ajax()):?>
+<div class="row">
+		<div class="module-logo col-xs-5 col-sm-2 col-md-2 col-lg-2 hide-for-small-only">
+			<?php snippet('logo') ?>
+		</div>
+		<div class="show-for-small-only mobile-logo-ecole-menu row">
+			<div class="module-logo col-xs-6">
+				<?php snippet('logo') ?>
+			</div>
+		</div> 
+		<div class="show-for-small-only mobile-header col-xs-12">
+			<?php snippet('header') ?>	
+		</div> 
+	<div class="main-module col-sm-offset-2 col-xlg-offset-3 col-xs-12 col-sm-8 col-md-6 col-lg-9">
+		<div class="hide-for-small-only">
 			<?php snippet('header') ?>
-		<?php endif?>
+		</div>
 		<main class="row">
 			<div class="main-content main-ecole<?php if(!kirby()->request()->ajax()):?>col-xs-12 col-sm-12 col-md-6 col-lg-8<?php endif;?>">
 				<div class="content-wrapper ecole-wrapper">
@@ -17,6 +23,7 @@
 						<a href="<?php echo $site->url()?>" title=""><</a>
 					</div>
 						<p class= "site-print show-for-print">www.appea.fr</p>
+					<?php snippet('carte');?>
 					<h1><?php echo $page->title()->html()?></h1>
 					<?php if($page->pdf()->isNotEmpty()):?>
 						<a class="print-ecole" target="_blank" href="<?php echo $page->pdf()->toFile()->url();?>" title="">
@@ -28,6 +35,11 @@
 							<img src="<?php echo $page->cover()->toFile()->url()?>" alt="<?php echo $page->title() ?>">
 						</div>
 					<?php endif?>
+					<?php if($page->videocover()->isNotEmpty()):?>
+						<div class="image-wrapper">
+						<?php echo $page->videocover()->kt();?>
+						</div>
+					<?php endif;?>
 					<div class="infos-ecoles row">
 						<div class='col-xs-12 col-md-6'>
 							<?php echo $page->adresse()->kt()?>
@@ -71,9 +83,9 @@
 					<?php snippet('credits')?>
 				<?php endif ?>
 			</div>
-			<?php if(!kirby()->request()->ajax()):?>
-				<?php snippet('menu-ecole')?>
-			<?php endif ?>
+			<div class="module-menu-ecole col-xs-6 col-sm-4 col-md-4 col-lg-3 col-sm-offset-7 col-md-offset-7 col-xlg-offset-5 hide-for-small-only">
+				<?php snippet('menu-ecole')?>		
+			</div>
 		</main>
 	</div>
 </div>

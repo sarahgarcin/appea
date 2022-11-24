@@ -26,12 +26,7 @@ Adresse:
 
 T. : 01 40 85 67 40
 (email: embamanet@ville-gennevilliers.fr text: embamanet@ville-gennevilliers.fr)
-(link: https://www.ville-gennevilliers.fr/366/grandir/vie-etudiante/classe-preparatoire-aux-ecoles-superieures-d-art.htm  text: www.ville-gennevilliers.fr popup: yes)
-
-FB : (link: https://www.facebook.com/École-municipale-des-beaux-artsgalerie-Édouard-Manet-de-Gennevilliers-60811088352/ text: @ecole-municipale-des-beaux-artsgalerie-edouard-Manet-de-Gennevilliers popup:yes)
-I : (link: https://www.instagram.com/embamanet_prepapublique_art/ text: @embamanet_prepapublique_art popup:yes)
-
-Téléchargez la (link: https://www.ville-gennevilliers.fr/fileadmin/www.ville-gennevilliers.fr/MEDIA/4_sortir_et_bouger/les_equipements_culturels/manet/plaquette_classe-preparatoire-ecoles-sup-d-art2021-2022.pdf text: Plaquette 2021-2022 popup:yes)
+(link: http://www.ville-gennevilliers.fr/1523/ecole-municipale-des-beaux-arts-galerie-edouard-manet.htm text: www.ville-gennevilliers.fr popup: yes)
 
 ----
 
@@ -39,36 +34,28 @@ Infos:
 
 **Direction : Lionel Balouin**
 
-Année de création : **2004**
-Nbre de classe(s) : **1**
-Nbre d'étudiants par classe : **20 étudiants**
+Année de création classe préparatoire : **2004**
+Nbre de classe : **1**
+Nbre élèves par classe : **20 étudiants**
 
-Tarif 2021-2022 : **536,30 €**
-Les étudiants boursiers sont exonérés des droits d’inscription.
+**Tarif 2017-2018 :** 536,30 €
 
 ----
 
 Calendrier: 
 
-**Journée Porte Ouvertes 2022**
-samedi 19 mars 2022 de 10h à 18h
+**Journée portes ouvertes**
+samedi 10 mars 2018, de 10h à 18h
 
-**Début des inscriptions**
-samedi 5 février 2022
+**1ère session d'admission** (dépôt de candidature jusqu’au 15 avril) 
+du mardi 15 au vendredi 18 mai 2018
 
-**1ère session d'admission** (dépôt de candidature par mail avant le 4 avril)
-mardi 17, mercredi 18 et jeudi 19 mai 2022
-
-**2ème session d'admission** (dépôt de candidature par mail avant le 23 mai)
-lundi 4 et mardi 5 juillet 2022
+**2ème session d'admission** (dépôt de candidature jusqu’a mi-juillet) 
+fin août 2018
 
 ----
 
-Contexte: 
-
-(youtube:https://www.youtube.com/watch?v=OPj9trjUtn8&list=PLzDGpgwE4w92G3BX-m9SMpaqgja5-EJQU&index=1)
-
-La classe préparatoire aux écoles supérieures d’art de la ville de Gennevilliers s’inscrit dans le cadre des activités de l’école municipale des Beaux-Arts | galerie Édouard-Manet. Lieu d’enseignement et d’exposition, ses deux missions étroitement liées sont l’enseignement artistique et la diffusion de la création contemporaine. Partenaire privilégié de l’Éducation Nationale, l’EMBA Manet offre aussi une large palette d’ateliers d’arts plastiques pour les pratiques amateurs. De notoriété nationale, la programmation d’expositions à la galerie, les cartes blanches à des commissaires indépendants et l’accueil d’artistes en résidence favorisent la rencontre directe avec la création. Les expositions, les cycles de conférences et les workshops sont autant d’éléments stimulants pour les étudiants.
+Contexte: La classe préparatoire aux écoles supérieures d’art de la ville de Gennevilliers s’inscrit dans le cadre des activités de l’école municipale des Beaux-Arts | galerie Édouard-Manet. Lieu d’enseignement et d’exposition, ses deux missions étroitement liées sont l’enseignement artistique et la diffusion de la création contemporaine. Partenaire privilégié de l’Éducation Nationale, l’EMBA Manet offre aussi une large palette d’ateliers d’arts plastiques pour les pratiques amateurs. De notoriété nationale, la programmation d’expositions à la galerie, les cartes blanches à des commissaires indépendants et l’accueil d’artistes en résidence favorisent la rencontre directe avec la création. Les expositions, les cycles de conférences et les workshops sont autant d’éléments stimulants pour les étudiants.
 
 ----
 
@@ -87,7 +74,7 @@ Sacha Golemanas - Promotion 2012 / Diplômée de l’école nationale supérieur
 
 ----
 
-Pdf: fiche-ecole-appea-2022_gennevilliers.pdf
+Pdf: fiche-ecole-appea-2018-gennevilliers.pdf
 
 ----
 

@@ -9231,7 +9231,7 @@ function init(){
 	  $('.main-content').addClass('loaded');
 	});
 
-	$('.menu li a').on('click', function(){
+	$('.menu li.menu-el a').on('click', function(){
 		if($(this).parents('li').find('.submenu').hasClass('active')){
 			$(this).parents('li').find('.submenu').removeClass('active');
 			$('.empty-submenu').removeClass('active');
@@ -9257,18 +9257,28 @@ function init(){
 
 	$(".rubrique h2").on('click', function(){
 		var $rubriqueInner = $(this).find('.rubrique-inner');
+		$('.rubrique').find('.rubrique-inner').removeClass('ecole-active');
+		$('.intro_see-more').show();
 		if(!$(this).parents('.rubrique').hasClass('active')){
 			$(".rubrique").removeClass('active');
 			$(this).parents('.rubrique').addClass('active');
-			console.log($(this).parents('.rubrique'));
-			$('html,body').animate({
-	      scrollTop: $(this).offset().top - 30},
-	      800);
+			if($(this).parents('.rubrique').attr('data-key') == 1){
+				$('.intro_see-more').hide();
+			}
 		}
 		else{
 			$(this).parents('.rubrique').removeClass('active');
+			$('.intro_see-more').show();
 		}
-		
+		if($('.rubrique[data-key=1]').hasClass('active') && $(".main-ecole").hasClass('loaded')){
+			$('.rubrique[data-key=1]').find('.rubrique-inner').addClass('ecole-active');
+		}		
+	});
+
+	$('.intro_see-more').on('click', function(){
+		$(".rubrique").removeClass('active');
+		$(this).parents('.rubrique').addClass('active');
+		$('.intro_see-more').hide();
 	});
 
 
@@ -9312,9 +9322,13 @@ function init(){
 		$('.carte-nom-ecole[data-id='+id+']').removeClass('active');
 	});
 
+	var Zindex = 1;
 	$('.carte-nom-ecole').mouseenter(function(){
 		var id = $(this).attr('data-id');
-			$('.menu-ecole li[data-id='+id+']').addClass('active');
+		$('.menu-ecole li[data-id='+id+']').addClass('active');
+		Zindex++;
+		console.log(Zindex);
+		$(this).css({'z-index': Zindex});
 	});
 
 	$('.carte-nom-ecole').mouseleave(function(){
@@ -9362,6 +9376,20 @@ function init(){
 		};
 	}
 
+	$('#hamburger').on('click', function(){
+		if($(this).hasClass('checked')){
+			$(this).removeClass('checked');
+			setTimeout(function(){
+				$(".mobile-header").css('background', 'transparent');
+			}, 700);
+			
+		}
+		else{
+			$(this).addClass('checked');
+			$(".mobile-header").css('background', '#FFF');
+		}
+	});
+
 
 }
 
@@ -9372,6 +9400,8 @@ function openPage(url, target){
     success: function(data) {
       target.html(data).addClass('active').addClass('ecole-active');
       $('.main-ecole').addClass('loaded');
+      var ecoleName = target.find('h1').text();
+      $(".ecole-name-ajax").html(ecoleName);
     }
   });
 }

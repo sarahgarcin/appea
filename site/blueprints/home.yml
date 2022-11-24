@@ -28,6 +28,6 @@ fields:
     fields: 
       text: 
         label: Texte
-        type: markdonw
+        type: markdown
 
 

@@ -23,7 +23,7 @@
 				<div class="content-wrapper">
 					<?php foreach($pages->visible()->slice(0,3) as $rubrique):?>
 						<?php $count ++ ?>
-						<div class="rubrique<?php if($count==1):?> active<?php endif?>" data-key=<?php echo $count?>>
+						<div class="rubrique" data-key=<?php echo $count?>>
 							<h2 id="<?php echo $rubrique->uid()?>">
 								<?php echo $rubrique->title()->html() ?>
 							</h2>
@@ -33,9 +33,6 @@
 						    $files = call_user_func_array(array($rubrique->files(), 'find'), $filenames);?>
 						    <div class="rubrique-inner">
 								  <div class="rubrique-content">
-								  	<?php if($rubrique->hasChildren()):
-								  		snippet('carte'); 
-								  	endif; ?>
 								  	<?php echo $rubrique->text()->kt() ?>
 								  </div>
 
@@ -70,8 +67,15 @@
 								
 								</div>
 							<?php else:?>
+								<?php if($rubrique->hasChildren() && $count==1):?>
+									<div class="rubrique-intro">
+							  		<?php snippet('carte'); 
+							  		echo $rubrique->summary()->kt(); ?>
+							  		<p class="intro_see-more">↓ En savoir plus</p>
+								  </div>
+							  <?php endif; ?>
+						    
 								<div class="rubrique-inner">
-									<?php snippet('carte'); ?>
 									<?php echo $rubrique->text()->kt() ?>
 								</div>
 							<?php endif?>

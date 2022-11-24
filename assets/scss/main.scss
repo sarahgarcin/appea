@@ -132,6 +132,10 @@ img{
 	.actualite:not(:last-child){
 		border-bottom: 1px solid #FFF;
 	}
+	a{
+		color: #FFF;
+		&:hover{color: #FFF;}
+	}
 }
 
 .main-ecole{
@@ -374,6 +378,12 @@ img{
 	}
 }
 
+.intro_see-more{
+	color: red;
+	cursor: pointer; 
+	text-align: right;
+}
+
 .docs{
 	padding: 0;
 	margin-top: 10px;
@@ -452,6 +462,7 @@ img{
 
   .main-content .content-wrapper .infos-ecoles{
   	word-wrap: break-word;
+  	div{padding-left: 0; padding-right: 1em}
   	p, a, li{
   		font-family: 'Inter UI', sans-serif;
   	}
@@ -500,7 +511,10 @@ footer{
 	}
 }
 
-body[data-template="default"], body[data-template="partenaires"], body[data-template="visuels"]{
+body[data-template="default"], 
+body[data-template="partenaires"], 
+body[data-template="visuels"], 
+body[data-template="ecole"]{
 	h2{
 		color: red;
 		border-bottom: 1px solid red;
